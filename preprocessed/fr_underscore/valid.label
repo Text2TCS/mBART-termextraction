@@ -1,0 +1,2328 @@
+sport_équestre	sports_équestres	disciplines_équestres	hippiques
+formation	sports_équestres	centre_équestre
+
+jeux_olympiques	dressage	concours_complet	équitation	saut
+sports_équestres	sports_équestres	attelage	chevaux	grooms
+attelage	attelage	hippomobile
+concours_complet	équitation	cce	complet	concours_complet	concours
+épreuve_de_dressage	saut	hippique	concours_complet	doma_vaquera	équitation
+dressage	dressage	équitation	juge	cavalier	cheval
+apprentissage	équitation	dressage	endurance	cheval
+équitation	montée	arabes	équitation_camargue	équitation_camargue	chevaux_camargue	épreuves	dressage	équitation_islandaise	équitation	cheval_islandais
+allures	tölt	amble
+équitation	western	équitation	équitation
+
+reining	gymkhana	horse-ball	équestre
+cavaliers
+horse-ball	équitation
+
+récupération	descendre	cheval
+hunter	états-unis	saut	dressage	couple_cavalier-cheval	monte_en_amazone	équitation	cavalier	jambes	cheval	oulak	équestre
+cavaliers
+polo	sport_équestre	cavaliers	polocrosse	polo	lacrosse
+légère	élastique
+pony_games	mounted_games	épreuves	cavaliers	preuve	remonter	cheval	galop
+équestre	cheval	équitation
+activité	équestre	rodéo_chilien	chili
+huasos	montés	chevaux	arrêter
+saut	discipline_équestre	cavalier	monture	saute
+règles	ski_joëring	cheval
+trec	trec	techniques_de_randonnée_équestre_de_compétition
+cheval	épreuves	voltige_en_cercle	équitation	gymnastique	figures	cheval	allures
+voltige_cosaque
+figures
+sports_équestres	jeux_olympiques	dressage	concours_complet	équitation	saut
+jeux_olympiques	saut	saut
+jeux_olympiques	voltige
+jeux_olympiques	concours_complet	épreuves	steeple-chase	routier
+concours
+jeux_équestres_mondiaux	fédération_equestre_internationale	fei	attelage	reining	équitation	western	endurance	voltige
+horse-ball	statut
+fei	jeux_olympiques
+jeux_équestres_mondiaux	jem
+aix-la-chapelle	allemagne
+lexington	états-unis
+jeux_équestres	normandie	caen
+tryon	états-unis
+dressage	équitation	dressage	équitation	couple_cheval-cavalier
+équitation_classique	équitation
+
+dressage
+légèreté	décontraction	impulsion	cheval	équitation
+dressage	mouvements	cheval
+dressage	cheval	cavalier
+cheval	formation	mouvements	grand_prix	dressage	passage	piaffer	airs_au-dessus_du_sol
+faverot_de_kerbrech	dressage	cheval_de_selle	monter	régulier	allures
+monter	régulier	allures	équilibré	léger_à_la_main	jambes	droit	épaules
+activité	cheval	comportements	arrêter	voix	appel_de_langue	mouvements	mains	jambes	débourrage
+changement_de_pied_au_temps	f._baucher	claude_bourgelat	le_nouveau_newcastle	baucher	cheval	grand_galop	change	temps	action	amble
+galop
+chevaux	dressage	races	airs_au-dessus_du_sol	lipizzan	pure_race_espagnole
+races	haute_école	frison	lusitanien
+grandes_écoles_de_dressage_classique	cadre_noir	france	école_espagnole	équitation	vienne	autriche	art_équestre	jerez_de_la_frontera	espagne	art_équestre	lisbonne	portugal
+formateurs	dressage_classique	art_équestre	nuno_oliveira
+équitation_classique	équitation_classique	art_équestre	équitation	grèce	règles
+mouvement
+équitation_classique	chevaux	équilibre	harmonie
+monte
+cavalier	apprentissage	aides	cheval
+équitation_classique	xénophon	équitation_classique	hippiques	xénophon
+
+équitation	dresser	chevaux
+équitation_classique	aides	cheval	allures	tirer_la_bouche	éperon	fouet	cheval
+cheval	marcher	bride_lâche	cou	courbant	tête
+preuve	chevaux	juments	cou	ramène	tête	jambes	souplesse	queue
+allure	allure
+descente_de_main	cou	rendre_la_main	montés	chevaux	manier	air
+cheval
+équitation	cavalerie	cavalerie
+
+gutenberg
+
+europe
+italie	naples	ferrare	académies_équestres
+naples	grèce
+rené	alphonse
+équitation	espagne	cheval	espagne	équitation	cheval
+federico_grisone	équestre	gli_ordini_di_cavalcare	équitation	langues	europe
+frederic_grison
+cesare_fiaschi	ferrare	équitation
+ferrare	emboucher	manier	ferrer	chevaux
+france	henri_ii
+gianbatista_pignatelli	cesare_fiaschi	naples
+europe
+écuyers	salomon_de_la_broue	antoine_de_pluvinel
+france	équitation
+équitation	françois_ier	italie	rênes	plein_les_mains
+cour	france	catherine_de_médicis
+italie	naples
+henri_ii	équitation
+henri_iii	écuyer	m._de_sourdis	chevaux	italie
+sourdis	antoine_de_pluvinel	gianbatista_pignatelli
+salomon_de_la_broue	écuyer	grande_écurie_du_roi	françois	équitation	écuyer
+écuyer	dressage	cheval
+france	équitation_académique
+antoine_de_pluvinel	écuyer	henri_iii	henri_iv	paris	exercice	monter_à_cheval
+équitation	formation
+équitation
+europe
+vosges	louis_xiii	anne	autriche	antoine_de_pluvinel
+équitation
+antoine_de_pluvinel	le_maneige_royal	ami	menou_de_charnizay	exercice	monter_à_cheval	école_de_versailles	versailles	écurie	grande_écurie_du_roi
+france	italie
+équitation
+pluvinel	newcastel	antoine_de_pluvinel
+dresser	chevaux	william_cavendish	newcastle	angleterre	art_équestre
+enrênements	équitation	europe	équitations
+école_de_versailles
+
+chiron	cavalier	cheval
+achille
+
+
+
+équitation
+équitation	école_de_versailles
+françois_robichon_de_la_guérinière	rue_de_tournon	paris
+françois_robichon_de_la_guérinière	écuyer	manège_des_tuileries	versailles
+école_de_cavalerie
+cheval	françois_robichon_de_la_guérinière	charles_parrocel
+équestre	cheval
+chevaux	cheval
+bouche	hanches	chevaux
+langues	équitation_classique	école_de_vienne
+équitation	charles_dupaty_de_clam
+équitation
+équitation	montfaucon_de_rogles	écuyer	école_de_versailles
+auteur	françois_robichon_de_la_guérinière
+vote	sociétés
+école_de_versailles
+versailles	équitation	équitation_classique	laisser_flotter_les_rênes	cheval	marchait
+cheval
+louis_xv	cavalerie	maurice_de_saxe	cavalerie
+cavalerie	cavaliers
+équitation_classique	cour	cavalerie
+équitation	équitation
+versailles	manège	équitation
+manège	mis	françois_de_lubersac	montfaucon_de_rogles
+jacques	auvergne	écuyer	paris	équitation
+rassemblé	chevaux	filet	sur_la_main
+france	écuyers	école_de_versailles
+cheval	pur_sang_anglais	équilibre	épaules	allures	chevaux	barbes	équitation
+école_de_versailles
+equitation_classique	école_de_cavalerie	saumur	équitation	équitation
+écuyer	françois_baucher	dressage	chevaux	pur_sang	versailles
+manège	versailles	abzac
+charles_x	école_de_cavalerie	saumur
+jean-baptiste_cordier	écuyer	école_de_cavalerie	sauts	versailles
+école_de_versailles
+françois_baucher	équitation
+équitation	aubert	école_de_versailles
+géricault	baucher	antoine	aure	écuyers	paris
+
+aure	allures	sur_la_main
+baucher	rassembler	engagement	postérieurs	sous_la_masse	encolure
+antoine	aure	écuyer	école_de_cavalerie	sauts	cabriole	école_de_versailles
+baucher	victime	manège	cheval	pied
+
+main	jambes	jambes	main
+mouvement	encolure	ramener	baucher	françois_faverot_de_kerbrech	étienne_beudant
+équitation_classique	épaule_en_dedans	épaule_en_dedans	assouplir	chevaux	la_guérinière	de_pluvinel	volte	cercle	pistes	de_la_broue	newcastle	cercle	tête_en_dedans	cheval
+la_guérinière	tête	épaules	cheval	manège	marcher	en_avant	mur	rêne	jambe	chevaler	jambe	jambe
+rassembler	ramener	équilibre	cheval	monté	masse
+équilibre	cheval	rassembler
+rassembler	bascule	bassin	masse	avancée_des_postérieurs	bras_de_levier	tête-encolure	antérieurs	encolure	position	ramener
+ramener	tête	encolure	nuque
+complet	chanfrein	verticale
+mise_dans_la_main	mise_dans_la_main	équitation_classique
+samuel_fouquet_de_beaurepaire	écuyer	écurie	cavalier	cheval	dans_la_main	rênes	tête	ramène	porte_haut	nez	baisse	bouche	main	poignet	bride	tête	col	mouvement	poignet	mors
+mise_dans_la_main	main	cavalier	mouvement	tête	bouche	cheval
+cavalier	main	cheval	cède	encolure	nuque
+main	cavalier	bouche	cheval	bouche	cheval	main	cavalier
+mise_en_main	mise_sur_la_main
+descente_de_main	descente_de_main	la_guérinière	aide	cavalerie
+
+rendre_la_main	rassembler	rênes
+cheval
+airs_classiques	airs	allures_de_haute_école	airs_près_de_terre	airs_relevés
+
+airs_près_de_terre	airs_bas	airs_près_de_terre	passage	galopade	volte_sur_deux_pistes	pirouette	terre-à_terre	mézair
+airs_près_de_terre	de_la_guérinière	passage	galopade	volte	pirouette	terre-à_terre	mézair	airs_relevés	sauts	airs_relevés	sauts	airs_bas	mouvements	cheval	avant-main	avant-main	arrière-main
+airs	sauts	pesade	courbette	croupade	balotade	cabriole
+airs_relevés	de_la_guérinière	pesade	courbette	croupade	balotade	cabriole	mouvements	cheval	airs
+cheval
+
+cabrioles	cheval	mouvement	cheval	cavalier
+équitation_classique	europe	france	équitation_classique	équitation	équitations
+europe	équitation	équitation	écuyers	eisenberg	allemagne	andrade	marialva	portugal	france	enrênements	newcastel
+rassembler	tête-encolure	sur_la_main	cavalier	dressage	main	mouvement	tête	bouche	cheval	équitation
+enrênements
+écuyers	newcastel	eisenberg	andrade	espagne	portugal	équitation_tauromachique	équitation_classique
+autriche	école_de_vienne	équitation_classique	dressage	françois_robichon_de_la_guérinière	école_de_cavalerie
+sauts	vienne	équitation_classique	levade	pesade	croupade	ballotade	cabriole	airs_relevés	airs_relevés	figures_de_dressage	haute_école	équitation	cheval	avant-main	courbette	pesade	balotade	cabriole
+techniques
+équitation	cadre_noir	école_espagnole	vienne
+airs_relevés	chevaux	mouvement	formation
+courbette	courbette_classique	école_de_versailles	levade	postérieurs	expression	rassembler	cheval
+cadre_noir	cheval	antérieurs	ployés	pesade	école_de_versailles
+cheval	rassembler	courbette
+cavalier	chausse	étrier	position	verticale
+courbette_viennoise	cheval	jarrets	pesade
+postérieurs
+école_espagnole	vienne	ecole_royale_andalouse
+levade	pesade	levade	cheval	postérieurs
+pesade	porte-à-faux	cheval
+croupade	cabriole	croupade	saumur	cheval	rue	pied	antérieurs
+vienne
+croupade_classique	groupade	école_de_versailles	vienne
+mouvement	cheval	air	postérieurs	sous_sa_masse	antérieurs
+cabriole	saumur	école_de_vienne	cheval	terre-à-terre	avant-main	postérieurs	ruade	postérieurs	saut	cabri
+saut	cadre_noir
+ballotade	figure	croupade	cabriole	cabriole	cheval	rue	fers	ruer
+mézair	levade	cheval
+races	airs_relevés	chevaux_baroques	airs_relevés	figures	hohe_schule	lipizzans
+pure_race_espagnole	lusitanien
+ludwig_koch	airs_relevés	école_espagnole	vienne	ballotade	croupade	courbette	levade	cabriole	arrêts	test	étape_1	chevaux	test	main
+exercices	rassemblés
+galop	galop	changements_de_pied
+cavaliers	séries_de_changements_de_pied	tests	cheval	débourré
+
+cheval	prix	cavaliers
+chevaux	cavaliers
+cheval	exercices	haute_ecole	grand-prix
+cavaliers	chevaux	exercices	cheval
+exercice	action	cavalier	cheval
+cheval	exercice
+chevaux	harmonieuse	main	cavalier	rectitude	impulsion	airs_rassemblés
+sauts	airs_relevés	carrousels
+cavaliers	en_selle	dressage	cheval
+sauts
+cheval	soumission	cavaliers	sauts
+
+
+airs_relevés	saumur	courbette	croupade	cabriole
+cabriole	sauts
+saumur	sauts	étriers
+courbette	équilibre	hanches	cheval	avant-main	antérieurs	postérieurs
+position
+croupade	cavalier	cheval	monte	croupe
+touché_par_la_cravache	ruade	postérieurs
+cabriole	cheval	terre-à-terre	avant-main	postérieurs
+cravache	ruade	postérieurs	saut	cabri
+cabriole	saut	saumur
+épaule_en_dedans	exercice_de_deux_pistes	cheval	latéralement	infléchi	nuque	queue
+cheval	extérieur_du_pli	intérieur_du_pli
+allures
+épaule_en_dedans	assouplir	cheval
+hanches	engager	postérieurs
+cheval	avant_main
+soumettre	cheval
+décontracter	cheval
+exercice	équitation	nuno_oliveira	épaule_en_dedans	cheval	la_guérinière	cheval	cheval	marcher	ployé	nuque	queue	cheval
+épaule_en_dedans	pli	intérieur	tête
+encolure	épaules	cheval
+cheval	se_contracte	tête	relaxer
+épaules
+cheval	harmonieux	décontracté	actif	exercice
+aides	main_intérieure	pli	épaule_extérieure	cavalier	rêne_extérieure	rêne_intérieure
+jambe_intérieure	à_la_sangle	jambe_extérieure
+cavalier	épaules	cheval
+cavalier	coude	extérieur
+épaule_en_dedans	aides_intérieures	aides_extérieures
+foulée	aides_extérieures	rêne_extérieure
+appuyers	appuyer	épaule_en_dedans
+encolure	rêne_extérieure	jambe_intérieure	à_la_sangle	impulsion	action	jambe	cheval	cède
+apprentissage	reculer	cheval
+cheval	épaule_extérieure
+pli_intérieur	jambe_intérieure	rêne_intérieure	contact	extérieur
+contact_de_la_rêne_extérieure	activité	postérieur_externe
+cheval	fesse_intérieure	fesse_extérieure	foulée
+cheval	se_contracte	tête	relaxez
+flexion	cheval	transition	épaule_en_dedans	appuyer	épaule_en_dedans
+cheval	postérieur_interne	épaule_extérieure
+apprentissage	cheval	épaule_en_dedans	exercice	cheval	en_avant	cadence
+souple	relaxé	cheval	incurvé	cercle
+passage	coin
+grand_côté	volte	légère	ouverture_de_la_rêne_intérieure	encadrement_par_la_rêne_extérieure	jambe_intérieure	à_la_sangle	jambe_extérieure
+nez	nuque	encolure	épaules	intérieur	volte	cheval	grand_côté	main_extérieure	temps	main_intérieure	extérieur	main_intérieure	épaule_extérieure	cavalier
+baguette	épaule_intérieure	cheval
+jambe_intérieure	à_la_sangle	impulsion	jambe_extérieure	hanches
+épaule_en_dedans	cercle	récompensez
+
+tact	grand_côté
+apprentissage	beudant	récompenser
+main_intérieure	mouvements	mains	amples	pli	main_extérieure
+
+
+coins	épaule_en_dedans	baguette	épaule_intérieure
+épaule_en_dedans	épaule_extérieure	cheval	cheval	postérieur_interne
+foulées
+contractions	cercle	décontractez	coin
+cheval	épaule_en_dedans	trot	cadence
+mur	volte	ligne_médiane	grand_côté	pli
+appuyer	apprentissage	épaule_en_dedans
+epaule_en_dedans	epaule_en_dedans	pistes
+épaule_en_dedans
+
+épaule_en_dedans	exercice	pistes	figures
+figure	travail_sur_3_pistes	épaule_en_dedans	figure	travail_sur_4_pistes	épaule_en_dedans	figure	pistes	épaule_en_dedans
+figure	piste
+épaule_en_dedans	pistes	épaule_en_avant
+
+épaule_en_dedans	appuyer	travail_de_2_pistes	épaules	hanches	cheval	piste
+épaule_en_dedans	exercice	travail_en_deux_pistes	épaules	cheval	cheval
+épaules	cheval	épaule_en_dedans	pistes	piste
+épaules	cheval	postérieur_externe	piste	postérieur_interne	antérieur_externe	piste	antérieur_interne	piste	travail_sur_3_pistes
+épaule_en_dedans	exercice	pistes	pistes
+exercice	peine	épaules	peine	travail_de_3_pistes	épaule_en_avant
+épaule_en_dedans
+cheval	épaules_devant	hanches	encolure	ployée	épaule_en_dedans	travail_sur_2_pistes	épaules	hanches	cheval	piste	cavaliers	épaule_en_dedans
+cheval	impulsion	épaule_en_dedans	cheval	exercice	impulsion	relaxation
+cercles	cheval	incurvé	relaxé	équilibre	cadence	impulsion	cercle	somme
+cheval	épaule_en_dedans
+incurvation	coin	grand_coté
+souplesse	cheval	genoux	impulsion
+
+changez	cheval	équilibre	impulsion
+
+nuque	cheval	impulsion
+cheval	équilibre	mains	cheval
+épaule_en_dedans	mains	buste	équilibre	fesses	estomac	en_avant
+aides_intérieures	aides_extérieures
+foulées	épaule_en_dedans	impulsionnées	cercle	cheval	actif	épaule_en_dedans	exercice
+épaule_en_dedans	cercle	piste	cercle
+descentes_de_mains
+principal	équilibre	cheval	peser_sur_une_épaule	cadence	impulsion
+cheval	tête	intérieur	main_intérieure
+équilibre	rêne_intérieure	rêne_extérieure	cheval	équilibre
+épaule_en_dedans	main_intérieure	rêne_extérieure
+buste	mains
+pli	cheval
+cheval	léger	pli	régulier	nuque	queue	incurver	jambe_intérieure	à_la_sangle
+souplesse	dressage
+cheval	droit	pli	garrot	nuque
+épaule_en_dedans	exercice	épaule_en_dedans
+cheval	contractions	nuque	encolure
+épaule_en_dedans	épaule_en_avant
+épaule_en_avant	épaule_en_dedans
+cheval	paroi	léger
+cheval	contractions	épaule_en_avant	épaule_en_dedans
+épaule_en_dedans	monitrice	mains
+mains	mouvement	épaule_en_dedans
+mains	extérieur	sens_du_mouvement	cheval	passage	coin	cercle
+cheval	épaule_en_dedans
+ramenant	mains	intérieur	mouvement
+temps	jambe_intérieure	foulée	à_la_sangle	jambe_extérieure	hanches	extérieur
+mouvements	épaule_en_dedans
+épaules	action	épaules	sens_du_mouvement
+mains	épaule_en_dedans
+cheval	équilibre	léger	stable	mains	descente_de_mains	épaule_en_dedans	cheval
+cheval	épaule_en_dedans
+exercice
+cheval
+cheval	épaule_en_dedans
+épaule_en_dedans	apprentissage
+cheval	épaule_en_dedans	exercice	cheval	équilibre	relaxé	cadence
+cercles	cheval	relaxé	pli
+passage	coin	exercice	coin
+foulées	cercle
+trot	exercice
+aides
+volte	cheval	épaules	mains	épaule_extérieure
+action	buste	redresser
+jambe_intérieure	à_la_sangle
+jambe_intérieure	reculer	inciter	cheval
+foulées	épaule_en_dedans	cercle	grand_côté
+aides	équilibrées	cheval	force_la_main
+main	légère
+aides	main_intérieure	action
+equilibrez	aides
+cheval	gymnastiqué	ployer_latéralement
+cercles	changeant	main
+longe	pli	enrêné	rênes_fixes	rênes_fixes
+
+exercice	cheval	relaxé
+allures
+aides	récompensez	cercle	foulées	travail_de_deux_pistes
+cavalier	sens_du_déplacement	cheval	intérieur	incurvation	épaule_en_dedans
+
+règle	sens_du_déplacement
+appuyer	hanches	coude	intérieur	pli	cheval	sens_du_mouvement
+épaule_en_dedans	légère	étrier_interne	pli	cheval	postérieur_interne	épaule_extérieure
+
+épaule_en_dedans	fesse_intérieure	fesse_extérieure
+
+cheval
+torsion_de_nuque	épaule_en_dedans	épaule_en_dedans	cheval	épaule_en_dedans	main_droite	léger	posé_sur_la_main	nuque	oreille	oreille	nez	nuque_tordue	épaule_en_dedans
+nuque_tordue
+épaule_en_dedans	appuyer	exercices
+aides
+résistance	aides	équilibre	exercice
+épaule_en_dedans	torsion_de_la_nuque	extérieur	équilibre	action	rênes
+rêne_intérieure	cheval
+épaule_extérieure
+équilibre	mains
+cheval	pli	nuque	cadence	soutenue
+main	équilibre	cheval	dressage	souplesse
+aides
+
+équitation
+légèreté	équilibre
+epaule_en_dedans	cheval	piste	épaule_en_dedans	incurvant	cercle	épaule_en_dedans	cheval	piste
+intérieur	rêne_extérieure
+foulées	piste
+
+action	rêne_extérieure	cheval	piste	épaule_en_dedans
+rênes	légère	extérieur	cheval	piste
+cheval	exercice	relaxer
+cercle	contractions
+coin
+cheval	épaule_en_dedans	passage	coin	grand_côté
+passage	coin	volte	épaule_en_dedans	nuno_oliveira
+
+cession_à_la_jambe	appuyers	clubs	cession_à_la_jambe	cheval	cavalier
+monitrice	appuyer	mouvement	cession	épaule_en_dedans	cheval	incurvation
+apprentissage	cavalier	cheval	cession	appuyer
+cession_à_la_jambe	exercice	cheval	latéralement	pli	action	jambe
+cavalier	pli	cheval
+exercice	écuyers	épaule_en_dedans	appuyer	relaxée
+pli	appuyers
+
+équitation
+chevaux	apprentissage	appuyer	cession_à_la_jambe	exercice	épaule_en_dedans
+redresser	cheval	cession_à_la_jambe	cheval	se_contracter	appuyer
+
+contraction	exercice	cheval
+épaule-en-dedans	équitation
+exercice	cheval	entraînement
+exercice	cheval	ligne_droite
+cheval	décontraction	engagement	postérieur_interne	équilibre
+cheval	marche	pistes
+épaule-en-dedans_droite	antérieur_droit	piste_interne	antérieur_gauche	postérieur_droite	piste_intermédiaire	postérieur_gauche	piste_externe
+aides	cavalier	incurvation
+épaules	cheval	pistes	jambe_interne	assiette	cheval	changement
+épaules	volte	piste
+épaule-en-dedans_droite	cavalier	rotation	poignet	droit	action	jambe_droite
+jambe_gauche	main_droite	incurvation	cheval	épaules	hanches
+étrier_gauche	rotation	buste	action	jambe_droite	bassin	cadence	postérieur_droit
+cheval
+épaule-en-avant	cheval	pistes
+épaule-en-avant_droite	piste	antérieur_droit	postérieur_droit	antérieur_gauche	postérieur_gauche
+épaule-en-avant	redresser	chevaux	traversés	galop
+contre-épaule-en-dedans	cheval	épaule-en-dedans	lisse	mur
+cavalier	cheval	intérieur	entraînement
+cheval
+cession_à_la_jambe	cession_à_la_jambe	clubs
+cession_à_la_jambe	cheval	droit	léger	pli	encolure	tête
+cavalier	cheval	rêne	jambe
+impulsion	jambe_droite	épaules	pli	encolure	rêne_droite
+cession_à_la_jambe
+cession_à_la_jambe	cheval	incurvé	jambe_droite	cheval
+rotation	poignet	droit	pli	encolure	nuque
+rêne_droite	pli	encolure
+épaules	cavalier
+jambe_interne	cadence	postérieur
+hanches	cheval	impulsion
+hanches	cheval	fléchir	encolure	marchant	diagonale
+cessions_à_la_jambe	diagonale
+doubler_dans_la_longueur
+main_droite	double_dans_la_longueur	cession_à_la_jambe	piste	main_droite
+piste	temps	cheval	droit	passage	coin
+exercices	cheval	épaules	hanches	droit
+cavalier	épaules	hanches	cheval
+jambe	hanches	doubler_dans_la_largeur
+cheval	demi-tours_autour_des_épaules	gymnastiquer	postérieurs	chevaux
+demi-tours_autour_des_épaules	avant-main	souplesse
+exercice	cheval
+entraînement	souplesse
+appuyer_vers_la_droite	main_droite	incurvation	cheval	passage	coin	doubler_dans_la_longueur
+cavalier	piste	diagonale	appuyer_vers_la_droite
+tête_au_mur	travers	figure	appuyer_tête-au-mur
+cheval	diagonale
+cheval
+exercice	mur	lisse	doubler	tête_au_mur	croupe_au_mur
+croupe_au_mur	renvers	croupe_au_mur	cheval	mur	lisse
+coin	incurvation
+cheval	droit	passage	coin	croupe_au_mur
+appuyers	croupe_au_mur	piste	appuyer_vers_la_droite	diagonale	tête_au_mur	piste	main_gauche
+changement_de_pied	galop	air_de_haute-école
+exercice
+apprendissage	cheval	changements_de_pied	transition	foulées	galop	pied
+changement	air	temps_de_suspension
+antérieurs	postérieurs	changer	temps	cheval	change_en_2_temps	contraction	déséquilibre
+cheval	cavalier	changement_de_pied	temps_de_suspension
+changements_de_pied	exercices	changements_de_pied	courbe	cercle	serpentine	pirouette	exercice	cheval	complet	hanches	incurvé
+postérieur	cadence	allure
+cercle
+figure	galop	piaffer
+pirouette_renversée	exercice	épaules	cheval	incurvé	sens_du_déplacement
+hanches
+passage	air	art_équestre
+trot	cadence	diagonalisé	temps_de_suspension	postérieurs	antérieurs
+chevaux	passage	piaffer
+piaffer	piaffer	art_équestre
+trot	diagonalisé	relévé	rond	temps_de_suspension
+chevaux	exercice	passage
+transitions	piaffer-passage	en_avant	flexion	articulations	légèreté	impulsion
+pas_espagnol	air	dressafe_de_compétition	entraînement	cheval	équitation_baroque
+cheval	temps	actif	postérieurs	antérieurs
+trot_espagnol	air	cheval	activité	postérieurs	temps_de_suspension
+changement_de_pied	changement_de_pied	air	dressage	cheval
+changement	postérieurs	antérieurs
+changement_de_pied	galop	galop
+allure
+galop	allure	temps
+galop_à_droite	postérieur_gauche	diagonal_gauche	antérieur_droit	phase_de_projection
+galop_à_gauche	postérieur_droit	diagonal_droit	antérieur_gauche	phase_de_projection
+inversion_du_galop	changement_de_pied	phase_de_projection
+changement_de_pied	phase_de_projection	cadence	équilibre
+principal	postérieurs	cheval	cheval	galope
+apprentissage
+changement_de_pied	demi-volte	diagonale	piste	aides
+cavalier	cheval	allures
+cavalier	déséquilibre	cheval	changer	antérieurs	déséquilibre
+cheval	postérieurs
+changement_de_pied	diagonale	barre_au_sol	lettre
+principal	cheval	phase_de_projection	temps	changement_de_pied
+
+cheval	antérieurs	inversion_du_galop	changeant	antérieurs
+postérieurs	léger	temps
+
+cheval	bond	cavalier	changement_de_pied
+cavalier	changements_de_pied
+
+
+apprentissage	changement_de_pied
+cheval
+cheval	équilibre	galop_à_droite	galop_à_gauche	équilibre
+changement_de_pied	galop	galop	cheval
+changement_de_pied	galop
+rond	impulsif	équilibré	cadencé
+cheval	pied
+changement_de_pied	galop	équilibre	cheval	monte	galop	cheval	galop	allure
+pied	aides	cavalier	monture
+contre_galop	amplitude	équilibre	cercles	voltes
+cheval	transitions	galop	preuve	équilibre	galop	mise_en_main	cheval
+changement_de_pied	cheval	changer	déséquilibre
+mis	cheval	galop_juste	volte	petit_côté	rondeur
+volte	marcher	droit	piste_intérieure	cheval	colle	épaules_au_mur	foulées
+foulées
+galop_à_faux	foulées
+galop_à_juste
+cheval	transition	galop	reculer	épaule_interne	doigts	jambe	changement_de_pied
+cheval	change	pied
+
+mains	intérieur	manège	épaules	cheval	intérieur	latéral	légère	stick	jambe	changement_de_pied
+changement	petit_côté	diagonale	récompenser
+changement_de_pied	changer_de_pied	récompenser
+cheval	changements_de_pied
+main	changement_de_pied
+changements_de_pied	changements_de_pied	cheval
+galop	transitions
+cheval	changements	apprentissage
+james_fillis	nuno_oliveira
+philippe_karl	cercle
+chevaux	dressage	cheval
+chevaux	changements_de_pied	changement_de_pied
+cheval	galope	changement_de_pied	cheval	galop	phase_de_suspension
+galop_à_droite	galop_à_gauche
+exercice	chevaux	droits	galop
+chevaux	changement_de_pied	temps
+changement_de_pied	galop	galop	nuno_oliveira
+aides	changement_de_pied	aides	galop_à_droite	cheval	droit	équilibre
+jambe_droite	à_la_sangle	relaxée
+jambe_gauche
+epaule_gauche	légère	fesse_gauche
+contact	rêne_extérieure
+aides	épaule	fesse_droite	légère	jambe_droite
+jambe_gauche	à_la_sangle
+légère	pli	cheval
+contact	rêne_droite
+cheval	changement_de_pied
+rondeur	galop	relaxation	cheval	cavalier	changer_de_pied
+galop	cadence	cheval
+changement	aides	aide
+aides	légères
+jambes	relaxées
+mollet	éperon
+éperon	jambe
+changement_de_pied	assiette	ceinture
+en_avant	changement_de_pied	oreilles	cheval
+
+cheval	relaxé
+cheval	changement
+cadence
+cheval	droit
+changements_de_pied
+changements_de_pied	cheval	changer_de_pied
+changement_de_pied	changement_de_pied
+cheval	relaxé	épaule_en_dedans	appuyer	trot
+mise_en_main	arrêter	droit	reculer
+galop	galop
+galop	équilibré	droit	léger	rondeur	cadence	galop
+galoper_à_faux
+galop	arrêt
+cheval	changement_de_pied
+apprentissage	changement_de_pied	galop_juste	galop_juste	changement_de_pied	galop	équilibré	relaxé	rond	mains
+galop_juste	galop	transition	transition	cercles	cheval	actif	droit	relaxé
+doublez	tiers	petit_côté	diagonale	cheval	droit	cadence	aides	galop_à_droite
+paroi	épaule
+doigts
+jambe_droite
+badine	fesse_droite
+cheval	changement_de_pied
+récompensez
+pied
+main
+main
+figure	changer_de_pied	galoper_à_faux	pied
+diagonale	changement_de_pied
+galop_juste	galop_à_faux
+changement	galop_à_gauche	cercles
+grand_côté	grand_côté	changement_de_pied	grand_côté	cercle	action	rêne_gauche	intérieur	tête	cheval
+changez_de_pied	action	rêne_gauche	épaule	action	cravache	action	jambe_gauche
+aides_latérales
+action	rêne_gauche	droit	cheval	change_de_pied
+diagonale	transition	trot
+cheval
+galop
+
+changements_de_pieds	galop
+galop	relaxé	changement_de_pied
+hanches_en_dedans	galop
+aides
+preuve	tact	récompensez	relaxez	cheval
+apprentissage	mouvement	buste	amplifier	mouvement	cheval
+changement_de_pied	cheval
+changements_de_pieds	galop	changer_de_pied
+changement_de_pied	changeant_de_pied	changer_de_pied
+cheval
+épaules	cavalier	changement_de_pied
+épaules	cheval	coller	mur	changements_de_pied
+mur
+cheval	change	pied
+cheval	changements_de_pied	changements_de_pied	galop	équilibré	relaxé
+aides	mouvement
+cheval	change
+action	mains	action	jambes
+action	jambes
+cheval	action	jambe	badine	fesse
+cheval	change
+cheval	droit
+pli	galop	main	galop	pli
+cheval	change	en_deux_temps
+aides	cavalier
+cheval	droit	hanches	épaules
+cheval	change
+cheval	aide	aides	galop
+changer_de_pied
+
+cheval	change
+galop
+décision	aides
+cheval
+cheval	changement
+aides
+cheval	voix	arrêtez	cheval	foulées	marchez	rênes_longues
+
+cheval	travers	balance
+aides
+changement	pli	rênes	action	jambe	appuyée
+cheval	changement_de_pied
+cheval	changements_de_pied	dressage	conditions	changement_de_pied
+aides	action	jambe	buste
+tact
+changement_de_pied
+mains	cheval	mouvement
+cheval
+chevaux	changements_de_pied
+changement_de_pied	changement
+chevaux	apprentissage	galop	trot
+galop_rond	relaxé
+diagonale	galop_à_droite	trot	tiers
+
+passage	trot	galop_à_gauche	tiers	diagonale	diagonale	cercle	récompensez
+battues	trot	galop_à_droite	galop_à_gauche	battue	trot
+galop_à_droite	transition	trot	trot	tact	aides	cheval	change_de_pied
+apprentissage	chevaux	changement_de_pied	cheval	changement_de_pied
+cheval	battue	trot	cheval	change	pied	trot	changement_de_pied
+nuno_oliveira	philippe_karl	raabe	decarpentry	changement_de_pied	foulée_de_trot	changer_de_pied
+cheval	trotteurs
+apprentissage	changements_de_pied	changement_de_pied	air	battues	trot
+
+foulées_de_galop	rassembler	aides	galop_à_gauche	léger	aides	changer
+action	buste	doigts	ligne_droite	diagonale	coin	changement_de_pied	cadence	cadence	amplitude	galop	équilibre	rassemblé	assis	nuque	cheval	cheval
+pistes	cheval
+
+
+changement_de_pied	foulée_de_trot	cheval
+galoper_à_faux	appuyer	galop	cheval	reprise
+engagement	postérieurs	changements_de_pied	galop	foulée_de_trot	galops
+
+galop	rond	droit	changement_de_pied	cheval	foulée_de_trot
+reprises	cheval	engagement
+rassembler	cheval	cheval
+rassembler	changement_de_pied	changements	temps
+équilibrer	cheval	galop_à_faux	cercles	carrière	manège
+galop	assis	engagé	léger
+coin	grand_côté	aides	action	fesse_intérieure	cheval	badine	inciter	galop
+cheval	changer	foulée_de_trot
+doublant	ligne_du_milieu	appuyant	grand_côté
+changement_de_pied	épaule_extérieure
+galop_à_faux	changement_de_pied	cheval	contre_galop	dressé	changement_de_pied
+cheval	mauvais_pied
+galop_à_faux	changement_de_pied	cheval	contre_galop
+changement_de_pied
+
+changement_de_pied	galop	cheval	galop_à_faux
+cheval	galope	mains	figures
+condition	apprentissage	changement_de_pied
+apprentissage	galop	changement_de_pied	cheval	bon_pied	cheval	équilibre
+galop_à_faux	contre-galop	cheval	galop	assouplit	engagement	postérieurs	soumet	cheval
+galop	chevaux	monte
+
+battue	trot	cheval	battue	trot	changement_de_pied
+
+chevaux	changements_de_pied	apprentissage	battues	trot	galop	pied
+temps	trot	battue	temps	trot
+chevaux	changement_de_pied	air
+battue
+changement_de_pied	galop	foulées	changement	cheval	galop
+aides	changement	épaule_extérieure	changements_de_pied	temps	badine	fesse_gauche	cheval
+changement_de_pied	diagonale	grand_coté
+dressage	changement_de_pied	changement_de_pied	air	galop	galop	cheval	galop	pied	galop	pied	temps_de_suspension	allure
+apprentissage	mouvement	cheval	cavaliers	pistes	exercices
+changement_de_pied	galop	allure_asymétrique	temps
+galop_à_droite	postérieur_gauche	diagonale_gauche	antérieur_droit	phase_de_projection
+changements_de_pied	cavalier	exercice
+mouvement	cheval	dressé	cavalier	aides
+cavalier	changements
+cavalier
+décontraction	changement_de_pied	position	galop	profit	exercice
+rectitude	rythme	cadence	amplitude	changement
+changement	jambe_extérieure	jambe_intérieure	à_la_sangle	cavalier	flexion	jambes	rêne_extérieure	rectitude
+changement	galop_à_droite	pli	cheval	jambe_gauche	changement	jambe_droite
+droit	cheval	céder	rêne_gauche	hanches	droit	rênes
+jambe_gauche
+changement	jambe
+cavalier	selle
+changement_de_pied	temps_de_suspension	foulée
+activité	rectitude	galop	changement_de_pied
+conditions	changement_de_pied	air	rythme	temps	galop	aides	rectitude	amplitude	mise_en_main	stable	cheval	transitions	allures
+changement_de_pied
+cheval	diagonale	changement	changé	cheval	piste
+cavalier	rectitude	encadrant	cheval	rêne_gauche	rêne_extérieure	fléchir	épaules	cap
+exercices	apprentissage	cavalier
+volte	galop	voltes	activité	rythme	foulées	galop_rassemblé
+transitions	transitions_montantes	galop	galop	rectangle
+transitions	trot	galop	volte	piste
+transitions
+foulées	transitions	transitions	galop_à_gauche	foulée_de_trot	galop_à_droite
+cavalier	galop
+demi_volte	cheval	demi_volte	changement	piste
+galop_à_faux	rectitude	galop	conditions	changement_de_pied	position	épaules	flexion	contre_flexion	allure
+cession_à_la_jambe	galop_à_faux	cavalier	cessions_à_la_jambe	galop
+galop_à_droite	doubler_sur_la_ligne_du_milieu	piste	cession_à_la_jambe_gauche	cheval	fléchi_à_gauche	épaules	hanches
+cheval	galop	pied	contre_flexion	épaules	changement
+décalage	jambes	changer_de_pied	flexion	changement	droit	expressif
+travail_latéral	changement	cession	aide	pare_botte	rectitude
+doubler_dans_la_largeur	changements_de_pied
+galop_à_droite	doublez_dans_la_largeur	épaules	cession_à_la_jambe_gauche	cheval	cède_à_gauche	changez_de_pied	marchez	droit	contact
+apprentissage	abuser	mouvement	cheval
+temps	exercice
+changement_de_pied
+cavalier	exercice	temps
+cheval	changement_de_pied
+
+cheval	se_désunit	changement_de_pied	main	foulée_de_trot
+cheval	pied
+récompensez	cheval	bon_pied
+cheval	change	changement	jambe	loin
+galop_à_droite	jambe_gauche
+changement	jambe_gauche
+
+aides	galop_à_droite	foulées	loin
+cheval	jambe
+cheval	changer_de_pied	air	rêne	changer	cheval	rectitude	changements
+cheval	changez
+marcher	droit	changer_de_pied	appuyer	changez
+changer	diagonale	ligne_du_milieu
+cheval	changement	volte
+cheval	changements_de_pied	traverser	pare_botte
+cheval	hanches	changement	changement	piste	main_gauche
+changement	court	joint	nuque	cheval	relaxez	galop	amplitude
+changement	activité	aides
+cheval	change	rectitude	épaule	galop_à_droite	changer	épaules
+isabelle_judet	juge	dressage	changement_de_pied	air	cheval	se_désunit	foulées	changement	en_deux_temps	mouvement	postérieurs	antérieurs	temps	foulée	cheval	galope	pied	pied	changement	court	joint	postérieurs	cheval	contre_la_main	monte	croupe	cheval	traversé	changement	changement	droit	expression	mise_en_main	rectitude	expression	amplitude	tendance_montante	rythme	galop	épaule	aides
+conseil	juge	arrêt	arrêt
+mouvement
+arrêt
+allure	arrêt	rectitude	cheval	arrêt
+rectitude	trot
+arrêt
+carré
+
+léger	décalage	postérieurs	postérieurs	figure
+
+reculer	postérieur	postérieurs	cheval
+contact
+cheval	transition	arrêt	nuque	chanfrein	en_avant	verticale	contact	bouche
+transition
+chevaux	équilibre	trot	arrêter	galop	galopades	western
+transition	équilibre	preuve	aides	cavalier
+figure
+galop	rectitude	mise_en_main	transition	lettre	rectitude	trot
+
+reculer	arrêt
+rectitude	transitions
+bouche	nuque	chanfrein	cheval	contre_la_main
+arrêts	reprises
+
+dressage_moderne	dressage_moderne
+
+chevaux
+
+
+juges	chevaux	souples	oreilles	œil
+bouches	encolures	chevaux	queues
+cdiw	lyon	preuve
+chevaux
+piste	equita
+rassembler	déployer	cavaliers
+
+juges	chevaux	cavaliers
+équitation	aides	chevaux
+lettre	lettre	équitation
+juges
+lettre
+reprises	arrêt
+épreuves	juge	mouvement	cavalier	lettre
+cavaliers
+figure	diagonale	trot
+diagonale_mxk	coin	cheval	courbe	diagonale
+diagonale	lettre	tête	cheval	lettre
+cercles_de_10m	reprise	cercle	figure	cercle	lettre	cavalier	figure	tête	cheval	cercle	juge
+juge	ligne_du_milieu
+cavalier	cercle	rond
+voltes	trot	galop	règles
+piste	demie_diagonale	appuyer
+piste
+tête	cheval	piste	lettre
+lettre	oreilles	cheval	cap
+transitions_montantes	cavalier
+galop	cavalier	lettre	galop
+galop-trot	cavalier
+cavalier
+conseil	juge	coach	cavaliers	concours
+jugement
+reprises	juges	récompenser	exercice	mouvement
+cheval	trot	équilibre	allure	changement_de_pied	droites	expression
+cavalier	juge	cavalier
+
+niveau_a_6	a7	monte	cheval	expressif
+pirouette_au_galop	cheval	se_désunit	coin	pirouette	mauvais_pied
+mouvement
+
+
+appuyers	trot	rythme	expression	pli	phare	cheval	change_de_pied	galop_à_faux	pirouette	galop_à_faux	cheval	changement_de_pied	lettre
+changement	en_deux_temps
+cheval	piaffer	juges	mouvement	dressage
+cavaliers	jugement
+juges
+récompenser	mouvement	reprise
+cavalier	cheval
+mouvement	justice
+cavalier	juge	reprise
+yeux
+position	position	juges
+
+position	assiette	cavalier	aides
+position	assiette	position	cavalier
+
+
+équitation	position	cavalier	cheval	cavalier	assis	fesses	selle	position	cavaliers	coach
+équitation	condition
+abdominaux	aides	juge	reprise	aides
+
+cavalier
+sanctionner	cavalier	tact	cheval
+chevaux	tact
+juge	récompenser
+soumission	soumission	soumission
+soumission	soumission	mors	harmonie	légèreté	mouvements
+soumission	cheval	contact	cavalier	aides	exercices	complicité	cheval	cavalier	soumission
+reprise	montée
+soumission
+impulsion	impulsion	conseil	juge	impulsion	en_avant	élasticité	foulées	souplesse	engagement	arrière_main
+
+en_avant	activité
+élasticité	foulées	temps_de_suspension	battues	trot	galop
+souplesse	latérale	incurver	amplitude	foulées
+engagement	arrière_main	postérieurs	exercice	postérieurs	exercices
+en_avant	transformer
+élasticité	foulées	postérieurs	trot
+souplesse	rectitude
+engagement
+
+impulsion
+allures	allures	reprise	fei
+temps	changé
+conseil	juge	allures
+régularité	regularity
+
+langue
+
+allures
+rythme	régularité	temps	rassemblé	allongé
+temps	trot	régularité
+temps	galop
+allures	décontraction	épaules	activité	postérieurs	amplitude
+cadence	activité	élasticité	propulsion	épaules	trot	cadence	trot_rassemblé	amplitude	cadence	équilibré	trot_moyen	allongé
+projection	élasticité	épaules	galop
+
+allures
+allures	descendre
+rythme	pas_rassemblé	passager	régularité	trot	appuyer	temps	galop	exercice	galop	appuyer
+serpentine	serpentine	ligne_droite	serpentines	trot
+
+
+exercice
+
+boucles
+boucle	piste	boucles
+
+exercice
+cheval	incurvé	boucles	droit	incurvé	boucle
+boucle	fléchir	épaule	boucle
+cheval	court	piste	courbe
+juges	cavalier	exercice
+concours	entrainement	juger	concours	entrainement
+mis	profit	cheval	épreuve
+concours	gymnastique	aides	souplesse
+temps	reprises
+concours	entraînement
+club	juger
+cavaliers	reprises	reprises
+cheval	cavaliers	juge
+concours	concours	entraînement	cavalier	cheval	épreuves
+reprise
+conseil	juges	concours	entraînement	entraînement
+cavalier	concours
+cavalier	juge	juge	concours	officiels
+rlm	reprise_libre	mouvements	cavalier
+
+mouvements	reprise
+couple	figures	pirouettes_au_galop	niveau_b	piaffer	cheval
+
+jury
+cercle	cheval
+cheval	léger	légère
+
+juge	reprise	reprises
+reprises
+
+allure	allures	trot	galop
+trot	galop	rythme
+mouvements	main
+juge	loin
+harmonieux
+conseil	reprise	rectangle
+
+règle	cheval
+
+règle	reprises	temps
+galop	mouvement	épaule_en_dedans	ligne_du_quart	piste
+reculers	rythme	figure	cheval
+mains	allongements	trot	galop	mouvement
+figure
+rythme	colle	allures
+allures	harmonie
+juge	reprise_libre	reprises
+juge	monsieur	niggli	commission	dressage	fei	juger	reprise_libre	relax
+juges	droit
+
+reprise_libre	temps
+
+mouvement	mis
+allongements	changements_de_pied	rythme
+
+rlm
+rlm	dressage	reprises_libres_en_musique
+cavaliers	rlm	monter	équestre	cheval
+
+airs	cavalier	dressage	airs	virevolter	appuyers	allongements	piaffer	passage
+règles
+
+reprise_en_musique	reprise
+chevaux	décontractés
+reprise	cavalier
+résistance	cheval	changement	allures	extérieur
+reprise	couple
+reprise
+rlm
+
+
+
+conseil	techniques	reprise_libre_en_musique
+épaules_devant	épaules	hanches	épaules_devant
+manèges
+
+juge	sanctionner	appuyer	hanches	épaules	cession_a_la_jambe	grand_coté	hanches	épaules
+cheval	ligne_droite	hanches	piste_intérieure	pli_interne
+
+cheval	trotte	galope	piste	grand_coté
+cavalier	encolure	intérieur	cheval	hanches	intérieur
+
+conseil	rectitude	condition	rassembler
+traversant	cheval	engagement	postérieurs	engager	sous_sa_masse
+encolure	épaules
+cession	appuyer
+cession	déplacement_latéral
+hanches	cheval	postérieur_externe
+appuyer	épaules_devant	postérieur_interne	hanches	épaules	impulsion	engagement	expression	antérieurs
+appuyers	grand_prix	grand_coté
+souplesse	latérale
+mouvement	hanches	épaules
+exercices	demi-tours_autour_des_épaules
+transitions	intérieur	allures	transitions	transitions
+transitions
+allure	intérieur	allure
+transitions
+
+
+poulain	cavalier	en_avant
+transition
+action	cheval	aides	cavalier
+dressage	cheval	mouvement_en_avant
+règle	allure
+trot	trot	galop	galop	trot	trot	arrêt	galop	galop	trot	arrêt	galop
+cheval	aides	cavalier
+jambes	mains
+cheval	cavalier
+jambes	mains
+aides
+règles	cavalier	cheval
+
+conviction	cavalier
+cheval
+
+mise_en_main	encolure	contact
+transition	harmonie	postérieurs	poussée
+allure	cavalier	foulée	amplifier	changer
+chevaux	travers	hanches
+régularité	allure	cavalier	rectitude	cheval	droit	ligne_droite	droit	encolure	épaules	hanches
+transition
+exercices	dressage_basse_école	haute_école	disciplines_équestres
+temps	équitation	carl_hester	charlotte_dujardin
+équitation	équitation
+rollkur	chevaux	bouches	impulsion
+rassembler	piaffer	hanches	position	verticale	antérieurs	élévation_classique	mi-canons	passage	encolure	nuque	impulsion	postérieurs	engagés	collectée	main
+contact	cavaliers
+entraîneur	carl	grande_bretagne
+équitation	dressage
+manche	équitation	temps	dressage	france
+contact	légèreté	contact	légèreté	conseil	juge	économie
+cavalière	mis	cheval
+cheval	contact
+conseil	contact	légèreté
+légèreté
+inciter	cheval	contact	léger	doigts	action	mains	mouvement	main	cheval	mains	cavaliers	épreuve	cheval	grand_prix
+mains
+foulée	cheval	léger	contact
+
+cheval	épaules
+légèreté	cheval	avant-main	arrière-main
+balance
+équilibre
+cheval	contact
+changer
+exercices	hanches
+transitions	allure	intérieur	allure	travail_latéral	cession	contre-_épaule	hanches_en_dedans
+exercices	main	contact
+chevaux	légèreté	cheval	dans_la_main	cavalier	contact	main
+mors
+monter	mors
+mouvements_de_dressage	embouchure	licol
+
+cheval	mouvements	grand_prix
+passage	mors
+longé	licol	mis	selle	cheval
+
+temps	cheval	changements_de_pied	pirouette
+poney	grand_prix
+bouche
+
+chanfrein	caveçon
+mors	chevaux
+contact
+embouchure	bride	règle
+chevaux
+tact
+monter	licol	hackamors	dressage	filet	bride
+changer
+pas_rassemblé	allures_de_base
+jugement	cavaliers	entraineurs
+
+pas_rassemblé
+règlement	pas_rassemblé	court	pas_moyen	activité	sur_la_main	cheval	marche	en_avant
+encolure	pas_moyen	tête	verticale	léger_contact	main
+arrière_main	engagée	cheval	marche	pas_moyen	articulations	pliant	rythme	régulier
+foulées	encolure	soutenue	activité
+rythme
+rythme
+temps
+
+régulière	temps
+rythme	cheval	temps	amble	latéraliser	latéralise
+latéralise	amble	juge	amble	rythme	temps
+
+juger	cheval	grand_prix	amble	pas_rassemblé
+
+temps	allure
+cavalier	entraineur
+rythme
+allures
+
+pas_rassemblé
+cheval
+régularité	juges
+filet	bride	bride	poney
+facebook	espoir_jeune	bride	épreuves	fei	poney
+règle	filet	épreuves	poney	fei
+reprise	bride
+cavaliers	bride	poneys
+
+filet
+techniques	filet
+contact	transitions	équilibre	juge	filet	règle
+bride	poney	équitation	poneys	encolure	bride
+filet	dressage	filet
+écuries	chevaux	mouvements	grand_prix	filet
+grande_bretagne	cavaliers	grand_prix	filet	bride
+cdi
+filet	poney
+conseil	juge	juger	reprise_libre	reprise_en_musique	cdi	vidauban	juge	kür_grand_prix	juger	jugement	reprises_libres
+
+mouvement
+kürs
+
+juger	reprises_en_musique	tension
+temps
+temps	position
+
+reprise	mouvement
+décontraction
+mouvement
+
+
+
+
+colle
+
+
+cheval	harmonie
+juge	juger	épreuve_libre_en_musique
+reculer	reculer	exercice	cavaliers	reprises
+mouvements	jugement
+tête	cavalier	exercices
+
+légèreté	impulsion
+reculer
+résistance	rectitude	arrêt	carré
+
+
+exercice	preuve	équilibre	arrêt	mouvement	rétrograde	résistance	diagonalisés	allure	arrêt	reculer
+arrêt	reculer	contact	tête	encolure	cavalier	reculer	gymnastique	hanches	preuve	cheval	arrière_main
+en_avant	reculer	impulsion
+conseil	juge	diagonales	diagonale	rectitude	mouvement	diagonales
+diagonales	cheval	piste	encolure
+cheval	droit	encolure	épaules	hanches
+juges	inciter	cavaliers
+rectitude	rassemblé
+traversant	cheval	engagement
+cavaliers	diagonales	hxf	rectitude
+rectitude	rectitude	dressage
+nez
+travers
+dresser	droit
+chevaux	épaules	hanches	cavalier	rectitude
+contact	rênes	incurvation	mains	voltes	épaules_en_dedans	appuyers
+juges	rectitude
+juge	reprise
+juge	allongement
+rectitude
+pas_allongé
+galop_allongé	diagonale	jury	changements_de_pied
+cavaliers
+passage	coin	coin	reprise	cavaliers	cavalier	cavalier	reprise	coins	cheval	incurvé
+chevaux	droits	ployés	extérieur
+
+cavaliers
+jugez
+
+juge	mouvement	cheval	ployé	coins
+
+pirouette_au_pas	juger	pirouette_au_pas
+cheval	juge	manège
+cercles	hanches_en_dedant	demi-tours_autour_des_épaules	demi-pirouettes
+juge	chevaux	postérieur_externe	foulée	pirouette
+
+pirouette
+
+mis	rythme	temps	latéralisation	mouvement	flexion	cadence	activité	coller	postérieur	postérieur_extérieur	foulée	intérieur	postérieur_intérieur	sous_la_masse	antérieurs	cavalier	jugement	mouvement
+juges	pirouettes_au_pas
+pas_allongé	pas_allongé	pamfou	pas_allongé	juge
+temps	ample
+amplitude	cheval
+cheval
+allures	activité	postérieurs
+postérieurs	pas_allongé
+
+cheval	encolure	cavalier	conformation	cheval
+contact
+chanfrein	en_avant	verticale	cheval	rond
+diagonale	extérieur	vienne	cheval	tête
+cavalier	soutenue	aides
+diagonale	rectitude	cheval	encolure	mouvement
+cheval	marche
+
+reprises	pas_allongé	prix	cadeau
+piaffer	piaffer	piaffer
+jugement	france_pro_1
+reprise	piaffer	pas_rassemblé
+pas_rassemblé	cavaliers	pas_rassemblé
+juge
+actif	postérieurs
+rectitude	cheval	droit	engagement
+position	encolure	cavalier	nuque	ramener	contact	cavalier
+cheval	cavalier	transition	pas_rassemblé	piaffer
+cavaliers	éperon
+pirouette_au_pas	pirouette_au_pas	exercice	monter	juger	demi_tour_hanches_en_dedans	pirouette_au_pas
+poney	piste
+reprises	piste
+foulées	rassemblées	reprises	poneys	pas_moyen	rythme	temps
+poney	ployé	pirouette	postérieur_gauche	droit	épaules	demi_cercle	poney	rythme	temps	demi_tour	encolure
+postérieurs	cercle	piste	rythme	nuque	ploiement	mise_en_main
+demi_cercle	hanches	cercle	hanches_en_dedans	conseil	juge
+demie_pirouette
+demi_tour	hanches	piste
+conseil	demi_tour	postérieurs	piste	reprises	kurtzkert
+demi_tour	postérieurs	piste	demi_tour	épaules
+exercice	poney	cheval	gymnastique	hanches_en_dedans
+conseil	foulée	demi_cercle
+poney	cheval	exercice
+hanche_en_dedans	pirouette_au_pas	hanche_en_dedans	chevaux	temps	entraînement	temps	concours
+pirouettes
+pirouette_au_pas	demi_cercle_hanches_en_dedans	reprises
+pirouette
+juge	mouvement	doubler	droit	cheval	ployer	demi_tour	postérieur_extérieur	droit	postérieur_gauche	cercle
+épaules	cercle
+épaules	hanches	cercle	postérieurs	rythme	activité
+cheval	légère	flexion	cheval	encolure	hanches
+
+demi_tour_sur_les_hanches	demi_cercle	juge	demi_pirouette
+tête	mouvement
+demi_tour	demi_tour	demie_pirouette	demie_pirouette
+
+demi_tour	droit	appuyant	doubler
+cercle	trot	cercles	cessions	cavalière	cercles	trot	épreuve	grand_prix
+exercice
+figure	exercice
+cercle
+main_gauche	cercle
+cheval	cercle	temps	ligne_du_milieu
+
+courbe	harmonieuse	cercle	rond
+cavalière	piste	lettre	cercle
+exercice	aides	cavalier	cheval
+incurvation	jambe	rêne_extérieure
+rythme	contact
+
+cavalière
+jument	reprise
+piaffer	passage	juger	piaffer	passage	conseil	juge	passage	piaffer
+
+position	grand_prix	règles	mouvements	passage	piaffer
+règlement	fei	juge
+engagement	postérieurs	position	antérieurs	postérieurs	position	encolure	nuque	régularité	impulsion	suspension	passage
+piaffer
+régularité	balancement	mouvement	foulées	pieds
+piaffer	postérieurs	antérieurs	balancement	rythme
+cavaliers	juges
+juge	ghislain_fouarge	passage	postérieurs	piaffer	piaffer
+juge	juge	mouvements
+juges	grand_prix	chevaux
+juges	règlement	trot	exercice	allure	trot	conseil	juge
+équilibrer	mouvements	cavaliers	exercices
+conseil	publics	cheval	cavalier
+passage	suisse
+cavalier	cheval	rythme	cadence
+cheval	trot
+trot	lignes_droites	coins	voltes	mouvements
+trot	cheval	régulier	actif
+contact	main	cavalier
+cheval	allure	impulsion	transitions
+juge	régularité	impulsion
+cheval	mouvement_en_avant	cheval
+trot	trot	rectangle
+pirouette_au_galop	pirouette_au_galop	chevaux	saint_georges	inter_1	kür	cdi_w	melbourne
+chevaux	jugement	épreuves
+pirouettes	demi-_pirouettes	jugées	cheval
+cavaliers	pirouettes
+galop_rassemblé	pirouette
+galop_rassemblé
+activité	foulée	hanches	avant_main	rassembler	cheval	hanches	cercle	cms	galop	pirouette	cavalier	mouvement	cheval	épaule_en_avant	flexion	incurvation	épaules	postérieurs	cercle	hanches	extérieur	décalage	postérieurs
+exercice	rotation	épaules	cavalier	battues	pirouette	postérieur	mise_en_main
+gymnastique	assouplissements	galop	rassembler	allonger	cavaliers
+zig_zag	zig_zag	appuyers	galop	grand_prix	figure	zig-zag	appuyers	galop	ligne_du_milieu
+mouvement
+mouvement
+
+reprises	figure
+exercice
+mouvement	galop_à_gauche	doubler_dans_la_longueur
+appuyer	foulées	changement_de_pied
+appuyer	foulées	changement_de_pied
+appuyer	foulées	changement_de_pied
+appuyer	foulées	changement_de_pied
+appuyer	foulées	changement_de_pied	foulées	changement_de_pied	appuyer	ligne_du_milieu	galop_rassemblé	changement_de_pied	hanches	épaules	appuyer	hanches	appuyer	foulées	figure	appuyer	changement_de_pied	exercice	appuyers	galop	reprise	niveau_b	appuyers	saint_georges	appuyers	intermédiaire_1	mouvement	appuyer	changement_de_pied	appuyer	épaule_en_avant	exercice	foulée	appuyer	pli	changer_de_pied	appuyer	conseil	appuyer	galop	jugement
+transition_galop_pas	rassembler	transition_galop_pas	sophie	règles	transitions_galop-pas
+règles	rectitude	activité	postérieurs	allure	mise_en_main	cheval	rond	contact
+acquis	galop
+intérieur	allures	cavalier	amplitude	foulées	allonger	postérieurs	actif	foulées
+
+cheval	règles	aides	jambes	rétrograder	main
+jambes	mains
+
+chevaux	action	jambe	éperon	flancs	action
+chevaux	main
+transitions_galop-pas	galop	foulées	cheval	trot	allure
+conseil	activité	foulée	galop
+foulées_de_pas
+conseil	transitions	cheval	cavalier
+récompenser	voix	caressant
+règle	transition
+changement_de_pied	air	changements	jugement	changements_de_pied
+changement_de_pied	changement_en_deux_temps
+mets	juges	chevaux	changement_en_deux_temps	œil
+antérieur	postérieur	rectitude	juge	cheval
+antérieur	postérieur
+rectitude	épaules	cheval	hanches	changement
+changements	reprises	chevaux	croupe	changer
+temps
+changements	cheval	assoupli	latéralement	activité
+allure	souplesse
+changements	cheval
+exercices	rectitude	expression	changements
+juges	changement	temps	changement	rectitude	expression	mise_en_main	tendance_montante	uphill_tendency
+apprentissage	changement_de_pied	changements_de_pied	air	cavaliers	dressage
+concours
+exercices	chevaux
+changements_de_pied	chevaux
+a_6	pierre	changement_de_pied
+
+cheval	rectitude	foulées
+pied
+équilibre
+rectitude
+changement	grand_coté	diagonale	cercle
+cheval	change
+changements_en_deux_temps	cheval
+cheval
+exercices
+galop	trot	galop	cheval	cavalier	allure	rythme	cadence	amplitude
+rythme	temps	galop	régulière
+cadence	battues	temps	soutenue
+activité	postérieurs	allure	cavalier	intérieur
+amplitude	foulées
+galop_de_travail	foulée	galop_rassemblé	galop_moyen	galop_allongé
+hanches
+
+galop	projection	souplesse	rassembler
+exercices	conseil	juge
+galop
+changements_de_pied	changements_de_pied
+conseil	juge	warendorf	juges
+juges
+jugement	formation	juges
+jugeant	reprises
+exercice	mouvement	cavaliers
+changements_de_pieds
+diagonale	temps	kxm	jury
+rectitude	changements	amples	diagonale	stable	juges
+juge
+cavalier
+galop
+galop	expressif	impulsion
+lettre	changements	rectitude	amples
+chevaux	expression
+juges
+pirouette_au_galop	pro_3	pirouettes_au_galop
+poneys	juniors	pirouette_au_pas
+cavaliers	pirouette_au_pas	cavalier	rassembler
+pirouette_au_galop
+galop_rassemblé
+galop_rassemblé	activité	hanches	allure
+pirouettes	reprises	diagonales
+cavalier	rectitude	cheval	diagonale	amplitude	foulée	galop	rythme
+fléchir	cheval	pirouetter	épaules	en_avant	légère	épaule_en_dedans	hanches	extérieur	demi_tour	épaules	foulées	demi_cercle	hanches
+conseil	demi_pirouette	cavalier	monter	battue	pirouette	battue	droit	foulée
+galop	cercles	hanches_en_dedans	rassembler	pirouette	cavalier	demi-pirouettes
+changement_de_pied	changement_de_pied	exercice	dressage
+cheval	dressage	mouvement	équilibre	galop
+
+apprentissage	changement_de_pied	équilibre	cheval	galop	mains
+benjamin_aillaud
+changement_de_pied	éperons
+
+
+épaules	hanches	temps	épaules	hanches	allure
+exercice	épaules	cercle	cheval	incurvé
+changement	pli	nez	extérieur
+pli	cercle	épaules	intérieur
+foulées	droit	cercle
+trot	galop
+mains
+tête	cercle	épaule_en_dedans	léger	pli	extérieur	grand_cercle	léger	pli_intérieur	cercle	cheval
+grand_cercle	cercle
+exercice	hanches	cercle	jambe_intérieure	hanches	extérieur
+main_intérieure
+exercice	épaules	hanches	exercices
+cercle	épaules	intérieur	droit	cercle	hanches	extérieur	droit
+exercice	trot	mains
+galop	exercices	acquis	galop
+changement_de_pied	galop	galop
+mouvement	galop	galop
+
+changer_de_pied	cheval	galop
+transitions
+galop	trot	arrêt	cheval	changer_de_pied
+
+cheval	galop_à_faux
+
+pied	mains
+cheval	aides	pied
+changements_de_pied
+main_gauche
+cheval	galop_de_travail	équilibre
+coin	pli	nuque
+diagonale
+épaules	intérieur	pli	extérieur
+changement_de_pied	galop_à_droite
+temps
+cheval	changement_de_pied
+cheval	jambes	mains
+caresser
+cheval	change_de_pied	galop	coin
+activité
+action	jambe
+cheval	change_de_pied	équilibre	remonter	nuque	pli
+cheval	change_de_pied	en_deux_temps
+cheval	équilibre	galop
+galop	changement_de_pied
+galop	changement_de_pied	cheval
+galop
+galop	cheval
+cavalier
+cheval	transitions	exercice	muscler	assouplir	monture	condition
+benjamin_aillaud	gymnastique
+cheval	exercice
+aides	galop	jambe_intérieure	à_la_sangle	jambe_extérieure	extérieur	épaule_extérieure	rêne_intérieure
+jambes	assiette	doigts	cheval	galop
+transition	galop	trot	galop	temps	transitions	allures	trot	galop
+
+transitions_montantes	mains
+exercice	récompensez	lâchez_les_rênes
+transition_montante	galop	trot	transition
+grand_cercle	cheval	équilibre	cadencé
+
+galop
+trot_assis
+aides
+propulsion	postérieurs	cheval
+transition_descendante	foulées_de_galop	trot
+épaules	rênes	jambes	engagement	postérieurs	voix
+transition	trot_de_travail
+transition	galop	aides	galop	trot
+actif	impulsion	aides
+transition_descendante	mains	rênes	redresser	mains	doigts	rênes	action	cheval
+cheval	trot	transition_galop-pas	cercle
+transition
+temps	transition	cheval	transition
+
+cheval	aides	transitions
+cheval	galop	temps	jambe_extérieure
+cheval	hanches	intérieur
+cheval	traverser	galop_à_faux	hanches	lice
+pas_espagnol	cadencé	cheval	antérieur	rassembler
+équilibre	amplitude	régularité	relaxation	cheval	rassembler	pas_espagnol
+air	cavaliers_classiques	exercice
+air	cheval	pas_espagnol	cheval
+poulain	cheval	encolure
+chevaux	battues	pas_espagnol
+pas_espagnol	airs	airs
+apprentissage	cheval
+équitation_académique	mouvement	cheval	rassemblée
+marcher	pas_espagnol
+race	lusitanien	pur_sang	demi-sang	frison	poney	arabe	cheval	pas_espagnol
+chevaux_baroques	chevaux	profit
+pas_espagnol	gymnastique
+assouplit	épaules	cheval
+antérieurs
+gymnastique	arrière-main	cheval	élastique	avant-main	arrière-main
+pas_espagnol	dressage	cheval
+expression	piaffer	passage	épaules
+cheval
+pas_espagnol	dressage	air	expression
+piaffer	passage	air	cheval	équitation
+air_relevé	expression	équilibre	cheval
+cavalier	tact_équestre
+airs_classiques	pas_espagnol	exercice	dressage	cheval	pas_espagnol	cheval
+pas_espagnol	jument	pas_espagnol
+jambes	arrêt
+
+jument	jambette
+antérieur	arrêt	sabot
+apprentissage	pas_espagnol
+cheval	antérieur	sabot
+pied	cheval	piste	main_gauche
+arrêtez	cheval	jambette	antérieur_gauche	loin	main
+cheval	antérieur	pied	loin	antérieur	main
+travail_monté	aide
+pied	travail_monté
+antérieur	battue	cheval	pas_espagnol	amplitude	mouvement
+cheval
+trot_espagnol	cheval	pas_espagnol	piaffe	passage	trot_espagnol
+
+
+trot	soutenue	trot_espagnol
+chevaux
+cheval	pas_espagnol	trot	rassemblé
+antérieur	cheval	épaule	badine
+trot
+temps
+apprentissage	pas_espagnol
+allongement	trot	passage	pas_espagnol
+transitions	passage	trot_espagnol
+cheval	se_creuser
+trot_espagnol	cavalier
+assis	décontracté	léger	jambes	remonter	antérieurs	activité	postérieurs	tête_au_mur
+tête_au_mur	travers	déplacement_latéral	gymnastique	cheval
+incurvation	appuyer	aide	galop	post	galop	bon_pied	couple_cheval-cavalier
+tête_au_mur	appuyer	mur	diagonale
+cheval	paroie	antérieurs	piste	hanches	piste_intérieure	assouplissement	cheval
+latéralement	incurvé
+tête_au_mur	main_gauche	grand_côté	cavalier	monture	cercle	piste	incurvation	pli	encolure	souplesse	tête	intérieur	résistance	bouche
+cercle	antérieurs	piste	cheval	paroi	cavalier	jambe_extérieure	hanches	monture
+tête_au_mur	aides	tête-encolure
+épaules
+hanches
+épaules	parre-bottes	intérieur	cavalier	légère	rêne_contraire	garrot	ployer	cheval	pli	cercle
+rêne	épaules	pli	rêne_directe	postérieur	hanches
+rêne_droite	épaules
+cheval	fuit	cavalier	main_droite	rêne	épaules	main	garrot
+épaules	tête	encolure
+jambe_droite	responsable	hanches	mouvement	cavalier	cheval	action	main_droite	jambe_droite	main	rêne	hanche	cavalier	hanches
+rêne_direct	extérieur
+cavalier	fesse_gauche
+apprentissage	exercice	cadence	cheval	temps
+cheval	arrêter
+position	action
+baucher
+impulsion	cheval
+contractions
+exercice	cheval	en_avant
+main_gauche	cavalier	position	cheval	intérieur	manège	croupe	paroi	postérieurs	piste	incurvation	cheval	croupe_au_mur	renvers
+exercices	cheval	cheval	fléchi	têtes_au_mur	main_gauche	croupes_au_mur	main_droite	incurvation	de_la_guérinière	chevaux	mur	têtes_au_mur	croupes_au_mur	incurvation
+cheval
+cavalier	exercice	tête_au_mur	chevaux	temps
+exercice
+
+conditions
+
+équilibre	trot	rythme	galop
+appuyer	pli	cheval
+cheval	pli
+encolure	cheval	incurvation
+encolure	pli
+pli	cheval
+pli	appuyer	cheval
+contractions	pli
+dressage	souplesse	musculature	rassembler	soumission	appuyer
+cheval	tête	appuyer
+tension	rênes	rêne_extérieure	rêne_intérieure
+rêne_extérieure	activez	jambe_intérieure	rêne_intérieure
+cheval
+épaules	mouvement	extérieur	cheval
+jambes
+cheval	colle	mur	appuyer
+appuyer	mur	mouvement_latéral	en_avant	mur
+mur	cheval
+cheval	épaules
+rêne_intérieure	chevaux	encolure	épaule	cheval	aide	cheval	appuyer	épaules
+hanches	épaules	appuyer	cheval	épaules	hanches
+
+hanches	épaules	action	main	épaules
+mains	mouvement
+rêne_extérieure	marche	rêne_intérieure	épaules
+main	mains	épaules	hanches	latéralement	hanches	glissent	latéralement	main	cède	épaules_devant	hanches	mains	main	épaules	hanches
+hanches	épaules	action	jambe_extérieure	jambe_extérieure
+action
+appuyez	droit	en_avant	appuyez	droit	reculer	jambe_extérieure
+hanches	cheval	épaules
+activez	cheval	hanches	épaules	cheval	épaule_extérieure	rêne_extérieure	extérieur
+cheval	aide	jambe_extérieure	appuyer	galop
+aide	jambe_extérieure	appuyer	aide	galop
+jambe	cheval
+cheval	équilibre
+galop	reculer	jambe_extérieure
+reculer	épaule_extérieure	fesse_extérieure	épaule_intérieure	cheval	reculer	jambe_extérieure
+cheval	hanches	intérieur	galop	action	jambe_intérieure
+épaules	cheval
+appuyer	épaules	cheval
+hanche	coude	intérieur
+appuyer	jambe_extérieure	galop
+temps	voix
+galop	longe	galop
+badine	épaule_intérieure	cheval	galop	badine	hanche_extérieure	appuyer
+temps	cheval	galop	appuyer	carrière
+appuyez	doubler	petit_côté	diagonale
+galop	cercle	ligne_droite	grand_côté
+tact	cheval
+équilibre	cheval
+
+cheval	appuyer_tête_au_mur	mur	intérieur
+
+tête_au_mur	main	légères
+cheval	intérieur
+paroi	cheval	mains	intérieur	main
+doigts	paroi	action	jambes	changer	aides	légères
+action	buste	apprentissage	appuyers	appuyers	temps	cheval
+
+trot	galop
+
+appuyer	trot	galop	passage
+allure	cheval	équilibre	impulsion	pli	appuyer
+appuyer
+allure
+cavalier	cheval	temps
+allure	apprentissage
+cavalier	aides
+contractions	cheval	exercice
+trot
+
+appuyers	trot	cheval
+appuyer	cheval	impulsion	rassembler
+rassembler	appuyers
+cheval
+exercice	cadence	cheval	relaxé
+aides
+aides	cheval	équilibre	équilibre	équilibre	cheval	coin	doublé	ligne_du_milieu	équilibre	épaules	appuyer
+main_intérieure
+action
+appuyers	apprentissage	appuyer
+appuyer	trot	exercice
+incurvation	appuyers	cheval	pli	incurvation
+
+cheval	aides
+pli	jambe_intérieure	à_la_sangle	hanches	intérieur	action	jambe_extérieure	en_arrière_de_la_sangle
+rêne_intérieure	pli	incurvation	rêne_extérieure	épaules
+aides	rêne_extérieure	directive	pli
+rêne_extérieure	rêne_intérieure	pli
+action	jambe	incurvation
+appuyer	mouvement
+temps	aides
+cheval	temps	travail_de_deux_pistes
+cavalier	sens_du_déplacement	cheval	intérieur	incurvation	épaule_en_dedans
+
+règle	sens_du_déplacement
+appuyer	hanches	coude	intérieur	pli	cheval	sens_du_mouvement
+épaule_en_dedans	légère	étrier_interne	pli	cheval	postérieur_interne	épaule_extérieure
+
+épaule_en_dedans	fesse_intérieure	fesse_extérieure
+
+cheval
+demi-tour_autour_des_hanches	demi-tour_autour_des_hanches	aides
+demi-tour_sur_les_hanches	demi-pirouette
+avant-main	cheval	arrière-main	hanches_en_dedans
+cheval	infléchi	cadence	battues
+galop
+pirouette	rassemblant	cheval
+cheval	appuyers
+appuyers_tête_au_mur
+cheval	stable	décontractée	paroi	appuyer_tête_au_mur	demi-volte
+hanches	épaules	paroi	croupe_au_mur
+jambe_intérieure	à_la_sangle	pli	impulsion
+jambe_extérieure	en_arrièrre_de_la_sangle	hanches
+main_intérieure	pli
+main_extérieure	main_intérieure	épaules	cheval	épaules	direction_du_mouvement	épaules	hanches
+épaule_extérieure	mouvement	épaules	cheval	buste
+oreilles	cheval	exercice	hanche_interne	cheval	demi-volte
+cavalier	fesse_extérieure	fesse_intérieure
+actif	demi-volte
+postérieur_interne	demi-tour_autour_des_hanches
+cheval	galoper	assis	galop	temps	hanches	relaxé	exercice	galop	tact	légèreté	appuyer	exercice_de_deux_pistes	cheval	latéralement
+avant-main	arrière-main	encolure	tête	infléchies	direction_du_mouvement
+appuyer	cheval
+assouplir	latéralement	cheval
+postérieurs
+musculature
+cheval	cheval	latéralement	fléchi
+cheval
+cheval	latéralement
+cheval	paroi
+cheval	pli
+aides	appuyer	impulsion	cadence
+épaules	cheval	doublant	aides	incurvation	pli	intérieur
+jambe_intérieure	à_la_sangle	impulsion	incurvation
+jambe_intérieure	pli	jambe_extérieure	en_arrière_de_la_sangle	hanches	appuyer
+rêne_intérieure	incurvation	céder	rêne_extérieure	épaule_extérieure	cheval	contact
+rênes
+buste	cavalier	épaules	cheval	appuyer	épaules	appuyer
+cavalier	main_intérieure
+appuyer	action	main_intérieure
+appuyer	trot	galop	passage
+doublez	appuyez	jambe_intérieure	à_la_sangle	doubler
+cheval	épaule
+jambe_intérieure	éperon	fléchit	cheval	cheval	à_la_sangle	cheval	fléchit
+aides_extérieures	appuyer	épaule_en_dedans
+main_intérieure	garrot	encolure	mains	appuyer	amplitude
+rênes	rêne_extérieure
+rêne_intérieure	rêne_extérieure	mouvement	rênes
+pli
+cheval	ployé	nuque	queue
+assis	cheval
+marche	appuyer	jambe_intérieure	rêne_extérieure
+épaules	appuyer	épaule	appuyer	mouvement
+appuyers	résistance
+appuyer	rêne_extérieure	jambe_intérieure	cheval	pli
+appuyer	mur	jambe_gauche	rêne_gauche	descente_de_main
+rêne_intérieure	légère	jambe_intérieure
+rêne_intérieure	jambe_intérieure	rêne	légère	pli
+apprentissage	cheval	appuyer	apprentissage	épaule_en_dedans
+
+arrondissez	cheval	cadence	relaxation	épaules_en_dedans
+grand_côté	petit_côté	doublez	ligne_du_quart
+foulées	pli	main_intérieure	jambe_intérieure	épaules	cheval
+jambe_extérieure	jambe_intérieure	à_la_sangle	pli
+baguette	hanche_extérieure	cheval
+pli
+récompensez	foulées	latérales
+main
+doublant	ligne_du_milieu	diagonale	ligne_du_un-quart	cadence	mouvement	temps	cheval
+épaule_en_dedans
+appuyer	épaule_en_dedans
+diagonale	épaule_en_dedans	cheval
+pli	hanches	cheval	croupe	engagement	postérieurs
+cheval	appuyant	foulées	marchant	droit	appuyant	appuyer	coin	diagonale	mur	infléchissez	cheval	épaules	appuyer
+jambe_extérieure
+doublers	jambe_intérieure	à_la_sangle	doubler
+appuyer_tête_au_mur	tête_au_mur	travers	exercice	assouplissement	cheval	appuyer	incurvé	tête	mur	hanches_en_dedans
+trot	galop
+main_droite	cheval	incurvé	pli	appuyer	tête	extérieur	hanches_en_dedans
+contre_épaule_en_dedans	tête	mur	extérieur	hanches_en_dedans
+pli
+contre_épaule_en_dedans	pli
+cheval	fléchi_à_gauche	main_droite
+contre_épaule_gauche_en_dedans
+appuyer_tête_au_mur	assouplit	cheval	hanches	engagement	postérieurs	redresse	avant-main	soumet	cheval
+exercices	pirouette	exercice	tact	aides	légères	descentes_de_main	appuyer_tête_au_mur
+cheval	appuyer	cavalier	exercice
+appuyer	tête_au_mur
+cercle	main_droite	cercle
+cheval	équilibré	relaxé
+cercle	volte	incurvation	tête_au_mur	colonne_vertébrale	cheval	courbe
+cheval	tête_au_mur	incurvé	exercice
+appuyer_tête_au_mur	passage	coin	grand_coté
+cheval	incurvation	paroi
+nez	cheval	paroi	jambe_extérieure	inciter	cheval	hanches_en_dedans	paroi	jambe_intérieure	à_la_sangle	incurvation
+pli_à_droite	rêne_intérieure	rêne_extérieure	cheval
+buste	estomac	buste	extérieur	épaule
+
+épaules	cheval
+cheval	paroi	léger	aides	descente_de_main
+cheval	paroi
+buste	cheval
+cadence	exercice
+appuyer_tête_au_mur
+exercice	redressant	cheval	coin	coin	hanches	épaules	demie_volte	hanches	appuyant	paroi	changeant_de_main	cercle	pistes	appuyer	hanches	paroi	courbe	cheval	redresser	cheval	mur	incurvation	appuyer	diagonale	appuyer	appuyers
+changer	pli	appuyer_tête_au_mur	grand_côté	coin	appuyer	doubler_sur_la_ligne_du_milieu	appuyer_tête_au_mur	volte	pistes	hanches	hanches_en_dedans	poursuivre	appuyer	diagonale	hanches	mur	diagonale	croupe_au_mur	croupe_au_mur	petit_côté	coin	croupe_au_mur	grand_côté	doubler	main_droite	ligne_du_milieu	volte	hanches_en_dedans	volte	hanches_en_dedans	huit_de_chiffre	hanches_en_dedans	redresser	cheval	ligne_du_milieu	exercice	hanches_en_dedans	hanches_en_dehors	volte	appuyer_tête_au_mur	demi-volte	hanches	demi-pirouette	hanches	poursuivre	mur	croupe_au_mur	appuyer_tête_au_mur	mur	appuyer	diagonale	épaules_devant	hanches	hanches	épaules	tête_au_mur	ligne_du_milieu	pli	ligne_du_milieu	appuyer	tête_au_mur	pli_à_droite	pli_à_gauche	appuyers	contre-appuyers
+grand_cercle	hanches_en_dedans	hanches_en_dehors	cercle
+huit_de_chiffre	volte	hanches_en_dedans	volte	hanches_en_dehors	appuyer	épaule_en_dedans	piste	main_droite	doubler	ligne_du_milieu	appuyer	tête_au_mur	pli	épaule_gauche_en_dedans	ligne_du_milieu	cheval	ligne_du_milieu	incurvation
+grand_cercle	hanches_en_dehors	changer	courbe	épaule_en_dedans	débourrage	poulain	cavalier	allures	mouvement_en_avant	aides
+débourrage	cheval
+débourrage	montée	cheval
+cavalier	monture	cheval
+cheval
+débourrer	cheval	cheval	cavalier
+cheval
+longe	débourrage	débourrage	jument	changement_de_main
+
+chambrière	grand_galop	main
+chevaux	débourrage
+main_droite	main_gauche
+cheval
+
+dresseur	preuve	tact
+
+aide	jument
+cercle	manche	chambrière	bras	mèche
+aide	récompense	jument	en_main	cercle
+longiez	jument
+voix	aide	arrête	jument	récompense
+chambrière	mèche
+jument	marche	aide	jument	marcher	cercle	intérieur	jument
+
+trot
+jument
+rênes_fixes	encadrant	jument	aides	cercle	arrêt	mouvement
+rênes_fixes
+jument	longe
+
+
+cheval	galop	cavalier	cheval
+cavalier	débourrer	cheval
+cheval	cavalier
+cheval	responsable	investissement	cheval	club
+cheval	maréchalerie	dressage	cheval	galop_7	cavalier	cheval	cheval	engagement	yeux	équestre
+
+équestre	poulain	cheval
+équitation
+cheval	boxe	en_main	monté	extérieur	cavalier	responsabilité	débourrage	cheval
+débourrage
+cavalier	cheval
+cheval	cavalier
+
+cavalier
+condition	responsable
+débourrage	extérieur	barbe	débourré	longe	en_main
+
+cavalière	extérieur	extérieur	en_main	monte	trot
+changer	mis	descendre	en_main
+
+
+barbes	arabes-barbes	monté
+chevaux	extérieur
+poulain
+débourrage	se_contracte	cavalier
+musculature	équilibrer
+carrière	équilibrer	allures	extérieur
+longe	enrêné	rênes_fixes_latérales	muscler	équilibrer
+en_main	monté
+cheval	monté	cavalier
+barbe	cheval	extérieur
+légèreté	jm_bertrand
+allege_ideal	régularité
+
+légèreté	équitation	harmonieuse	cheval
+loin
+légèreté
+
+jean-michel_bertrand	équitation_de_tradition_française	unesco
+légèreté	décision
+cheval
+légèreté	équitation
+patrick_gruss	cheval	cadeau
+temps	j-m_bertrand
+tact_équestre	cheval	tact_équestre	équestre
+cavaliers	cavaliers
+équitation
+tact_équestre	aides
+équitation	aides	tact	pansage	débourrage	monter	cheval	cheval	cheval
+tact_équestre	cheval	expressions	comportements	cheval
+équin
+cheval	cheval
+apprentissage	tact	cheval
+aides
+
+cavalier	club	tact_équestre	équidés	cheval
+cheval	cavalier	cavalier	chevaux
+tact_équestre	travail_monté	cavalier	monter	chevaux	cheval
+chevaux	tact
+chevaux	tact
+chevaux	pansage	coup_de_pied	cheval
+débourrage	cheval
+tact	chevaux	chevaux
+cheval	tact_équestre	équestre	cheval	cheval	cheval
+apprentissage	cheval
+cheval
+tact_équestre
+cheval
+chevaux	cheval
+
+cheval
+
+
+cheval	cheval
+cheval
+youtube	débourrages	comportements	chevaux
+tact_équestre	travers	exercices	tact_équestre	vital_lepouriel
+
+tact_équestre	cheval	tact	cavaliers	chuchoteurs
+
+
+patients	tact	équestre
+équitation_de_tradition_française	équitation	equitation_de_tradition_française
+equitation_de_tradition_française
+
+equitation_de_tradition_française	unesco
+equitation_de_tradition_française
+equitation_de_tradition_française
+équestres
+équitation_de_tradition_française
+écuyers	légèreté	harmonie	cheval
+harmonie	légèreté
+
+
+écuyers	la_guérinière	baucher	beudant	oliveira
+cadre_noir	saumur	equitation_de_tradition_française
+
+équitation	équestre	équestre
+france
+france	équitation	équitation
+intégrité	cheval	équitation_moderne
+equitation_de_tradition_française
+equitation_de_tradition_française	saumur
+haute_ecole	cavalier
+équitation
+equitation_de_tradition_française
+équitation_de_tradition_française	monter_à_cheval	harmonie	cheval
+cheval	harmonieuses	cheval
+cheval
+mouvements	articulations	cheval	exercices
+bernard_mathié	équestres	écuyers	équitation_de_tradition_française	harmonie	cheval	cavalier	légèreté	économique	commerciale
+
+rassembler	cavalier_de_dressage	haute_école	airs_rassemblés
+cheval	exercices
+rassembler
+
+rassembler	cheval	basse-école
+cheval
+rassembler	souplesse	cheval	temps	régulier
+loin	contact_léger	bouche	cheval	cheval	décontracté	stable	nuque	allures	transitions	déplacements_latéraux	épaule_en_dedans	appuyer	transitions	allures	galop	reculer	arrêt	galop	transitions	allure	trot	allongé	équilibre	cheval	légèreté	aides
+légèreté	dressage
+cheval	léger	dressage	légèreté	aides
+rassembler	cavaliers	rassembler	mise_en_main	sous-impulsion
+mise_en_main	tête-encolure	rassembler	report	arrière-main
+cheval	trotter	piaffer	rassemblé
+rassembler
+rassembler	extérieur	hanches	report	arrière_main	postérieurs	antérieurs	articulations	arrière-main	fléchies	encolure	report	arrière_main	équilibre	cheval
+juger	rassembler	cheval
+piaffer	exercice	rassembler	piaffer
+cheval	piaffer	encolure	croupe
+postérieurs	masse	articulations	fléchies
+hanches	fléchies	cheval	encolure	cheval	antérieurs
+boulets	juger	avant_main	arrière_main	cheval
+cheval	rassemblé
+monter	cheval	mis	haute-école	selle	cheval
+mouvement	équilibre
+cheval	arrière-main	cabrer
+cheval	exercice
+galopades	rênes	cheval	cheval	rond	jambes	action	muscles	piaffer	passage
+engagement	postérieurs
+nuque	cheval	main	postérieurs
+cheval	apprentissage	cheval
+mouvement	passage	trot
+piaffer	diagonalisation	hanches	cadence	avant-main
+piaffer
+rassembler	rassembler	équilibre	équilibre	impulsion
+équilibre	cheval	impulsion	rassembler
+dresseurs	exercices	haute-école	rassembler	pied	longues_rênes	épaule
+pied
+cheval	dresseur
+exercice	exercices	basse_école	rassembler	haute_école
+tête	exercice	cheval
+encolure	décontraction	mâchoire	nuque	contact	main	cheval	équilibre
+cheval	équilibre	épaules	tête	garrot
+arrière_main	active
+exercices	déplacements_latéraux	hanche	interne	reculer	hanches	transitions_pas-trot	diagonalisation
+exercices	rassembler
+rassembler	basse-école	déplacements_latéraux	transitions	cheval	exercices
+encolure	report	arrière_main
+peine
+hanches	déplacements_latéraux	transitions
+cheval	équilibre	impulsion	rassembler
+décontraction	mâchoire	clubs	décontraction	mâchoire	écuyers
+baucher	flexions	langue	décontracter	encolure	cheval
+décontraction	mâchoire
+cheval	décontracte	mâchoire	mouvement	langue
+cheval	langue	filet	mors	molaires
+décontraction	mâchoire	écuyers	équitation
+exercice	décontractantes	cheval
+nuno_oliveira	chevaux	bouche	rênes
+baucher	flexions	cheval	travail_monté	conditions	décontraction
+écuyers
+langue	cheval	muscles	encolure	abdomen
+mouvements	langues	décontraction	muscles_brachio-céphaliques	encolure
+cheval	redresser	avant-main	tension	résistance	rênes
+décontraction	mâchoire	décontraction	nuque	cheval	dans_la_main
+cession_de_nuque	exercices	décontraction	mâchoire
+décontractant	exercice	cheval
+salivation	salivation	décontraction
+salive	bouche	cheval
+cheval	salives	salive	salive
+cheval	bouche	décontractée	salive	lèvres
+cheval	contracté	bouche	muserolle	encolure	cavalier	main	bouche	bouche
+contraction
+chevaux_de_dressage	salivation	contractés
+chevaux	montés	mors	mâchoire	saliver	bouche
+cheval	salive
+cheval	salive	mâchoire
+exercices	pied	monté	langue	bouche
+exercices	cheval	contact_léger	bouche
+main	bouche
+décontracter	mâchoire	mors
+cavalier	monter	mors	décontracter	mâchoire	cheval	mors
+
+cheval	décontracter	mors
+mors	décontraction	mâchoire	contact	main	résistance	nuque
+décontraction	mâchoire	mors
+équilibre	cheval	exercices	assouplissements	tact
+mors	bouche	cheval
+exercice
+arrêt	pied	monté
+pied	cheval
+muserolle	prix	muserolles	anneaux_du_mors	mors	bouche	cheval	mors	action	cheval	mâche	mors	récompenser	flexion_latérale	cheval	décontracter	exercices	montés	rênes	montants	mors	lèvres
+rênes	mors_de_filet	encolure
+encolure	équilibre	cheval
+décontraction	mâchoire	cheval
+exercice	cheval
+légèreté	contact	main	cavalier	bouche	cheval	exercice
+cheval	cheval	mâche	mors	cheval	cavalier
+sur_la_main
+cheval	haltérophilie	cheval
+temps	changer	cercle
+pistes	loin
+temps	arrête	appuyer
+cheval	bras	épaules	bouche	encolure	cheval	contractures
+cheval
+cheval
+mains	chevaux	aides
+cheval
+cercle	cheval
+cheval	rênes_fixes
+cavalier	cheval	cavalier	cavalier	cheval
+équestre	main	piste
+bras
+main
+cavalier	acquis	aides	main
+en_selle	cavalier	stable	allures
+main	main	buste	cavalier	encolure	pliant	coudes
+bras	oreilles	cheval	rééquilibrer	mains	genoux
+rênes	pouce	index	doigts	appuyant	langue	doigts
+chevaux	fines	rênes
+changer	main
+mains	changeant
+changeant	rênes	mains
+preuve	mains	main
+rênes	pouce	index	tension	mains	bouche	cheval
+coudes	hanches
+collier_de_chasse	ramener	mains	mouvements	mains
+doigts	rênes
+cheval	main	cheval	rênes
+cheval	changer	conditions
+cheval
+cheval	changer	équilibre
+rênes_longues	cheval
+temps	main	temps
+exercices	dressage	équilibre	cheval
+épaule_en_dedans	décontraction	mâchoire	cession_de_la_nuque	incurvation	engagement	postérieur_interne
+exercices	dressage	équilibre	cheval	demi-arrêts	rênes	inciter	cheval	redresser
+cheval	encolure
+dressage	encolure	cession_de_nuque	temps
+encolure	cheval	léger
+cheval	impulsion
+cheval	monter	épaules	articulations	encolure	bouche
+responsabilité	cavalier	cavalier	main	équilibre	cheval
+cheval	équilibre	cheval
+rênes_longues	exercices	dressage	encolure
+cavalier	main
+arrêter	cheval	mains
+arrêter	cheval	droit
+arrêt	techniques	trot	galop
+postérieur
+arrêts
+arrêt	cheval
+chevaux	arrêt
+
+cheval
+arrêt	récompenser	arrêt	cheval
+temps
+récompenser
+récompenser	arrêts
+tête	arrête
+cheval
+arrêts	récompenser	cheval	arrêt	récompense	cheval
+aides	arrêt	arrêter	cheval	rênes
+
+rênes
+bouche	cheval	cheval	décontraction	cheval
+
+décontraction	rênes
+arrêter	cheval	rênes
+aides	mains	cheval	rythme	allure
+inciter	cheval	allonger	selle	cuisses	cheval	foulée	transition_descendante
+bassin	selle	assiette	cavalier	équilibré	assiette	aide	équilibre
+assiette	mouvement	trot	arrêt	cheval
+mains	doigts	rênes
+rênes	doigts	décontracter	bouche	cheval	main_droite	main_gauche
+aides	arrêt	assiette	doigts	cheval	arrêt	cheval
+arrêter	cheval	mains
+rênes	monter	mains
+bouche	monter	mains	tête	cheval
+arrêter	cheval	arrêt	ré-équilibration	cheval
+mains	cheval	remonter	encolure
+cheval	main	encolure	garrot
+équilibre	cheval	équilibre	impulsion	cheval	arrête	équilibre
+montée	mains	arrêt
+équilibre	cheval	impulsion
+aides	arrêt	monter	mains	cheval	cheval
+arrêt	cheval
+reprises_de_dressage	arrêts	lettre
+tête	cheval	arrêts
+
+arrêter	cheval	recours	doigts	rênes
+patient	cheval	temps	aides
+
+transitions
+cheval	exercice
+monter
+cheval	cavalier
+cheval	preuve
+cheval	transformer
+arrêts_carrés	transitions	contact_léger	aides	rectitude	loin	arrêts_carrés
+cheval	arrête	antérieurs	postérieurs
+extérieur	juger	cheval	arrêts
+hanches	assouplies	déplacements_latéraux	arrêts
+arrêts	figure	exercices
+postérieur	exercices	engagement	postérieur
+postérieur	badine	croupe	cheval	arrière-main
+cheval	arrête	épaules	équilibre
+contact	bouche
+cheval	sur_la_main
+mâchoire	décontractée
+décontraction	mâchoire	nuque	cheval
+arrière-main
+antérieur	en_avant	déplacements_latéraux	épaules	épaule-en-dedans
+cheval	épaules
+cheval
+arrêts	carrés	arrêts	selle	cheval
+selle	bassin	décalage	fesse	en_avant	fesse	cheval
+arrêt_carré
+cheval	arrêt
+aides	cheval	exercice	aides
+assouplissement	cheval	arrêts_carrés
+arrêts
+leçon_de_la_jambe	leçon_de_la_jambe	yeux	apprentissage	poulain	cheval
+cavaliers	temps
+leçon_de_la_jambe	apprentissage	cheval	jambes	cavalier	mouvement_en_avant
+aides	cavaliers	mains	légèreté	cheval
+cheval
+cheval	mouvement
+cheval	cheval
+apprentissage	mouvement_en_avant	jambes	voix	mollets	talons	talons	talon	cravache	cravache	croupe	cravache	éperons
+légèreté
+
+cheval
+mouvement_en_avant
+cheval	talons
+
+
+étape_1
+cheval	en_avant
+cheval	cavalier
+abuser	cheval
+cheval	léger
+
+chevaux	aides
+
+cheval	monter	cheval	monté	légère	légères
+exercice	débourrage
+cheval	mouvement_en_avant	foulée	exercice
+chevaux	lourds_dans_la_main	cession_de_nuque
+aides
+
+cheval	mouvement
+cheval
+patient
+
+cheval
+cheval
+mors	cheval	bouche	mors	cavalier	léger	cavalier
+mets	cheval	légèreté	mains	jambes
+
+dressage	complicité	complice	cheval
+chevaux	complice
+complicité	dressage
+complicité
+complicité	cheval	cheval	cavalier
+
+
+harmonie
+
+cheval
+
+extérieur	cheval
+cheval
+chevaux
+cheval	dresser
+dressage	complicité	cavalier
+cheval
+complicité
+
+cheval
+complicité	cheval
+œil	cheval
+cheval	dressé	dressage	aides
+juger	complicité	couple	expressions	cheval	exercices
+cheval
+cheval	cravache	bouche
+complicité
+cheval	cavalier
+
+dresser	cheval	complicité
+cavalière	cheval	coup_de_pied	tête
+complicité
+
+complicité	dresseur	équestre
+chevaux	public
+
+cheval
+
+
+équestres
+
+cavaliers
+cheval
+chevaux	complicité
+cavalière	cheval	carrière	encolure
+cheval	tête	œil	droit
+yeux
+
+cheval	monter	temps
+temps
+complicité
+
+épaule_en_dedans	cheval	cavalier	marcher	cheval	pistes	antérieurs	piste_intérieure	incurvé	jambe_intérieure
+épaule_en_dedans	exercice	assouplissement	aides	cheval	air
+épaule_en_dedans	conseil	art_équestre	épaule_en_dedans	dressage	cheval	appuyer	acquis	rassemblé
+exercice	rassembler	cheval	cheval	épaule_extérieure	cavalier	croupe
+exercice	avantage	engagement	postérieur_interne	poussée	masse	cheval	épaules
+appuyer	cheval	marche	pli	cheval
+épaule_en_dedans	cadence	pli	nuque	aides	cheval	main	rondeur	cheval	léger	exercice
+épaule_en_dedans	allures	cheval	allure
+cheval	cavalier
+cavalier	indépendance_des_aides	incurvation	cadence
+cheval	en_avant	cercles	voltes	pli	hanches
+conditions	épaule_en_dedans
+aides	jambe_intérieure	à_la_sangle	incurvation	main_intérieure	pli	main_extérieure	épaules	jambe_extérieure	hanches	extérieur	postérieur_interne
+épaule_en_dedans	allure	cadence	exercice	cheval	marchant	foulée	cadence	épaule_en_dedans
+temps	cheval	cadence	cheval
+cheval	volte	coin
+volte	aides	cheval	coin	cheval
+volte	aides	volte	épaules	cheval	rotation	poignet_intérieur	épaule_extérieure	jambe_intérieure	à_la_sangle	temps	fesse_extérieure
+impulsion	cheval	foulée	épaule_en_dedans	récompenser	ramenant	épaules	piste	rêne_extérieure	redresser	cheval	épaules_devant	hanches
+aides	exercice	foulée	impulsion
+rêne_extérieure	tiers	cheval	jambes	tiers
+rêne_intérieure	pli	décontraction
+action	rêne_extérieure	exercice	avantage	foulées	épaules	rêne_extérieure	incurvation	jambe_intérieure	aides	exercice
+acquis
+volte	aide	jambe_extérieure	cheval	exercice	rassemble
+résistance	exercice	volte	décontracter	exercice
+trot
+épaule_en_dedans	galop	cheval	appuyer	galop	appuyer	galop	allure	épaule_en_dedans	galop	cheval
+épaule_en_dedans	galop	assoir	cheval	redresser	galop	abuser	épaule_en_dedans	trot	cheval	fuir	jambe_intérieure	jambe_extérieure
+cheval	appuyer	appuyer	cheval	fuit	jambe_extérieure	jambe_intérieure
+épaule_en_dedans	contre_épaule_en_dedans	ligne_droite	cercles	basse_école	appuyer	travers	renvers
+exercices	basse_école	dressage	cheval	haute_école
+assouplissement	cheval	soumission	aides	airs_de_la_haute_école	légèreté
+épaule_en_dedans	pistes
+
+pistes	ecole_de_cavalerie
+pistes
+pistes	postérieur_interne	poussée	masse	engager	loin	ventre	cheval	pistes
+pistes	cheval	cadence
+chevaler
+cheval	cavalier
+épaule_en_dedans	la_guérinière	newcastle
+épaule_en_dedans	ecole_de_cavalerie	la_guérinière
+juges	mouvement	reprise
+galop_rassemblé	arrêt	salut	trot_rassemblé	piste	main
+
+tête	cavalier	juges
+juges
+mouvement
+galop	transition_descendante	arrêt	transition_montante	trot
+galop	rythme	temps	rassemblé	mise_en_main	rectitude
+chevaux	cheval	équilibre
+rassemblé	rectitude	engager	postérieurs	hanches
+transition	cavalier	amplitude	foulée	cheval	arrêt
+arrêt
+arrêt
+arrêt	carré
+cavalier
+
+impulsion	trot
+trot_rassembler	mise_en_main	rectitude	juge
+cavalier	mouvement	vote
+trot_rassemblé	exercice	trot	trot_rassemblé
+reprise_libre	damon_hill	amsterdam
+
+cheval
+passage	expressif	rythme
+piaffer	rassemblé	expressif
+pirouettes_au_galop	hanches
+allongements	expressifs
+transitions	allongements
+trot	cavalière
+transition
+trot_rassemblé
+trot_allongé	figure
+cadence	trot_rassemblé	trot_allongé	cheval
+foulées
+activité	expression
+cheval	cadence	activité	trot_passager	passage
+amplitude	trot_rassemblé	tue	trot_rassemblé
+expression	prix	allure
+dressage
+techniques	juges

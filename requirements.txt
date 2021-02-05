@@ -1,0 +1,25 @@
+antlr4-python3-runtime==4.8
+cffi==1.14.4
+click==7.1.2
+Cython==0.29.21
+dataclasses==0.8
+-e git+https://github.com/pytorch/fairseq@01fcec5fc3dcc695c59cf3fdf7f178c174edcf0d#egg=fairseq
+flashtext==2.7
+hydra-core==1.0.6
+importlib-resources==5.1.0
+joblib==1.0.0
+nltk==3.5
+numpy==1.19.5
+omegaconf==2.0.6
+portalocker==2.2.1
+pycparser==2.20
+PyYAML==5.4.1
+regex==2020.11.13
+sacrebleu==1.5.0
+sacremoses==0.0.43
+six==1.15.0
+stopwordsiso==0.6.1
+torch==1.7.1
+tqdm==4.56.0
+typing-extensions==3.7.4.3
+zipp==3.4.0

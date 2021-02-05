@@ -1,0 +1,1884 @@
+épidémiologie	économique	insuffisance cardiaque	france	épidémiologie	insuffisance cardiaque	france	économique	santé
+insuffisants cardiaques
+incidence	ss
+insuffisance cardiaque	tiers	patients
+consultations	hospitalisations	insuffisance cardiaque
+
+décès	insuffisance cardiaque
+dépenses	insuffisance cardiaque	dépenses	médicales
+insuffisance cardiaque	santé	publique
+inciter	patients
+prévalence	prise en charge	insuffisance cardiaque	france	médecins généralistes	réseau sentinelles
+épidémiologiques	insuffisance cardiaque	ic	france	hospitalières
+prévalence	ic	prise en charge	médecins généralistes	france
+
+patient	médecins généralistes	réseau sentinelles	inserm
+insee	cnamts	prévalence	ic
+
+médecins	patients	insuffisants cardiaques
+patients	cardiologue
+échocardiographie
+patients	insuffisants cardiaques	patients	insuffisants cardiaques	hospitalisation
+patients	insuffisants cardiaques	ventricule gauche	enzyme	récepteur	angiotensine
+prévalence	ic	patients	médecine générale	france
+prévalence
+
+ic	patients	médecine générale	france	prévalence	médicale	consultations	hospitalisation
+médecin généraliste	diagnostic	ic	cardiologue	échocardiographie
+prise en charge	thérapeutique
+incapacité fonctionnelle	qualité de vie	insuffisance cardiaque
+goldman	minnesota	duke	insuffisance cardiaque	patients	qualité de vie
+qualité de vie	profil de santé de duke	qualité de vle	insuffisance cardiaque	minnesota	capacité fonctionnelle	activité	goldman
+
+patients
+patients	insuffisants cardiaques	patients	stables	transplantation cardiaque	reproductibilité
+reproductibles	alpha de cronbach	duke	minnesota	coefficient de corrélation intraclasse
+validité de convergence	ventriculaire gauche	nyha	hospitalisation	décompensation	goldman
+
+qualité de vie	clinique
+insuffisance cardiaque	cardiologique
+insuffisance cardiaque	ic	cardiologique	étiologies	léthalité hospitalière
+étude prospective	hôpital	patients	admissions	affection cardiovasculaire
+clinique	paraclinique	cardiologique	non invasif
+
+ic	admissions
+hta	diabète
+ic	patients	neurologique
+ecg	hvg	patients	patients	arythmie par fibrillation auriculaire	étiologies	valvulopathie	hta	cardiopathie ischémique	insuffisance rénale chronique	hta
+étiologie
+patients	décédés	hospitalisation
+ic	cardiologique	valvulopathies	hta	chirurgie cardiaque
+rhumatisme articulaire aigu	prendre en charge	hypertendus
+thérapeutique	prise en charge	insuffisance cardiaque	insuffisance cardiaque	maladie	morbimortalité
+prise en charge	patients	insuffisants cardiaques	prescription	traitement médical	qualité de vie
+preuves	morbimortalité	prise en charge
+thérapeutique
+formation	médicaux	paramédicaux
+thérapeutique
+insuffisance cardiaque	france
+conférence consensuelle de la société canadienne de cardiologie	insuffisance cardiaque	diagnostic	prise en charge	insuffisance cardiaque	diagnostic
+morbidité	mortalité	diagnostic	prise en charge	maladie	symptômes	pronostic	patients
+société canadienne de cardiologie	diagnostic	prise en charge	insuffisance cardiaque	suivi	exercice	thérapeutiques
+méta-analyses	cliniques	principal	soumettre
+spécialistes	médecins de famille	infirmières	pharmaciens	insuffisants cardiaques
+prise en charge	insuffisance cardiaque	diagnostic	administration	traitements pharmacologiques	thérapeutique	symptômes	tableau clinique	angioplastie	patient
+clinique	santé	insuffisants cardiaques	canada
+réadaptation	malades	insuffisance cardiaque chronique	réadaptation	entraînement
+malades	insuffisance cardiaque chronique stable	malades
+tests	cardiopulmonaires	ventriculaire gauche	isotopique	pléthysmographie
+classification fonctionnelle de la new york health association	goldman
+patients	hospitalisés	insuffisance cardiaque	france	insuffisance cardiaque	ic	affection	responsable	hospitalisations
+hospitalisées	ic
+pmsi- mco	médicalisation	médecine	chirurgie
+diagnostic	principal	ic	diagnostic	ic	diagnostic	principal	ic	œdème	aigu	poumon	foie cardiaque
+patient
+hospitalisées	ic
+patients	ic
+patients	hospitalisés
+significative
+lètalité intra-hospitalière	hospitalisation
+
+ic	hospitalisation
+
+thérapeutique	patients	insuffisants cardiaques	i-care
+thérapeutique	prise en charge	maladies chroniques	insuffisance cardiaque
+i-care	thérapeutique	france	formation	thérapeutique	insuffisance cardiaque
+tiers	thérapeutique
+formation	thérapeutique
+diagnostic	maladie	activité	physique
+formation	cardiologue	infirmière
+i-care	thérapeutique	insuffisance cardiaque	prise en charge	pathologie
+insuffisance cardiaque chronique	afrique	échocardiographie doppler	médecine	hôpital général de yaoundé
+insuffisance cardiaque	ic	maladie	afrique	diagnostiques	échocardiographie
+épidémiologiques	cliniques	étiologiques	thérapeutiques	ic	hôpital général de yaoundé
+patients
+
+cliniques	échocardiographiques	ic
+
+ic	admission	réhospitalisations	prévalence	mortalité
+classes fonctionnelles	nyha	patients
+dyspnée	hépatomégalie
+cavités cardiaques	dilatées	ventricule gauche	dysfonction systolique
+ic diastolique isolée
+étiologies	hypertension artérielle	myocardiopathies	valvulopathies
+cardiopathie ischémique
+traitement médical	diurétiques	anse	enzyme	digitaliques	bêta bloquants
+
+ic	santé	cameroun
+échocardiographie	diagnostic	ic	étiologie
+
+insuffisance cardiaque	infectieuse	maladies cardiovasculaires	publique
+insuffisance cardiaque	expression	clinique	cardiopathies
+insuffisance cardiaque	affections	infectieuse	incidence	transition
+infectieuses	insuffisance cardiaque	cardiopathies	cardiomyopathies	fibrose endomyocardique	cardiomyopathie
+affections	transition
+cardiovasculaire	incidence	coronaropathies	complications	hypertension
+auteurs	clinique
+traitement symptomatique	insuffisance cardiaque	prise en charge
+peptide natriurétique de type b	bnp	troponine
+insuffisance cardiaque	syndromes coronaires aigus	sociétés	cardiologie	marqueurs biologiques	peptide natriurétique de type b	bnp	diagnostic	insuffisance cardiaque chronique	société européenne de cardiologie	infarctus du myocarde	troponine i
+cardiospécificité	troponine
+troponine i
+temps	infarctus du myocarde
+bnp	techniques	isotopiques	immunofluorimétriques
+
+marqueurs biologiques	diagnostic	suivi	thérapeutique	pronostic	syndromes coronaires aigus	insuffisance cardiaque
+insuffisance cardiaque	incapacité fonctionnelle	insuffisance cardiaque chronique	patients	maladie	patient
+classification de la nyha
+
+feinstein
+activité	goldman	gêne fonctionnelle	recours
+prise en charge	insuffisance cardiaque chronique	insuffisance cardiaque	maladie
+hospitalisations	qualité de vie	patient	patient
+santé	publique
+prise en charge	paramédicaux	patient
+patient	patient	maladie	qualité de vie
+patient	maladie	patient
+médecin généraliste	prise en charge	médicale	patient
+insuffisance cardiaque	brazzaville	cliniques	cliniques	insuffisance cardiaque	hospitalier
+
+insuffisance cardiaque	cliniques	radiologiques
+patients
+insuffisance cardiaque
+dysfonction ventriculaire gauche	systolique	diastolique
+cardiopathies	hypertensives	valvulopathies	cardiomyopathies
+cœur pulmonaire chronique	cardiopathies
+thrombolytiques	infarctus du myocarde
+cardiopathies hypertensives	valvulaires	cœur pulmonaire chronique
+cardiopathie
+insuffisance cardiaque
+vasculaire	hypertension
+inhibition du système rénine-angiotensine	diabète de type 2
+
+méta-analyse	cliniques	randomisés	hypertension essentielle	décompensation cardiaque congestive	insulinorésistantes	diabète de type 2	dt2
+blocage du système rénine-angiotensine	ras	enzyme	angiotensine	iec	antagoniste	récepteurs	at1	angiotensine ii	ara	métaboliques	dt2
+méta-analyse	cliniques	randomisés	inhibition du ras	incidence	dt2	hypertendus	décompensés cardiaques
+principal	pronostic	cardio-vasculaire	incidence	dt2	suivi	iec	ara	placebo	médicament	bêta-bloquant	diurétique	amlodipine
+hypertendus	stop hypertension-2	lisinopril	énalapril	bêta-bloquant	diurétique	cappp	captopril	thiazide	bêta-bloquant	hope	ramipril	placebo	allhat	lisinopril	chlorthalidone	lisinopril	amlodipine	life	losartan	aténolol	scope	candésartan	placebo	alpine	candésartan	placebo	value	valsartan	amlodipine
+patients	insuffisance cardiaque	solvd	énalapril	placebo	charm	candésartan	placebo
+diabète	patients	iec	ara	patients	témoins
+méta-analyse	ic	dt2	inhibition du ras
+iec	ara	patients	hypertension artérielle	insuffisance cardiaque	placebo	bêta-bloquant	diurétique	amlodipine
+dt2	patients
+inhibition du système rénine-angiotensine	significative	incidence	dt2	hypertension artérielle	décompensation cardiaque congestive
+pandémie	dt2	pharmacologique	maladie
+stimulation cardiaque double chambre	insuffisance cardiaque réfractoire	insuffisants cardiaques	débit cardiaque	patients	insuffisance cardiaque réfractaire
+
+patients	rythme sinusal	débit cardiaque de repos
+oreillette droite	apex	ventricule droit	stimulation double chambre	ondes p
+débit cardiaque	échocardiographie-doppler	délais auriculo-ventriculaires	délai av
+patients
+patients	cardiomyopathie dilatée	bloc de branche gauche	délai auriculo-ventriculaire	ms	ms	durée du remplissage diastolique	ms
+patients	cardiopathie	ischémique
+stimulation double chambre	temps de remplissage	court	rr	rr	bloc atrio-ventriculaire du premier degré
+stimulation double chambre	débit cardiaque de repos	insuffisants cardiaques graves réfractaires
+patient	insuffisance cardiaque	insuffisance cardiaque	patients	diagnostiqués
+mortalité
+prise en charge	patients	insuffisance cardiaque	recours	thérapies	qualité de vie	coûts	mortalité	hospitalisations
+cardiovasculaires	consultations
+temps	dépistage	insuffisance cardiaque
+spécialistes	prise en charge	insuffisance cardiaque	médecins	spécialistes	insuffisance cardiaque	cardiologues	omnipraticiens
+conférence consensuelle de la société canadienne de cardiologie	insuffisance cardiaque	diagnostic	prise en charge	insuffisance cardiaque droite	myocardite	thérapeutiques	cliniques	société canadienne de cardiologie	complet	diagnostic	prise en charge	insuffisance cardiaque
+insuffisance cardiaque	active
+diagnostic	prise en charge	insuffisance cardiaque droite	myocardite	thérapeutiques	cliniques
+preuves	société
+clinique
+cliniques	insuffisance cardiaque droite	épreuves	diagnostiques
+cliniques	maladie
+myocardite	patients	maladie
+cliniques	cliniques
+médecins	santé	patients	insuffisance cardiaque	santé	pronostic	clinique	maladie	canada
+société canadienne de cardiologie	diagnostic	prise en charge	insuffisance cardiaque	insuffisance cardiaque	insuffisance cardiaque	prise en charge	maladie	société canadienne de cardiologie	insuffisance cardiaque	ic	santé	cardiovasculaire
+société canadienne de cardiologie	ic	occident	insuffisance cardiaque	insuffisance cardiaque
+prise en charge	ic
+clinique
+santé	patients	ic	canada
+économique	insuffisance cardiaque	france	économiques	santé	publique	insuffisance cardiaque	france
+pathologie	prévalence	société	coût	coût	hospitalisations
+prise en charge	insuffisance cardiaque	coûts
+patient	ambulatoire	médecins généralistes	cardiologues	infirmières
+clinique	échocardiographique	double insu	enoximone	oral	placebo	insuffisance cardiaque sévère	enoximone	étude randomisée	double aveugle	placebo
+clinique	classification nyha	qualité de vie
+inotropisme	flux aortique	pulmonaire	échocardiographique doppler
+patients	insuffisance cardiaque sévère	symptomatiques	diurétiques	digitaliques	dérivés nitrés	enzyme
+syndrome cardiorénal	insuffisance cardiaque	cardiologue	dysfonctionnement rénal	comorbidités	insuffisance cardiaque
+taux de filtration glomérulaire	mortalité	complications	cardiovasculaires
+insuffisance cardiaque	insuffisance cardiaque aiguë décompensée	fonction rénale	syndrome cardiorénal
+hypertension	diabète	insuffisance cardiaque	insuffisance rénale
+physiopathologie	syndrome cardiorénal	hémodynamique intrarénale	perfusion	transrénale	neuro-hormonaux	systémiques
+prise en charge	clinique	patient	syndrome cardiorénal	résistance	diurétiques	diurétique	infusions	diurétiques
+thérapies	insuffisance cardiaque
+thérapie vasodilatatrice
+nésiritide	peptide natriurétique de type b	syndrome cardiorénal
+rénale
+ultrafiltration	antagonistes	vasopressine	antagonistes	adénosine
+survie	fonction rénale
+patients	compromise	cardiologues	néphrologues	internistes	patient	syndrome cardiorénal	prendre en charge
+bnp	insuffisance cardiaque	diagnostic	insuffisance cardiaque
+clinique	bnp	triage	biosite	patients	patients	insuffisance cardiaque	diagnostiquée	clinique	échocardiographiques
+sensibilité
+spécificité
+valeur prédictive positive
+valeur prédictive négative
+diagnostic	insuffisance cardiaque
+non-compaction isolée du ventricule gauche	non-compaction isolée du ventricule gauche	cardiomyopathie	congénitale	arrêt	embryogenèse	myocarde
+non-compaction ventriculaire gauche	échocardiographie
+insuffisance cardiaque	suivi	cardiomyopathie
+diagnostic	échocardiographie transthoracique	lrm
+affection	mort subite	mortalité	insuffisance cardiaque sévère	thrombo-emboliques
+diagnostic	non-compaction ventriculaire gauche	insuffisance cardiaque
+insuffisance cardiaque
+insuffisance cardiaque	maladie	pronostic	réhospitalisations
+pathologie	pharmacologique	réadmission	décompensation
+auteurs	mis	en avant	changement	prise en charge	insuffisance cardiaque	morbide	mortalité	coût	patients
+insuffisance cardiaque	centre hospitalier	pontoise	thérapeutique	insuffisance cardiaque
+insuffisance cardiaque	patients	régulière
+hypertension artérielle pulmonaire	hypertension artérielle pulmonaire	htap	maladie	résistances artérielles pulmonaires	insuffisance cardiaque droite
+maladie	htap idiopathique	htap familiale	htap	cardiopathie	congénitale	infection	virus	hypertension portale	anorexigènes
+incidence	htap idiopathique	spécificité	cliniques	dyspnée
+échocardiographie	doppler	dépistage
+cathétérisme cardiaque	droit	pression artérielle pulmonaire	pression artérielle pulmonaire
+thérapeutiques	prostacycline	antagonistes	récepteurs	endothéline	pronostic	maladie
+phosphodiestérases de type 5
+transplantation pulmonaire	patients	traitement médical
+morbidité cardiaque périopératoire	patient	chirurgie	cardiaque
+prédicteurs anamnestiques	im	icc	preuve
+coût	épreuves	cardiaques	épreuves
+prédicteurs peropératoires	anesthésique	chirurgie	chirurgie vasculaire	abdominales	thoraciques
+hypotension	tachycardie	pronostic
+ischémie myocardique	patients	chirurgie	cardiaque
+postopératoire
+postopératoire	morbidité cardiaque périopératoire	peropératoires
+postopératoire	hémodynamiques	ischémie myocardique
+ischémie postopératoire	pronostic
+physiopathologiques	insuffisance cardiaque	thérapeutiques	insuffisance cardiaque	ischémie myocardlque
+thérapeutiques	insuffisance cardiaque	physiopathologiques	physiologie	cardiaque	muscle	coronaire	myocarde	contraction
+vasodilatation	systèmes vasoconstricteurs	insuffisance cardiaque	enzyme	bêtabloquants
+prise en charge	insuffisance cardiaque	systèmes vasodilatateurs	thérapeutique
+ischémie	complications	myocytes cardiaques	insuffisance cardiaque
+insuffisance cardiaque	cardiologues	prendre en charge	insuffisance cardiaque
+traitement médical	insuffisance cardiaque aiguë décompensée	traitement médical	insuffisance cardiaque aiguë décompensée	ventilation non-invasive
+diagnostique	échocardiographie-doppler	bnp	recours	exploration hémodynamique
+vasodilatateurs	inotropes positifs
+hémodynamique	prise en charge	thérapeutique
+morbi-mortalité	affection	pronostic
+dobutamine	lévosimendan	protéines contractiles
+épidémiologie	pronostic	insuffisance cardiaque	insuffisance cardiaque	maladies cardiaques
+létalité
+épidémiologie	insuffisance cardiaque	france	économique	santé
+insuffisants cardiaques
+incidence
+insuffisance cardiaque	tiers	patients
+consultations	hospitalisations	insuffisance cardiaque
+
+décès	insuffisance cardiaque
+dépenses	insuffisance cardiaque	dépenses	médicales
+insuffisance cardiaque	santé	publique
+inciter	patients
+cardiomyopathie du post-partum	épidémiologiques	cliniques	étude rétrospective	patientes	hospitalisées	cardiomyopathie dilatée	post-partum	cardia-vasculaire	pathologie	insuffisance cardiaque
+guérison complète	gc	clinique	radiographique	échocardiographique	insuffisance cardiaque	dilatation ventriculaire gauche	aa	insuffisance cardiaque	décès
+patientes
+
+patientes
+tableau clinique	insuffisance cardiaque globale	insuffisance cardiaque gauche
+post-hospitalière	patientes
+aa
+décès
+sérologie	vih	patientes
+patientes	séropositives	séronégatives	études prospectives	vih
+défibrillateur automatique implantable	patient	stimulateur cardiaque biventriculaire	insuffisance cardiaque terminale	défibrillateur automatique implantable	patient	implanté	stimulateur biventriculaire	insuffisance cardiaque terminale
+coronaropathie tritronculaire	fibrillation auriculaire	insuffisance cardiaque	terminal	stimulateur cardiaque biventriculaire	ablation	faisceau de his	implanté	symptomatologie
+insuffisance cardiaque	classe il de la nyha
+implantation	patient	tachycardie ventriculaire paroxystique	soutenue	symptomatique
+implantation	défibrillateur automatique
+stimulateur cardiaque	suivi
+implantation	défibrillateur automatique	patient	stimulateur cardiaque biventriculaire
+explanter
+insuffisance cardiaque	société canadienne de cardiologie	transition	insuffisants cardiaques	dépistage	myocardiopathies	insuffisance cardiaque	syndrome	clinique	santé	spécialistes
+patients	pied
+société canadienne de cardiologie	diagnostic	prise en charge	insuffisance cardiaque	prise en charge	maladie	décompensation aiguë	biomarqueurs
+
+insuffisance cardiaque	santé
+société
+transition	insuffisants cardiaques	dépistage	myocardiopathies
+cliniques	médecin	consultation	spécialiste
+directives	médecin
+médecin
+myocardiopathie	dépister	diagnostiquer	patient	tests	diagnostic
+clinique	médecins	insuffisants cardiaques	santé	patients	cliniques	canada
+péricardite chronique constrictive	insuffisance cardiaque réfractaire	péricardite chronique constrictive	affection	diagnostic
+cliniques	diagnostic	constriction péricardique
+patients	affection	diagnostiquée	symptômes	diagnostiques
+insuffisance cardiaque	calcifications péricardiques	radiographie thoracique	écho-doppler cardiaque	diagnostic	étiologique
+adiastolie	dilatation	veine cave	oreillettes	ventricules	pathologie valvulaire
+écho-doppler cardiaque	diagnostic	cardiopathie restrictive	constriction péricardique	parois myocardiques	péricarde	mouvement	septal	ventricule droit	valve pulmonaire	flux de remplissages ventriculaires	reflux télédiastolique	veines sus-hépatiques
+hémodynamique	adiastolie	péricardique	hypertension artérielle pulmonaire	légère
+péricarde	résonance magnétique nucléaire	diagnostique	myocardiopathie	fibrose	biopsie endomyocardique	diagnostic	chirurgicale	curative	péricardectomie
+insuffisance cardiaque à fonction systolique conservée
+dysfonction myocardique	œdème pulmonaire	gradient de pression oncotique	pression capillaire pulmonaire
+patients	insuffisance cardiaque aiguë à fonction systolique conservée
+
+patients	hospitalisés	œdème pulmonaire
+échocardiographie doppler
+patients	valvulopathie	insuffisance coronaire symptomatique
+
+insuffisance cardiaque	insuffisance coronaire	hypertension artérielle	diabète	patients
+patients	pressions de remplissage	doppler	admission
+insuffisance rénale	ischémie silencieuse	troponine i	fibrillation auriculaire	hypertension artérielle	sepsis	hypo-albuminémie	anémie
+patients
+
+dysfonction diastolique	cardiovasculaires	insuffisance cardiaque aiguë à fonction systolique conservée
+prévalence	syndromes	apnées du sommeil	patients	insuffisant cardiaques	prévalence	syndromes	apnées du sommeil	insuffisance cardiaque
+prévalence	syndromes	patient	insuffisance cardiaque
+patients	insuffisance cardiaque	ventriculaire gauche	dépistés	syndrome	apnées du sommeil	polygraphie	indice apnée-hypopnée
+ventriculaire gauche	index de masse corporelle
+prévalence	syndrome	apnées du sommeil	indice apnée-hypopnée
+syndromes	apnées du sommeil	indice apnée-hypopnée
+syndromes	apnées du sommeil
+patients	indice apnée-hypopnée
+prévalence	syndrome	apnées du sommeil
+patients	insuffisants cardiaques	syndrome	apnées du sommeil	prévalence
+syndrome	apnées du sommeil
+dépistage	syndromes	apnées du sommeil
+réentraînement	physique	insuffisance cardiaque chronique	réentraînement	physique	réadaptation	cardiovasculaire	insuffisance cardiaque	dysfonction ventriculaire gauche
+insuffisance cardiaque
+réentraînement	physique	neurohormonale	cytokines pro-inflammatoires	peptides natriurétiques
+anomalies	vasculaires	musculaires	dysfonction endothéliale	remodelage ventriculaire gauche
+
+qualité de vie
+réentraînement
+exercices	endurance
+gymnastique	musculaires
+réentraînement	physique	pronostic	patients	hf-action	compliance	exercice	physique
+patients	réadaptation	pronostic	court
+remodelage myofibrillaire	hypertrophie cardiaque	insuffisance cardiaque	myocardiopathies	pathologies	remodelage	dysfonctionnement	cardiaques
+transition	changement	performance cardiaque	insuffisance cardiaque
+changements	infracellulaires	transduction des signaux	métabolisme du coeur	cardiovasculaires
+myofibrilles	remodelage myofibrillaire	hypertrophie	insuffisance du myocarde	maladies cardiaques
+changements	expression des gènes	protéines contractiles	maladie	cardiaques	changements	insuffisances cardiaques	hypertrophie cardiaque	myocardiopathies
+remodelage myofibrillaire	protéolyse	phosphorylation	protéines contractiles	insuffisance cardiaque	étiologies
+remodelage myofibrillaire	dysfonctionnement cardiaque	protéines contractiles	maladie cardiaque
+mortalité	insuffisance cardiaque	australie
+mortalité	mortalité	insuffisance cardiaque	australie	diagnostic	prise en charge	affection	épidémiologique
+mortalité	décès	insuffisance cardiaque	décès	décès
+décès	insuffisance cardiaque	décès
+insuffisance cardiaque	mortalité	mortalité	pathologie	décès
+insuffisance cardiaque	décès	cardiopathie ischémique	affection circulatoire
+insuffisance cardiaque	décès	décès	affection circulatoire
+mortalité	insuffisance cardiaque	décès	mortalité	épidémiologie	affection
+incidence	survie	épidémiologique
+insuffisance cardiaque droite	thiamine	béribéri cardiaque	avitaminose b	france
+insuffisance cardiaque à haut débit	insuffisance cardiaque
+béribéri cardiaque
+patient	admis	dyspnée	insuffisance cardiaque droite
+échographie cardiaque	hypertension artérielle pulmonaire	embolie pulmonaire	angiographie	pulmonaire
+insuffisance cardiaque
+béribéri cardiaque	thiaminémie	épreuve	thérapeutique	vitamine b1
+insuffisance cardiaque à haut débit	béribéri cardiaque	france
+ballonisation apicale transitoire du ventricule gauche	syndrome du tako-tsubo	clinique	aki-dyskinésie apicale	hyperkinésie basale	lésion coronaire	significative	auteurs	syndrome du tako-tsubo
+syndrome	tableau clinique	syndrome coronaire aigu
+patients
+patients
+douleur	thoracique	admission	insuffisance cardiaque
+patientes	choc anaphylactique
+coronaro-ventriculographie	mis	anomalies	contractilité ventriculaire gauche	lésion coronaire	significative
+cpk	troponine
+patiente	choc cardiogénique
+cinétique contractile	symptômes
+patiente	bloc auriculo-ventriculaire	implantation	stimulateur cardiaque
+clinique	décision	thérapeutique	syndrome coronaire aigu
+tachycardies jonctionnelles permanentes par rythme réciproque	traitement médicamenteux	patients	suivis	tachycardie jonctionnelle permanente par rythme réciproque
+diagnostic
+tachycardie	patients	insuffisance cardiaque
+digitalique	patients
+patient	insuffisance cardiaque	digitalique	mort	infiltrats lymphoplasmocytaires	dysplasie ventriculaire droite arythmogène	patients	histologiques	dysplasie ventriculaire droite arythmogène	insuffisance cardiaque	mort subite
+myocardite suraiguë	péricardite	myocardite torpide
+inflammatoire	greffé	dysplasie
+dysplasie ventriculaire droite arythmogène	patients	myocardite	sensibilité	patients	infectieux	maladie
+epidémiologie	infarctus du myocarde	france	épidémiologique
+patients	hospitalisés	infarctus du myocarde
+
+
+patients	ventriculaire gauche	fevg
+mortalité
+insuffisance cardiaque clinique	killip	patients
+patients	admis
+patients	revascularisation	thrombolyse	angioplastie
+médicaments	prescrits	héparine
+aspirine
+bêtabloquants	enzyme
+
+morbi-mortalité	thérapeutiques
+france
+patients
+mortalité
+patients	nord-est	obèses
+patients	iie-de-france
+infarctus
+sud-est	mortalité
+analyse multivariée	pronostic	fevg basse	pronostic
+
+
+france
+cliniques	infarctus du myocarde	hospitalisé	fevg	killip	patients
+infarctus du myocarde à la phase aiguë
+statut	maladie	patients	ambulatoires	insuffisance cardiaque chronique avec fonction systolique diminuée	patients	hospitalisés	insuffisance cardiaque	ic	ventriculaire gauche	fevg
+impédancemétrie corporelle bioélectrique	icb
+statut	ambulatoire	patients	ic à fevg réduite	ic	fevg	classe de la new york heart association	nyha
+patients	ic chronique	fevg	suivis	consultation	ambulatoire
+patients	médicalement	stables
+indice de masse corporelle	imc	icb
+imc
+masse non grasse	indice de masse non grasse	imng
+patients	fevg	diagnostic	ic	ischémique
+patient	fevg	imng
+statut	ic
+patient
+patients	patients	ic	ambulatoires	médicalement	stables
+statut	ic	patients
+thérapeutique	insuffisance cardiaque	patients
+médicaments	cardiovasculaires	angiotensine ii	néprilysine	paradigm-hf	bloqueurs du système rénine-angiotensine	patients	insuffisants cardiaques	symptomatiques
+épidémiologiques	patients	paradigm-hf
+tumeurs cardiaques	tumeur cardiaque	affection
+tumeurs bénignes	myxomes
+tumeurs bénignes	fibroélastomes	rhabdomyomes	fibromes	angiomes	lipomes
+tumeurs malignes	sarcomes	lymphomes
+métastases cardiaques	tumeurs primitives
+diagnostic	échocardiographie	résonance magnétique
+chirurgie	tumeurs bénignes	sarcomes	chimiothérapie	sarcomes
+radiothérapie	chimiothérapie	lymphomes
+tumeurs bénignes	pronostic
+survie	sarcome	lymphomes
+peptide natriurétique de type b	prise en charge	urgences	patients	insuffisance cardiaque	patients	dyspnée	consultation	urgences	médicales
+diagnostiquer	poussée	insuffisance cardiaque
+diagnostic
+peptide natriurétique de type b	diagnostic	insuffisance cardiaque	urgences
+bnp	brain natriuretic peptide	biosite	urgences	médicales
+diagnostics	urgences	patient	centre hospitalier
+patients	passage	urgences	diagnostic	insuffisance cardiaque	diagnostic	insuffisance cardiaque
+patients	insuffisance cardiaque	bnp	diagnostic
+bnp	poussée	insuffisance cardiaque	valeur prédictive positive	diagnostic	poussée	insuffisance cardiaque
+insuffisance cardiaque diastolique	diagnostic	insuffisance cardiaque diastolique	insuffisance cardiaque diastolique
+symptômes	diagnostic	étiologique
+symptomatologie	symptômes	insuffisance cardiaque diastolique
+oedèmes pulmonaires
+examen clinique
+insuffisance cardiaque	coeur	radiographie pulmonaire
+électrocardiogramme
+exploration hémodynamique	pressions de remplissage du ventricule gauche
+échocardiographie-doppler	diagnostic	fonction systolique	ventricule gauche	anatomique	dysfonction diastolique	relaxation	pressions pulmonaires
+peptides natriurétiques auriculaires	diagnostic	insuffisance cardiaque
+diagnostic	insuffisance cardiaque diastolique	remplissage ventriculaire gauche	non invasives	échocardiographie doppler
+épidémiologie	insuffisance cardiaque	épidémiologie	insuffisance cardiaque	france	économique	santé
+insuffisants cardiaques
+incidence
+insuffisance cardiaque	tiers	patients
+consultations	hospitalisations	insuffisance cardiaque
+
+décès	insuffisance cardiaque
+dépenses	insuffisance cardiaque	dépenses	médicales
+insuffisance cardiaque	santé	publique
+inciter	patients
+insuffisance cardiaque congestive à fonction systolique conservée	auteurs	patients	hospitalisés	angioscintigraphie	insuffisance cardiaque congestive	insuffisance cardiaque congestive à fonction systolique conservée	responsables	cliniques	dysfonction systolique du ventricule gauche
+insuffisance cardiaque	insuffisance cardiaque	maladie du coeur	maladie	circulation
+myocardiques	neuro-hormonaux	circulatoires	affection
+médicaments vasodilatateurs	neuro-hormonales	médicaments	fonction myocardique
+diurétiques	tension pariétale ventriculaire
+digitaliques	patients	fibrilation auriculaire	patients	rythme sinusal	cardiopathies ischémiques
+enzyme	insuffisance cardiaque
+remodelage cardiaque	vasculaire	dysfonction ventriculaire
+insuffisance cardiaque	mortalité
+dysfonctions ventriculaires asymptomatiques
+brain natriuretic peptide	bnp	insuffisance cardiaque	remplissage ventriculaire gauche	peptide natriurétique cérébral	bnp	brain natriuretic peptide	peptide	oreillettes	ventricules
+test	dépistage	insuffisance ventriculaire gauche
+peptide	insuffisants cardiaques chroniques	dysfonction systolique ventriculaire gauche	patients	pathologies	insuffisance respiratoire	cirrhose	transplantés cardiaques	insuffisance cardiaque	diastolique	fonction systolique ventriculaire gauche
+significative	insuffisants cardiaques	pathologies
+bnp	significativement	patients	classe iv de la nyha
+plasmatique	bnp	significative
+corrélation	bnp	remplissage ventriculaire gauche	doppler cardiaque	temps	vo2 max
+fréquence cardiaque	insuffisance cardiaque chronique	étiologie	fréquence cardiaque	système nerveux autonome
+témoins	patients	insuffisance cardiaque chronique	stade ii de la nyha	ischémique	idiopathique
+analyse spectrale	fréquence cardiaque	ambulatoire	méthode de holter	aide	marquette electronics série 8000
+noradrénaline plasmatique	sang	chromatographie liquide à haute performance	hplc
+ventricule gauche	échocardiographie
+insuffisance cardiaque droite	postopératoire	mitraux	mitro-aortiques	pronostic	insuffisance cardiaque droite	mitraux	mitraux
+tiers	valve aortique	insuffisance cardiaque aiguë	patiente	mitoxantrone	sclérose en plaques	mitoxantrone	immunosuppresseur	sclérose en plaques
+cardiotoxicité	fonction ventriculaire
+mis	complication	cardiologique	aiguë
+insuffisance cardiaque aiguë	symptomatique	patients	sclérose en plaques	mitoxantrone
+ventriculaire
+séquestration extralobaire	insuffisance cardiaque	pulmonaire	détresse respiratoire	cyanose	infections
+insuffisance cardiaque
+chirurgical	radiologique	endovasculaire
+endovasculaire	séquestrationextralobaire	insuffisance cardiaque
+
+myxome	oreillette droite	insuffisance cardiaque droite	myxome	oreillette droite	tumeur bénigne cardiaque	polymorphisme	clinique
+patiente	myxome	oreillette droite
+diagnostic	échocardiographie	masse	tumorale	intra-auriculaire droite	cavité auriculaire droite
+exérèse chirurgicale	circulation extracorporelle
+patiente	reprise	chirurgicale	insuffisance tricuspidienne
+béribéri cardiaque	béribéri	thiamine
+pathologie	conditions	malades	sida
+insuffisants cardiaques	furosémide	responsable	thiamine	insuffisance cardiaque
+cardiovasculaire	béribéri	béribéri cardiaque	vasodilatation périphérique	débit cardiaque	myocarde	rétention hydrosodée	insuffisance cardiaque globale
+administration	vitamine b1
+bnp	physiologiques	cliniques	brain natriuretic peptide	bnp	b-type natriuretic peptide	peptides natriurétiques	anp	cnp	dnp	urodilatine
+bnp	cardiomyocyte	bnp	ventriculaire
+bnp	pré-probnp	probnp	bnp	nt-probnp
+bnp	activité	récepteur	npr-a
+peptide	circulation sanguine	endopeptidase	récepteur	npr-c
+bnp	nt-probnp	techniques	immunodosage
+plasmatique	peptides	physiologiquement
+vasculaires	vasodilatatrice	rénales	diurétique	natriurétique	bnp	expansion volémique
+peptides	aide	diagnostic	insuffisance cardiaque
+peptides	pronostiques	insuffisance cardiaque	syndromes coronariens aigus
+insuffisance rénale	nt-probnp	rénale
+pharmacologie	endothéline	antagoniste	bosentan	endothéline	vasoconstricteurs	inflammation	fibrose	hypertrophie cellulaire
+pathologiques	insuffisance cardiaque	hypertension essentielle	hypertension pulmonaire
+bosentan	antagoniste	récepteurs	endothéline
+pathologies cardio-vasculaires	pulmonaires
+patients	insuffisants cardiaques	insuffisance cardiaque chronique	maladie coronaire	hypertension artérielle
+coût	santé	publique	hospitalisations
+patients	insuffisants cardiaques	coût	prise en charge	pathologie
+insuffisance cardiaque
+symptômes	étiologie
+
+physiques	gêne fonctionnelle
+traitement médicamenteux	action	posologies	effets adverses
+patient
+transplantation cardiaque
+mort subite	insuffisance cardiaque	apprentissage
+insuffisance cardiaque chronique	physiopathologiques	thérapeutiques	physiopathologie	insuffisance cardiaque chronique	thérapeutiques
+hémodynamique	neurohumorale
+thérapeutiques	enzyme	spironolactone	β-bloquants
+insuffisance cardiaque	étiologie	patient	physiologie	cardiovasculaire
+cou	insuffisance cardiaque	insuffisance cardiaque congestive	publique	significatives
+hospitalisation	patients	budget
+insuffisance cardiaque	europe
+survie	vienne	maladie	hospitalisations
+vasodilatateurs	hydralazine-isosorbide dinitrate	enzyme	iec
+cou	anne	vasodilatateurs	iec	anne
+insuffisance cardiaque terminale	assistance circulatoire	assistance circulatoire
+patient
+contrepulsion par ballonnet intra-aortique
+légères
+turbine intraventriculaire	hemopump	pompes centrifuges
+pneumatiques	hétérotopiques	biventriculaires	thoratec medos	hétérotopique	implantable	univentriculaire gauche	tci	orthotopique	implantable	jarvik-cardiowest
+machines	ventricules électriques	implantables	abdomen	ventricule gauche	novacor	heartmate
+patients	chronique	transplantation
+implantable	ventriculaire
+rythmologie	cardiologie	sfc	implantation	implantable	dai
+stratification	prise en charge	patients	mort subite
+mort subite	post-infarctus du myocarde	im	patients	cardiomyopathie	cmd	patients	cardiaque	ic
+
+physiopathologiques	thérapeutiques	insuffisance cardiaque gauche
+insuffisance cardiaque	maladies cardiaques	maladie	espérance de vie	prise en charge	atteintes cardiovasculaires
+maladie	pronostic	vital	mortalité	qualité de vie	coût
+
+insuffisance cardiaque	symptômes	qualité de vie	survie
+traitement médicamenteux	bêtabloquants	iec	sartans	diurétiques	aspirine	avk	amiodarone	étiologie	traitement étiologique
+cliniques	paracliniques	stimulation cardiaque multisite	chirurgicale	réadaptation	physique	transplantation cardiaque
+incidence	insuffisance cardiaque	affections	maladie	hta	valvulopathies	coronaropathies
+
+insuffisance cardiaque	prise en charge	patient	santé	insuffisance cardiaque	hospitalières
+insuffisance cardiaque	insuffisance cardiaque	icfep	symptômes	cliniques	insuffisance cardiaque
+icfep	insuffisance cardiaque	prévalence
+œdème	aigu	poumon	patient	symptomatique	aigus
+diagnostic	icfep	plasmatique	peptides natriurétiques	échocardiographie-doppler
+étiologies	cardiomyopathies hypertensives	diabétiques	ischémiques
+pronostic	insuffisance cardiaque systolique	hospitalisations	décompensation aiguë
+thérapeutique	digitaliques	insuffisance cardiaque systolique
+cystatine c	pronostique	insuffisance cardiaque	cystatine c	biomarqueur	fonction rénale	créatinine	inflammation
+cystatine c	pronostic	insuffisance cardiaque
+patients	insuffisants cardiaques	admis	hôpital	harbin
+homocystéine	crpus	cystatine c	patients	suivis	décès	transplantation cardiaque	réadmission	insuffisance cardiaque
+patients	complication	significativement	homocystéine sérique	crpus	cystatine c	patients	évènement cardiovasculaire	homocystéine	crpus	cystatine c
+modèle de cox	homocystéine	crpus	cystatine c	complications	cardiovasculaires
+cystatine	crpus	homocystéine	évènements cardiovasculaires	pronostic	patients	insuffisants cardiaques
+peptides natriurétiques	insuffisance cardiaque chronique	prise en charge	patients	insuffisance cardiaque	décision	thérapeutique
+peptides natriurétiques	biomarqueurs	pronostic	patients	insuffisance cardiaque
+peptide natriurétique de type b	bnp	probnp	nt-probnp
+
+prise en charge	insuffisance cardiaque	peptide natriurétique
+bnp	nt-probnp	peptide natriurétique	prise en charge
+patients	bras	biomarqueurs	évènements cardiovasculaires
+probnp outpatient tailored chronic heart failure therapy	protect	patients	insuffisance cardiaque	peptide natriurétique	significative	remodelage ventriculaire gauche	échocardiographie	patients	pris en charge	thérapeutique	biomarqueurs
+insuffisance cardiaque	peptides natriurétiques	prise en charge	insuffisance cardiaque	complication	cardiovasculaire	suivi
+syndrome	apnées du sommeil	insuffisance cardiaque	patients	insuffisants cardiaques	stables	syndrome	apnées du sommeil
+apnées du sommeil	collapsus	voies aériennes supérieures	respiration périodique de cheyne-stokes
+intrapleurales	hypoxies	post-charge ventriculaire	activation sympathique	insuffisance cardiaque	pronostic
+ventilation en pression positive	symptômes	fonction cardiaque	pronostic
+dépistés	patients	insuffisants cardiaques	stables
+dépistage	apnées	oxymètres	ambulatoires	patients	prise en charge
+insuffisance cardiaque	hypocalcémie	vitamine d	insuffisance cardique	hypocalcémie
+insuffisance cardiaque	hypocalcémie	vitamine d
+
+hospitalisé	dyspnée
+insuffisance cardiaque
+électrocardiogramme	intervalle qt	allongé
+peptide natriurétique de type-b	médecine	dyspnée aiguë	consultation	urgences
+peptide natriurétique de type-b	b-type natriuretic peptide	bnp	peptidique natriurétique	myocytes ventriculaires	tension	paroi du ventricule gauche
+rénine	angiotensine	aldostérone
+sang	corrélée	insuffisance cardiaque gauche
+insuffisance cardiaque gauche	dyspnée aiguë	urgences
+diagnostique	bnp	urgentiste	clinique	insuffisance cardiaque	bnp
+bnp	malade	sensibilité	spécificité	diagnostic	insuffisance cardiaque aiguë
+
+bnp	insuffisance cardiaque	bnp	tableau clinique
+insuffisance cardiaque	diabete	patients	diabétiques	insuffisance cardiaque	pronostic	cardiomyopathie diabétique	co-morbidités	hypertension	insuffisance coronaire
+patients	cardio-vasculaire	diabète	insuffisance cardiaque
+médecin	morbidité	diabète	dépister
+glycémie	métabolisme	coeur
+neuro-hormonale	fonction cardiaque	survie	patients	diabétiques	diabétiques
+thérapeutiques	diabétique
+enzyme	angiotensine	bêta-bloquants
+patients	diabétiques	incidence	morbidité	mortalité	cardio-vasculaires
+léiomyomatose intra-veineuse cave inférieure	cardiaque
+auteurs	léiomyomatoseintra-veineuse	tumeur	veine cave inférieure	oreillette droite
+france
+embolie pulmonaire	joint	chirurgie cardiaque	exérèse	circulation extra-corporelle
+intra-cardiaque	opérés
+insuffisance cardiaque droite	syncopes	cliniques
+diagnostic	hystérectomie
+échocardiographie	diagnostic	masse intra-auriculaire droite
+cardiomyopathie hypertrophique	cardiomyopathie hypertrophique	cmh	affection	complications	troubles du rythme auriculaires	ventriculaires	insuffisance cardiaque
+pathologie	génétique
+patientes
+étude rétrospective	cmh	saines
+hospitalisation	cardiologique	statut	cmh	gêne fonctionnelle
+
+saines
+cardiomyopathie hypertrophique	patientes
+myocardites	myocardite	pathologie inflammatoire	myocarde	dysfonction cardiaque
+étiologies	virales	cliniques	enzymes musculaires cardiaques	péricardite bénigne virale	myocardite fulminante	choc cardiogénique	insuffisance cardiaque chronique
+tableaux cliniques	échocardiographiques	myocardites	diagnostique	étiologie	prise en charge	thérapeutique
+myocardites	physiopathologiques	diagnostique	imagerie non invasive	irm
+
+thérapeutiques	antiviraux	prise en charge	traitement symptomatique	insuffisance cardiaque
+thérapie génique	insuffisance cardiaque	insuffisance cardiaque	mortalité	morbidité
+génétique	insuffisance cardiaque
+technologies	transfert génétique	cliniques
+thérapeutiques	maladies cardiovasculaires
+transfert génétique	myocarde
+génétique	dysfonctionnement cardiaque
+cliniques	thérapie génétique	insuffisance cardiaque
+cardiothyréose	clinique	étude rétrospective	cliniques	cardiothyréose
+cardiothyréose	centre hospitalier universitaire	yalgadc ouédraogo	admissions	cardiologie	médecine interne
+
+
+insuffisance cardiaque	troubles du rythme	insuffisance coronaire
+valvulopathie mitrale	aortique
+atteinte thyroïdienne	maladie de basedow	goitre multinodulaire	adénome toxique
+traitement médical	antithyroïdiens de synthèse	suivi	thyroïdectomie
+suivi
+thérapeutiques	responsables	thyrotoxicose	insuffisance cardiaque
+patients	décédés	patients
+cardiothyréose	cardiopathie	burkina faso	études propectives
+testostérone	fonction cardiaque	récepteurs	angiotensine ii	insuffisance cardiaque	isoprotérénol	système rénine-angiotensine-aldostérone	physiopathologie	insuffisance cardiaque
+administration	testostérone	insuffisance cardiaque
+testostérone	insuffisance cardiaque
+administration	testostérone	fonction cardiaque	récepteurs	angiotensine ii	insuffisance cardiaque	isoprotérénol
+randomisée	insuffisance cardiaque
+insuffisance cardiaque	testostérone
+échocardiographique	hémodynamique	fonction cardiaque
+apoptose	fibrose	transferase déoxyribonucléotide terminale	tunel	trichrome masson
+expression	arm messagers	récepteurs	angiotensine ii	at1	at2	techniques	pcr	transcriptase-polymerase reverse	immuomarquage western	expression	protéine bcl-2
+significative	apoptose	cardiomyocytes	fibrose	isoprotérénol
+expression	arn messager	récepteur	angiotensine 2	at2	expression	protéine bcl-2	administration	testostérone
+thérapie	androgénique	physiopathologiques	insuffisance cardiaque
+réadaptation	insuffisants cardiaques	court	réentraînement	insuffisants cardiaques
+hémodynamiques	troubles du rythme	patients
+réadaptation	musculaires	réadaptation
+patients	classe iii de la nyha
+
+isotopique	significativement	épreuve	kpm	musculaire
+suivi	corrélation inverse	gains	réhospitalisation
+patients	poursuivi	réadaptation	réhospitalisation
+réadaptation	insuffisants cardiaques	significativement	réhospitalisation
+hospitalisation	maladies cardiovascule	nigeria
+hospitalisation
+nigeria
+hospitalisation	insuffisance cardiaque	hypertension	hypertension	nigeria
+hôpital	malades	hospitalisés	centre hospitalier universitaire	uyo	insuffisance cardiaque	hypertension	hypertension	cerebrovasculaire
+epi-info 2002
+malades	hospitalisés	insuffisance cardiaque	hypertension	cerebrovasculaire	hypertension	acv
+malades	hospitalisation
+hospitalisation
+significatif	insuffisance cardiaque	hypertension
+nigeria	hospitalisation	insuffisance cardiaque	hypertension
+soins post-hospitaliers	activité	médicaux
+conformité	médication	clinique
+routier	médicaux
+malades	guérison
+myocardite à éosinophiles	étiologie	myocardite à éosinophiles	mé	hypersensibilité	médicament	coeur	organe
+symptômes	hypersensibilité	patients
+mé	myocardiques	insuffisance cardiaque réfractaire
+mé	biopsie	syndrome coronarien aigu	choc cardiogène	insuffisance cardiaque de novo
+patient	hypersensibilité	sumatriptan
+patients	corticothérapie	enzyme	angiotensine	bétabloquants
+fonction ventriculaire
+récupération	dysfonction systolique ventriculaire	patients	myocardiopathie dilatée idiopathique	patients	insuffisance systolique ventriculaire gauche	vg	ischémique	fonction systolique vg
+récupération	dysfonction vg	patients	myocardiopathie dilatée idiopathique	mcdi
+patients	dysfonction vg non ischémique	insuffisance cardiaque
+patients	mcdi	insuffisance cardiaque systolique	vg	févg	févg	suivis	dysfonction systolique vg
+patients	coronaropathie
+patients	suivis	févg	dysfonction vg
+dysfonction systolique vg	févg	période de suivi	patients
+significative	insuffisance cardiaque	cliniques	échocardiographiques
+patients	mcdi	récupération	médicaments	insuffisance cardiaque
+dysfonction vg	patients	mcdi
+corrélée	significative	arrêt	médicaments	insuffisance cardiaque
+médicothérapie	patients	dysfonction systolique vg
+insuffisance mitrale fonctionnelle	valvulopathie
+insuffisance mitrale fonctionnelle	insuffisance ventriculaire gauche
+pronostic	insuffisance cardiaque
+thérapeutiques	chirurgicales	médicamenteuse	bêtabloquants	fine	thérapeutique	insuffisances mitrales fonctionnelles
+apnée du sommeil	insuffisance cardiaque	patients	apnée du sommeil
+spécialistes	maladies cardiovasculaires	affection	prévalence	patients	complications	cardiovasculaire
+insuffisants cardiaques chroniques	respiration de cheyne-stokes
+insuffisance cardiaque	insuffisant cardiaque	surmortalité	responsabilité
+dépistage	cardiologue	insuffisant cardiaque	patient	diagnostic	prise en charge
+diagnostiques	insuffisants cardiaques
+prévalence	physiopathologie	hémodynamiques	insuffisance cardiaque
+endocardite fibroblastique de löffler	toxocarose	endocardite fibroblastique de lôffler	toxocarose
+toxocara canis	asymptomatique	atteinte cérébrale	endocardite de lôffler	symptomatique
+cardiopathie restrictive	hyperéosinophilie
+insuffisance cardiaque	aigu	maladie de système
+échocardiographie	aide	diagnostic	apex ventriculaires	fibrose endomyocardique	thrombus
+prise en charge	insuffisance cardiaque	traitement étiologique	hyperéosinophilie
+décortication endocardique	symptomatologie	pronostic	patients
+médicale	patients	greffe cardiaque	patients	défaillance cardiaque	agents sympathicomimétiques	récepteurs bêta du myocarde	inotropes	énoximone	action	myocarde	action	vasodilatatrice	bolus	aa	assistance circulatoire mécanique	greffe	societe canadienne de cardiologie	prise en charge	insuffisance cardiaque	prise en charge	anémie	biomarqueurs	peptides natriurétiques	cliniques	prise en charge	patients	insuffisance cardiaque
+patients	insuffisance cardiaque	anémie	anémie
+patients	insuffisance cardiaque chronique stable	peptide natriurétique
+patients	insuffisance cardiaque	fonction systolique préservée	antagoniste du récepteur minéralocorticoïde	patients	insuffisance cardiaque	récepteurs	angiotensine	inhibiteur de la néprilysine	médicament
+
+cliniciens	santé	prendre en charge	patients	insuffisance cardiaque
+diabète	insuffisance cardiaque	morbide	insuffisance cardiaque	diabète	insuffisants cardiaques	diabétiques	diabète	insuffisance cardiaque
+micro-angiopathie	neuropathie cardiaque	insuffisance rénale	tableau clinique	thérapeutique
+échocardiographie-doppler	bnp	dépister	insuffisance cardiaque	diabétique
+insuffisance cardiaque	diabétique	thérapeutiques
+diabète	manier	insuffisance cardiaque	metformine	glitazones
+patients	glucose	diabète	patients	diabétiques	dysfonction myocardique	diabète	insuffisants cardiaques diabétiques	traitement médical	patients	insuffisants cardiaques non-diabétiques
+iec	ara2
+glyqués	thérapeutique	statines
+revascularisation myocardique	angioplastie	chirurgie
+insuffisance cardiaque diastolique	icd
+preuve	icd
+épidémiologiques	icd	insuffisance cardiaque systolique
+icd	insuffisance cardiaque	cliniques	icd	pathophysiologique
+icd	cytosquelette myocytaire	relaxation	active
+survie	patients	icd	patients	insuffisance cardiaque systolique
+étiologies	condition	diabète	hypertension	ischémie	diagnostic
+thérapeutique	pathophysiologie	maladie	icd
+sodium	arythmies	ischémie	comorbidités
+icd	exacerbations
+icd	pierre	clinique
+diagnostic	insuffisance cardiaque systolique	insuffisances cardiaques	patients	insuffisance cardiaque	dysfonction systolique ventriculaire gauche	dysfonction diastolique
+anamnèse	examen clinique	diagnostic
+systolique	choc de pointe	galop protodiastolique	insuffisance mitrale fonctionnelle	cardiomégalie radiologique	hypertension postcapillaire	onde q	nécrose antérieure	bloc complet de la branche gauche
+peptide natriurétique de type b	diagnostic	insuffisance cardiaque	patients	dyspnée aiguë
+échocardiographie-doppler	dysfonction systolique	ischémique	valvulaire	myocardique
+fraction de raccourcissement du ventricule gauche	fonction systolique
+coronarographie	insuffisance cardiaque	patient	revascularisation
+classifications fonctionnelles	insuffisance cardiaque	classifications fonctionnelles	classification de la new york heart association	duke university	activité
+classification de la nyha	corrélée	capacité fonctionnelle	ergométrie	exercice
+
+activité
+
+patients	insuffisance cardiaque	consultation
+médecins	cardiologues
+patients
+
+insuffisance cardiaque	ischémique	idiopathique	hypertensive
+symptomatologie
+patients	classe iv de la nyha	activité	eas	duke
+patients	classe iii de la nyha	eas	duke
+patients	classe il de la nyha	eas	duke
+activité	insuffisance cardiaque chronique	incapacité fonctionnelle	insuffisance cardiaque chronique
+classification de la new york heart association	nyha
+
+insuffisance cardiaque	médecin	patients	activité	easf
+hospitaliers	insuffisance cardiaque	cardiomyopathie	société française de cardiologie	classification de la nyha	pic de vo2	weber
+centres hospitaliers
+patients	insuffisance cardiaque chronique
+insuffisance cardiaque	ischémique	hypertensive	cardiomyopathie dilatée	insuffisance aortique
+easf	patients	médecins	patients	médecin	infirmière
+médecins	médecin	infirmière
+vo2	nyha	easf	nyha	easf
+reproductibilité	test	exercice	easf	nyha
+épidémiologie	insuffisance cardiaque	somme	etics	épidémiologie	insuffisance cardiaque	ic	france
+étude prospective	etics	épidémiologie	thérapeutique	insuffisance cardiaque	somme	incidence	hospitalière	épidémiologique	ic	insuffisance cardiaque à fonction systolique préservée	somme
+patients	hospitalisés	poussée	ic	somme
+patients
+patients
+hospitalisation
+mortalité	hospitalière
+incidence	hospitalière	somme
+ventriculaire gauche	patients
+ischémique	hypertensive
+incidence	hospitalière	ic	somme
+
+maladie
+ic à fonction systolique préservée
+diagnostic	insuffisance cardiaque	diagnostic	insuffisance cardiaque	ic
+diagnostic	diagnostiques	diagnostiques
+cliniques
+médical	symptômes	comorbidités
+ecg	insuffisants cardiaques
+radiographie thoracique
+échocardiographie	étiologie	ic	dysfonction systolique	fevg	ventricule gauche	dilaté	fonction systolique préservée	fevg
+diagnostique	peptides natriurétiques	ic	fonction systolique
+bnp	diagnostic	ic
+stimulation biventriculaire	insuffisance cardiaque	insuffisance cardiaque	affection	incidence
+affection	thérapeutiques
+insuffisance cardiaque	stimulation biventriculaire
+patients	insuffisance cardiaque	stimulateur cardiaque biventriculaire
+suivi	resynchronisation	symptômes	classification de la nyha	ventricule gauche	marche	qualité de vie	minnesota living with heart failure questionnaire	hospitalisation
+colombie-britannique	pharmanet	médicaments	patients
+patients	médicaments	insuffisance cardiaque	cliniques	pharmacies
+patients	médicaments	pharmanet	médicaments
+pharmanet	médicaments	patients	médicaments	prescrits
+médicaments	pharmanet	statut	médicaments	patients
+posologie	temps
+diurétiques	médicaments	suivis	â-bloquants	enzyme	angiotensine
+médicaments	patients	insuffisance cardiaque	pharmanet	patient	médicaments
+pharmanet	médicaments	patients
+resynchronisation cardiaque	stimulation biventriculaire	insuffisance cardiaque réfractaire
+insuffisance cardiaque	traitement médical	insuffisance cardiaque réfractaire	patients
+transplantation cardiaque	techniques	coeur artificiel	cardiomyoplastie cellulaire	pharmacologique
+patients
+resynchronisation cardiaque	stimulation biventriculaire	france
+troubles de conduction	auriculo-ventriculaire	av	intraventriculaire	patients	temps
+asynchronisme cardiaque	asynchronisme av	coeur gauche	asynchronisme interventriculaire	asynchronisme intra- vg	contraction	relaxation	dysfonction systolique du ventricule gauche	vg
+hémodynamiques	aiguës	mustic	miracle	contak-cd	resynchronisation cardiaque	stimulation atriobiventriculaire	significativement	symptômes	qualité de vie	patients	insuffisance cardiaque stade iii	traitement médical	ecg	intra-ventriculaire	qrs	ms
+réhospitalisations	insuffisance cardiaque	ic	mustic
+
+mortalité
+care-hf	companion	europe	etats-unis
+stimulation biventriculaire	antiarythmique
+défibrillateur automatique
+reverse remodelling effect	dysfonction vg
+patients	patients	implantés
+obésité	insuffisance cardiaque	obésité	insuffisance cardiaque	etats-unis
+obèses	insuffisance cardiaque
+framingham	index de masse corporelle	insuffisance cardiaque
+physiopathologiques	obésité	fonction ventriculaire gauche	précharge ventriculaire	plasmatique	masse	post-charge ventriculaire gauche	hypertension artérielle	obésité	système nerveux sympathique	hyperinsulinisme	fonctions systoliques	diastoliques	génomique myocardique	maladie coronaire	athérosclérose	obésité
+adipocyte	hormones	myocarde	angiotensine il	leptine	résistine	adrénoméduline	cytokines
+hémodynamiques	hormonales	expression génique	myocardique	obésité	hypertrophie myocytaire	fibrose interstitielle
+hta	hta	hypertrophie ventriculaire gauche	obésité	relaxation	compliance ventriculaire gauche
+obèse	insuffisance cardiaque
+insuffisance cardiaque diastolique	obésité	insuffisance cardiaque	fonction systolique
+insuffisance cardiaque systolique	hypertrophie ventriculaire gauche	cardiomyopathie	obèse	maladie coronaire
+diagnostic	insuffisance cardiaque	obésité
+pronostic	patients	insuffisants cardiaques	obésité	survie	cachexie	mort subite
+obésité	qt
+insuffisance cardiaque	cardiomyopathie	obèse	symptomatologie	remodelage ventriculaire
+insuffisance cardiaque diastolique	thérapeutiques	prise en charge	thérapeutique	insuffisance cardiaque	dysfonction diastolique
+physiopathologiques	remplissage ventriculaire	conditions	pathologiques	dysfonction
+traitement symptomatique	congestion veineuse	diurétiques	nitrés	allonger	diastole	fréquence cardiaque	bêtabloquants	inhibiteurs calciques bradycardisants	digitaliques	fibrillation auriculaire irréductible	ventriculaire	action	remodelage	enzyme	diurétiques anti-aldostérone
+conditions	pathologiques
+systole auriculaire	externe	antiarythmiques	fibrillation auriculaire	stimulation cardiaque double chambre	asynchronisme auriculo-ventriculaire
+traitement étiologique	hypertrophie ventriculaire	hypertensive	antihypertenseurs
+insuffisance coronaire	cliniques	traitements antiangineux	médicamenteux	dysfonction diastolique	ischémique
+cardiomyopathie hypertrophique	thérapeutiques	bêtabloquants	vérapamil	stimulateur cardiaque	chirurgie	dysfonction diastolique
+valvulaire	aortique	chirurgie	valvulaire	fonction diastolique
+pronostique	bnp	mortalité	hospitalière	hospitalisé	insuffisance cardiaque diastolique aiguë	pronostique	bnp	patients	hospitalisés	insuffisance cardiaque diastolique aiguë
+hospitalisés	insuffisance cardiaque diastolique isolée aiguë
+ventriculaire gauche	dysfonction diastolique	échocardiographie	admission
+bnp	plasma	admission	urgences	patients
+corrélée	créatininémie	urémie
+analyse univariée	malades	malades	décédés	hospitalisation	significativement	pression artérielle systolique	admission	urémie	bnp
+analyse multivariée	significativement	mortalité	bnp	pression artérielle systolique
+valeur prédictive négative	bnp	décès	intervalle de confiance	ic
+bnp	pronostique	mortalité	hospitalière	insuffisance cardiaque diastolique aiguë
+prise en charge	coût	insuffisance cardiaque sévère	epical	lorraine	prise en charge	coûts	insuffisance cardiaque sévère	cliniques
+epical	lorraine	patients	hospitalisés	insuffisance cardiaque sévère	nyna iii	suivis
+coût	prise en charge	hospitalisation	hospitalisation	index
+patients	coût	ré-admission	suivi
+coût	régression logistique multivariée	co-morbidité	insuffisance rénale	statut
+suivi	ré-admission	décompensation
+peptide natriurétique de type b	bnp	n-terminal propeptide natriurétique de type b	nt-probnp	diagnostic	insuffisance cardiaque	diagnostique	bnp	diagnostic	insuffisance cardiaque	dyspnée	urgences
+diagnostique	bnp	nt-probnp	patients
+diagnostique	bnp	nt-probnp	dyspnée aiguë
+patients	urgences	dyspnée
+bnp	biosite	nt-probnp	roche diagnostic	urgences	temps
+diagnostic	cardiologues
+patients
+diagnostic	insuffisance cardiaque	patients	embolie pulmonaire	patients	décompensation aiguë	broncho-pneumopathie chronique obstructive	bpco	patients	surinfection	bronchique	patients
+patients	dyspnée	cardiaque	pulmonaire
+fonction rénale	créatinine	cockcroft	gault
+insuffisance rénale
+diagnostique	aire sous la courbe roc	bnp	ic	nt-probnp	ic
+bnp	sensibilité	spécificité	nt-probnp
+bnp	nt-probnp	valeur prédictive négative	vpn	diagnostic	insuffisance cardiaque
+bnp	nt-probnp	diagnostic	insuffisance cardiaque	dyspnée aiguë	diagnostique
+complications	hémangiomes	hémangiome	hmg	tumeur bénigne
+
+complications	prix	complications	thrombopénie	insuffisance cardiaque	pronostic	vital
+hmg	pronostic	vital
+épidémiologie	infarctus du myocarde	france	survie	patients	usik	épidémiologique	usik	patients	hospitalisés	infarctus du myocarde
+suivi	patients
+patients	dysfonction ventriculaire gauche	ventricule gauche	fevg	insuffisance cardiaque clinique	infarctus	patients
+mortalité
+analyse multivariée	principal	mortalité	rr	mortalité
+patients	infarctus	pronostic	significative	rr	insuffisance cardiaque	ventricule gauche	rr	killip	rr
+prescription	enzyme	bêtabloquant	infarctus	mortalité
+patients	admis	infarctus du myocarde	pronostic
+epidémiologie	pronostic	insuffisance rénale aiguë	incidence	insuffisance rénale aiguë	ira
+ira	médicale	ira	chirurgicales	traumatiques
+ira	médicaments
+santé	antérieur	oligurie	insuffisance cardiaque	coma	ventilation assistée	défaillances viscérales
+igs	apache ii	osf
+étiopathogéniques	échographiques	myocardiopathie du post-partum	myocardiopathie du post-partum	étiopathogénie
+myocardiopathie du post-partum	hôpital principal de dakar	sénégal
+insuffisance cardiaque	post-partum	échocardiographie	cardiomyopathie dilatée	cardiaque
+
+
+cardiopathie	tableau clinique	insuffisance cardiaque globale	insuffisance ventriculaire gauche
+échocardiographique	cardiomyopathie dilatée
+vitamine b1	patients
+lymphocytes t cd4	patients
+enzyme	patientes
+patientes	malades	décédés	malades	échocardiagraphique	cardiomyopathie dilatée
+patiente
+pathogénique	clinique
+myxome	oreillette droite	insuffisance cardiaque congestive	myxome	oreillette droite	pathologie	clinique	insuffisance cardiaque
+complications	embolie pulmonaire	tumeur	valve atrioventriculaire
+patiente	admise	insuffisance cardiaque
+écho-doppler cardiaque	transthoracique	myxome	oreillette droite	septum interatrial
+exérèse chirurgicale	circulation extracorporelle
+anatomopathologique	diagnostic	myxome
+suivi	complication
+thiazolidinediones
+cardiologue	marché	thiazolidinediones	rosiglitazone	pioglitazone	patients	diabétiques de type 2	insuffisance cardiaque	insuffisance cardiaque
+rétention hydrique	insuffisance cardiaque
+cliniques
+médecin	thiazolidinediones	patients	diabétiques de type 2	suivi	patients	insuffisance cardiaque
+cardiologue	échocardiographie	diagnostic	clinique
+patients	sténose aortique	chirurgie	cardiaque
+audit	patients	chirurgie	cardiaque	hamilton
+patients
+cardiaque	préopératoire	prise en charge	intraopératoire	postopératoire
+complications	insuffisance cardiaque congestive	icc	infarctus du myocarde	im	troubles du rythme	cardioversion	postopératoires	unité des soins intensifs	usi	cardiaque	arrêt cardiaque
+distribution binomiale
+testt de student
+significatif
+patients	aortique
+patients	témoins	préopératoire
+périopératoires
+complications	cardiaques	patients
+patients	chirurgie	cardiaque	complications	cardiaques	témoins
+thérapeutiques	patients
+
+tachycardies ventriculaires incessantes idiopathiques	pris en charge	tachycardie ventriculaire incessante idiopathique
+insuffisance cardiaque	hypokinésie ventriculaire gauche
+diagnostic	tachycardie	complexes qrs larges	cadence	auriculo-ventriculaire	œsophagien	bloc auriculo-ventriculaire rétrograde	injection	test	atp
+sains	cœur	radiothérapie	tumeurs thoraciques	adénopathies médiastinales	poumon	œsophage	toxicité cardiaque	anatomique	cœur
+toxicité cardiaque	toxicité cardiaque
+medline	pubmed	cardiac	heart	cardiotoxicity	breast cancer	lymphoma
+cancers du sein	lymphomes	atteinte médiastinale
+atteintes cardiaques	péricardite	insuffisance cardiaque diastolique	insuffisance coronarienne
+administration	anthracyclines	toxicité cardiaque	radiothérapie
+cardiovasculaires
+corrélation	prescrite	irradiation
+cardiaque
+cœur	irradiation	cancers du sein
+techniques
+chimiothérapies	thérapies	inciter
+syndrome de takotsubo	patiente	patiente	insuffisance cardiaque aiguë	anesthésie générale	hernie discale lombaire
+hypertensif	intubation	hypotension artérielle réfractaire	tachycardie sinusale
+électrocardiographiques	échocardiographiques	ischémie coronarienne
+coronarographie	coronaires	saines	ventriculographique	diagnostic	syndrome de takotsubo
+patiente	asymptomatique	fonction ventriculaire gauche
+endocardites	maladie de whipple
+lésions endocarditiques	maladie de whipple	endocardite infectieuse
+hôpital	cardiovasculaire	pneumologique	louis-pradel	lyon
+
+endocardites infectieuses	tropheryma whipplei	diagnostiquées	hôpital	louis-pradel
+
+diagnostic
+clinique	cardiologique	souffle cardiaque	embole	insuffisance cardiaque	insuffisance valvulaire
+atteinte valvulaire	aortique
+lésions valvulaires
+
+extracardiaque	arthralgies	arthrites	patients	polyarthrite rhumatoïde	séronégative	spondylarthrite ankylosante	rhumatisme psoriasique
+clinique	maladie de whipple	ganglionnaire	neurologique	biopsies	duodénales
+extracardiaque
+diagnostic	histologique	bactériologique	pcr	arn 16s	patients	opérés
+antibiothérapie
+
+endocarditiques	maladie de whipple	extracardiaque	rhumatologique	histologique	pcr	valves cardiaques	chirurgie	valvulaire
+furosémide	insuffisance cardiaque congestive
+furosémide	diurétiques	malades	insuffisance cardiaque congestive	chf	médicament	maladie	action
+furosémide	malades	chf	sd
+
+furosémide	administration	intraveineuse	significativement	corrélées	orale
+pharmacocinétique	furosémide
+rénale	cardiaque	malades	corrélations	furosémide plasmatique	clearance rénale	furosémide	fonction rénale	fonction rénale	corrélée	ventriculaire gauche
+malades	furosémide	furosémide	diurétique	pharmacocinétique
+clinique	charm	randomisées	double aveugle	candesartan	placebo	symptômes	insuffisance cardiaque	f. e.	enzyme	angiotensine	ieca	charm-alternative	symptômes	insuffisance cardiaque	f. e.	ieca	charm-added	symptômes	insuffisance cardiaque	f. e.	charm-preserved
+charm-overall	mortalité
+décès	cardiovasculaire	hospitalisations	insuffisance cardiaque
+
+charm-overall	placebo	candesartan	suivi	candesartan	mortalité	risque relatif	ic
+significatif	rr	ic
+significative	incidence	décès	cardio-vasculaire	hospitalisations	insuffisance cardiaque	rr	ic	patients	diabète
+charm-alternative	patients	candesartan	placebo	suivi
+candesartan	incidence	décès cardiovasculaires	hospitalisations	insuffisance cardiaque
+charm-added	patients	candesartan	placebo	suivi
+candesartan
+significative
+candesartan	β-bloquants
+charm-preserved	candesartan	placebo	suivi	mortalité cardiovasculaire	patients	admis	hôpital	insuffisance cardiaque	candesartan
+cliniques
+biventriculaire	insuffisance cardiaque sévère	stimulation cardiaque biventriculaire	insuffisant cardiaque	cliniques	technologies
+patients	implantés	chu	rennes
+suivi	mortalité
+décès	mort subite	insuffisance cardiaque	cardiaque
+stimulation cardiaque biventriculaire	significative	classe nyha	implantation	suivi	significative	pic de vo2
+courbe	apprentissage	technologies	implantation	ventriculaire gauche	implantée	endoveineuse	veine	sinus coronaire	complications
+stimulation cardiaque biventriculaire
+cliniques	morbidité	mortalité	ventriculaire
+anévrisme	insuffisance cardiaque	thérapeutique	anévrisme	étiologie	insuffisance cardiaque
+diagnostic	auscultation
+malformation artérioveineuse intracrânienne	shunt	artériels	carotidien	veineux
+pronostic	vital	neurologique
+anévrisme	suivis	hôpital	grenoble
+tableaux cliniques	cliniques	retentissement cardiaque	embolisations percutanées	macrocranie	dyspnée	embolisation
+
+prise en charge	cardiopédiatres	neuropédiatres	échographie transfontanellaire	électroencéphalogramme	imagerie par résonance magnétique	échocardiographie	thérapeutique	neurologiques
+artériographie cérébrale	embolisation percutanée	anesthésie générale
+insuffisance cardiaque aiguë	itraconazole	complication
+itraconazole	dérivé azolé	aspergilloses
+itraconazole	insuffisance cardiaque
+patients	comorbidités cardiovasculaires
+insuffisance cardiaque	itraconazole	patient	cardiovasculaire	cardiaque
+résolution
+insuffisance cardiaque	itraconazole	cardiaque
+abcès cardiaques para-annulaires	médicalement	pronosgtic	cliniques	paracliniques	traitement médical	abcès cardiaques para-annulaires
+auteurs	abcès para-annulaires	mis	échocardiographie transoesophagienne	eto	médicalement
+traitement médical	médico-chirurgicale	chirurgiens	patients	prothèse valvulaire
+patients	traitement médical	patients	décédés	opérés
+suivi	patients
+analyse univariée	significativement	apyrexie	antibiotique	court	insuffisance cardiaque	fuites valvulaires	grade	eto
+analyse multivariée	survie	insuffisance cardiaque	apyrexie	planimétrie	eto
+patients	insuffisance cardiaque	fuite valvulaire	grade	apyrexie	antibiothérapie	hémocultures	staphylocoque
+traitement médical	abcès para-annulaires
+hospitalier	clinique	échographique	patients	apyrétiques	antibiothérapie	insuffisance cardiaque	stable	endocardite précoce	staphylocoque doré
+cliniques	bactériologiques	échographiques	poursuivre	traitement médical
+hyponatrémie	physiopathologie	hyponatrémie	trouble hydroélectrolytique	maladie néoplasique	insuffisance cardiaque	cirrhose décompensée
+hyponatrémie	prise en charge	physiopathologique
+hypo-osmolarité plasmatique	réponse rénale	osmolarité urinaire	extracellulaire	natriurèse
+hyponatrémies	réponse rénale	hormone antidiurétique	stimulus volémique
+recours	solutés hypertoniques	hyponatrémies	aiguës	cérébrales	prise en charge
+hyponatrémie chronique	symptomatique	myélinolyse centropontine
+thérapeutique	récepteurs v2	hormone antidiurétique	cellules tubulaires rénales	vaptans	états-unis	hyponatrémies	extracellulaire
+molécules aquarétiques	thérapeutique	morbimortalité
+antagonistes	récepteurs	at1	angiotensine ii	clinique	système rénine-angiotensine-aldostérone	blocage du système rénine-angiotensine	enzyme	angiotensine ii	hypertension artérielle	insuffisance cardiaque
+insuffisance rénale chronique
+système rénine-angiotensine	récepteurs	at1	angiotensine ii
+antagonistes	récepteurs	angiotensine	orale	mis	marché	hypertension artérielle
+cliniques	enzyme	antagonistes	bêta-bloquants
+fonction ventriculaire	insuffisance cardiaque	fonction rénale	enzyme
+cliniques	life	renaal	elite il	hypertension artérielle	insuffisance cardiaque	néphropathie diabètique
+myxome	cavités cardiaques droites	insuffisance cardiaque globale	patiente	myxome	oreillette droite	insuffisance cardiaque globale
+diagnostic	échocardiographie
+exérèse chirurgicale	circulation extracorporelle
+auteurs	tumeur	échocardiographie	diagnostic
+galectin-3	biomarqueur	diagnostic	pronostic	insuffisance cardiaque aiguë	chronique	insuffisance cardiaque	médicales	pathologie
+peptides natriurétiques	prise en charge	pathologie	diagnostic	pronostique	suivi	patients
+galectine-3	protéine	macrophages
+action	fibroblastes	collagène	tissu cicatriciel	fibrose cardiaque
+mis	en avant	galectine-3	remodelage fibrotique myocardique
+diagnostique	pronostique	aide	insuffisance cardiaque aiguë	chronique
+sodium	insuffisance cardiaque
+insuffisance cardiaque à débit élevé	fistule aorto-cave distale	artères rénales
+oedemes périphériques	ascite
+sodium	significativement	fistules
+débit global de filtration glomérulaire	technique de hanssen	clearance du pah
+sodium
+aiguë	réabsorption tubulaire proximale
+fistule	significativement	sodium	anse de henle
+anse de henle	chronique	formation	oedemes	fistule
+fibrillation atriale	troubles du rythme	incidence	fibrillation atriale
+fibrillation atriale	prise en charge	thérapeutique
+
+anticoagulation	antivitamines k
+ablation	veines pulmonaires	thérapeutique	patients
+dysplasie ventriculaire droite arythmogène	dysplasie ventriculaire droite arythmogène
+ventricule gauche	fe	thérapeutique
+dysplasie ventriculaire droite arythmogène	dilatation	ventricule droit
+ventricule gauche	fe	ventricule gauche	ventricule droit	myocardique	dysplasie
+stable	condition	troubles du rythme
+myocarde	clinique	cardiomyopathies arythmogènes dilatées
+insuffisance cardiaque
+histologie	fibrose interstitielle	infiltration lymphoplasmocytaire biventriculaire	auto-immun
+dysplasie ventriculaire droite arythmogène	lésions
+patient	maladie	pronostic
+thrombose	endoprothèse coronaire pharmacoactive	arrêt	agents antiplaquettaires	thrombose	endoprothèse coronaire pharmacoactive	actif	paclitaxel	arrêt	antiplaquettaire	chirurgie	veineuse
+postopératoire	patient	victime	infarctus du myocarde	insuffisance cardiaque
+insuffisance cardiaque	assistance circulatoire biventriculaire
+règles	périopératoire	antiplaquettaires	patients	endoprothèses coronaires	actif
+machines	assistance circulatoire	complications	médecins urgentistes	réanimateurs	pathologies	choc cardiogénique réfractaire	asystolie	myocardites	aiguës	médicaments	choc cardiogénique	infarctus du myocarde	myocardiopathies	post-partum
+cliniques	malade	centre médicochirurgical	implantation	assistance circulatoire	machine	défaillance multiviscérale	significative	morbidité	mortalité	opératoires
+ecmo	extra-corporeal membrane oxygenation	pathologie	myocardique
+cliniques	techniques	assistance ventriculaire	cardiopathies chroniques décompensées	traitement médical	transplantation	transplantation
+assistance circulatoire	chirurgiens	cardiologues	réanimateurs	paramédicale	prendre en charge	patients	défaillance cardiogénique
+malades	machine	clinique
+implantation	machine	fonction ventriculaire droite	neurologique	rénal	sepsis
+machines	prise en charge	médicochirurgicale	malades	techniques	assistance ventriculaire
+machines	implantables	greffons cardiaques	thérapeutique	greffe
+prise en charge	patients	insuffisants cardiaques	médecins généralistes	princeps	princeps	prise en charge	insuffisants cardiaques	patients	symptomatiques	médecins généralistes	insuffisants cardiaques	enzyme	iec
+médecine générale	france
+patients	insuffisants cardiaques	hypertendus
+diagnostic	insuffisance cardiaque	ic	dyspnée	cardiologue
+ic	hypertensive	hospitalisation	patients
+patients	symptomatiques	classe il de la nyha
+iec	patients
+posologie	patients	règle	cardiologue	patients
+patients	symptomatiques	patients	ic	hypertensive
+β-bloquant	diurétique	digitalique	iec
+patients	insuffisants cardiaques	médecins généralistes	ic	hta
+iec	posologie	hta	temps	insuffisance cardiaque
+télésurveillance médicale	pronostic	clinique	patients	insuffisance cardiaque	télésurveillance médicale	tsm	pronostic	patients	insuffisance cardiaque	ic
+clinique	tsm
+décompensation cardiaque	statut	clinique	patients
+patients	ambulatoires	ic	pression artérielle	pouls
+critère cardiaque composite	ccc	décès	hospitalisation
+temps	régression logistique	entraînement	test
+clinique	meta-analysis global group in chronic heart failure	maggic
+régression logistique
+diagnostique	courbes roc
+patients	ccc
+
+ccc	entraînement	auc	test	auc
+maggic	ccc	entraînement	auc	test	auc	sensibilité	spécificité
+tsm	complications	ic	statut	clinique	patients
+insuffisance cardiaque aiguë diastolique	dysfonction cardiaque diastolique	ventricule gauche	relaxer	diastole
+dysfonction	insuffisance cardiaque	patients	insuffisance cardiaque chronique
+symptômes	insuffisance cardiaque aiguë	dysfonction systolique	diastolique	physiopathologiques
+diagnostic	insuffisance cardiaque diastolique aiguë	insuffisance cardiaque	fonction systolique du ventricule gauche	dysfonction diastolique
+échocardiographie	diagnostiques
+insuffisance cardiaque aiguë	diastolique	volémie	postcharge du ventricule gauche	dysfonction diastolique	hypertension artérielle	fibrillation auriculaire	ischémie myocardique
+cardiomyopathie du péripartum	syndrome de meadows	patiente	medicaux	prise en charge	insuffisance cardiaque sévère	postpartum
+étiologie	insuffisance cardiaque
+diagnostic	cardiomyopathie du péripartum	syndrome de meadows	anomalies	paracliniques
+echocardiographie	cardiomyopathie dilatée	hypertension artérielle pulmonaire
+parois myocardiques
+regime hyposodé	digitalodiurétique	symptomatologie	reprise	patiente	récupération	significative	fonction myocardique
+greffe cardiaque
+patiente
+échocardiographie doppler	diagnostic	insuffisance cardiaque aiguë à fonction systolique conservée	diagnostique	doppler	flux trans-mitral	flux de remplissage du ventricule gauche	vp	insuffisance cardiaque aiguë à fonction systolique conservée
+protidémie	doppler	vp	irt	vp	pics de vélocité du flux mitral	irt	temps de relaxation isovolumique	patients	œdème pulmonaire	affections respiratoires	aiguës
+vp	irt	vp
+sensibilité	spécificité	vp	irt	vp	diagnostic	œdème pulmonaire	patients	oncocitémie	patients	hypo-oncocitémie
+diagnostic	insuffisance cardiaque aiguë à fonction systolique conservée	fibrillation auriculaire
+patients	oncotique	plasmatique	protidémie
+épidémiologie	insuffisance cardiaque	europe	épidémie
+épidémiologie	insuffisance cardiaque	france	économique	santé
+prévalence	prévalence	pronostic	maladies	insuffisance cardiaque
+mortalité
+insuffisants cardiaques
+incidence
+insuffisance cardiaque	tiers	patients
+consultations	hospitalisations	insuffisance cardiaque
+
+décès	insuffisance cardiaque
+dépenses	insuffisance cardiaque	dépenses	médicales
+insuffisance cardiaque	santé	publique
+inciter	patients
+suivi	patient	transplantation cardiaque	immunosuppression	transplantation	insuffisance cardiaque terminale
+suivi	patient	immunosuppression
+immunosuppression	inhibiteur de la calcineurine	ciclosporine a	tacrolimus	agent antiprolifératif	stéroïdes
+médicaments	inhibiteurs du mtor	immunosuppresseurs
+immunosuppression	transplantation cardiaque	patient	pharmacologie
+cardites rhumatismales	prévalence	hospitalière	rhumatisme articulaire aigu	raa	cardites rhumatismales	cr	cardiopathies
+prévalence	cr
+patients	étude rétrospective transversale descriptive	centres hospitaliers universitaires	chu	abidjan	cardiologie	abidjan
+patients	diagnostic	cr
+patients
+
+prévalence
+prévalence	hospitalière	cr
+cr	insuffisance cardiaque
+symptôme	régurgitation valvulaire	dilatation	cavités cardiaques
+insuffisance mitrale	lésion
+péricardites	insuffisance mitrale	patients	lésions valvulaires séquellaires
+baisse	prévalence	hospitalière	cr
+
+patients	insuffisance cardiaque	centre hospitalier général	insuffisance cardiaque	pathologie	compliance	patient
+compliance	formation	patient	maladie
+formation	centre hospitalier général	prix	investissement	temps
+thérapeutique	prise en charge	patients	hospitaliers
+bloc auriculoventriculaire	congénital	bloc auriculoventriculaire	congénital	yater	bradycardie	infectieuse
+affection	congénitale
+coeur	fibrose endomyocardique	anomalies	transposition	isomérisme gauche	canal artériel	communication interauriculalre
+insuffisance mitrale
+maladie auto-immune
+anticorps	circulation	maladie inflammatoire
+échocardiographie
+diagnostic	électrocardiographique	complet
+rythme
+suivi	pronostic	blocs auriculoventriculaires	congénitaux	stimulation cardiaque
+bloc auriculoventriculaire	rythme	fréquence cardiaque	anasarque	pronostic
+insuffisance cardiaque
+enregistrement holter	épreuve	échocardiographie	symptômes
+symptômes	dysfonction ventriculaire	qt	extrasystole ventriculaire	ventriculogramme
+
+stimulation épicardique	thoracotomie	épigastrique	endocavitaire	fines	sous-clavière
+atrioventriculaire	entraînement	ventriculaire
+peptide b natriurétique	diagnostique	pronostique	cardiologie	hormone	dysfonction ventriculaire	peptide b natriurétique	brain natriuretic peptide	bnp	hormone	myocytes ventriculaires	surcharge de pression
+dysfonction ventriculaire	symptomatiques	asymptomatiques	dysfonction
+insuffisance cardiaque	auteurs	insuffisance cardiaque	diagnostic	pronostic
+pathologies
+affections	diagnostique	pronostique	syndromes coronariens aigus	hypertension artérielle
+stratification du risque	insuffisance cardiaque chronique	insuffisance cardiaque	maladie	thérapeutiques
+stratification du risque	pronostic	patient	transplantation cardiaque
+
+clinique
+stratification du risque	mort subite
+stratification
+mortalité	chirurgie	aorte abdominale	peropératoires	chirurgie	aorte abdominale	mortalité	périopératoire
+étude prospective
+patients	patients	opérés	aorte abdominale
+préopératoires	hta	revascularisation coronaire	infarctus	symptomatologie	angor	diabète	fa	insuffisance cardiaque	créatininémie	bpco	ß-bloquants	inhibiteurs calciques	iec
+peropératoires	chirurgie	anévrisme	sténose	chirurgie	sanguines	lombotomie	hémoglobine	opératoire
+hémoglobine	peropératoire	malades
+analyses univariée
+patients	décédés	chirurgie	aortique
+significatifs	angor	or	bpco	or	or
+sanguines	analyse univariée
+hémoglobinémie	opératoire
+préopératoires	mortalité	angor	bpco
+peropératoire
+sanguines
+soins palliatifs	patients	insuffisance cardiaque terminale	insuffisance cardiaque	pathologie	insuffisance cardiaque terminale	responsable	mortalité
+étude rétrospective	prise en charge	palliative	prise en charge	cardiologique	décès	hospitalisation
+patients	étude rétrospective	patients	décédés	insuffisance cardiaque	centres hospitaliers
+
+patients
+hospitalisation	patients	hospitalisés
+décès	symptômes	dyspnée	douleur
+thérapeutiques	oxygénothérapie	antalgiques
+patient	suivi	psychologue
+décision	profit	patients	décision	décès
+patients	insuffisance cardiaque terminale	symptômes	prise en charge
+soins palliatifs	prise en charge	patients	insuffisants cardiaques
+cardiaque	vasculaire
+
+sénescence replicative	protéomique	systémiques
+cardiovasculaire	vasculaire
+aorte	glycation	protéines pariétales
+ventricule gauche	hypertrophie cardiaque gauche compensée	fibrose	insuffisance cardiaque
+insuffisance cardiaque	fibrillation auriculaire	hypertrophie ventriculaire gauche	pathogène
+pression systolique	pression diastolique
+artériel	non invasives	compliance artérielle
+thrombose veineuse profonde	médecine	thrombose veineuse profonde	héparine	héparines de bas poids moléculaire	cliniques	chirurgie	médicales	patients	hospitalisés	médecine
+cliniques	patients	infarctus du myocarde	insuffisance cardiaque	accident vasculaire ischémique	hémiplégie	sepsis	pulmonaire	pathologies	médicales	aiguës	thrombose veineuse profonde	maladie thromboembolique	thrombophilie	obésité
+maladie	thrombose	malade	prophylaxie	héparine de bas poids moléculaire
+maladie	médicale	aiguë	thrombose veineuse profonde
+héparine de bas poids moléculaire	patient	accident vasculaire ischémique	insuffisance cardiaque	infarctus	médicale	patient	thromboemboliques	thrombophilie
+prophylaxie	médicamenteuse
+prescriptions
+insuffisants cardiaques	hospitalisés	collège national des cardiologues des hôpitaux généraux	cnchg	épidémiologiques	insuffisance cardiaque	hospitalier
+rassemblant	patients	collège national des cardiologues des hôpitaux généraux	cnchg
+patient	insuffisants cardiaques	hospitalisés
+france	cardiologie	centres hospitaliers généraux	chg	traitement médical	insuffisant cardiaque	hospitalisé	a. cohen-solal	cardiomyopathie	insuffisance cardiaque	société française de cardiologie
+insuffisant cardiaque	hospitalisé	cardiopathie ischémique	new york heart association	nyha
+électrocardiographique
+diurétiques	anse	prescrits	digitaliques	enzyme	prescrits	prescription	anti-aldostérone	β-bloquants
+patients
+décèdent	mortalité	fe	classe fonctionnelle nyha	cardiopathie	insuffisance rénale
+cardiologie	cnchg	prise en charge	patients
+complications	infarctus du myocarde à la phase aiguë	complications	infarctus du myocarde à la phase aiguë	symptômes
+complication	mort subite	fibrillation ventriculaire
+insuffisance cardiaque	infarctus du myocarde
+vagal	insuffisance ventriculaire gauche	infarctus du myocarde
+choc cardiogénique	classe iv killip	myocardique	complication	cardiaque
+complications	pronostic	complications
+infarctus du myocarde	troubles du rythme	tachycardies supraventriculaires	troubles du rythme ventriculaire	troubles de la conduction
+troubles du rythme	complications	prise en charge	médicale	ecg	patients
+thromboses intracardiaques	embolie pulmonaire	infarctus du myocarde	aiguë	baisse	débit cardiaque
+complications	nécrose myocardique
+médicalisation	pré-hospitalière
+soins curatifs	palliatifs	insuffisance cardiaque sévère	centre hospitalier	insuffisance cardiaque	ic	maladie chronique	terminale
+mortalité	diagnostic	ic de stade iv
+soins palliatifs	qualité de vie	douleur	symptômes
+ic	symptômes
+soins palliatifs
+cardiologie	montréal	implanté	soins curatifs	palliatifs	ic
+ic	soins curatifs	palliatifs	qualité de vie	ic
+anticoagulation orale	fibrillation auriculaire	anti-vitamines k	avk	accidents vasculaires cérébraux	patients	fibrillation auriculaire	fa	valvulaire
+avk	patients	thromboembolique
+avk	prescription	patients	fa non valvulaire
+étude rétrospective	patients	hospitalisés	fa	paroxystique	chronique
+patients	thromboembolique
+malades	patients
+hypertension artérielle	thromboembolique	suivi	diabète	insuffisance cardiaque congestive
+patients	embolique
+patients	avk	aspirine	antithrombotique
+patients	avk	prescription	hémorragiques	avk	neurologiques
+
+patients	fa non valvulaire	thromboembolique	avk
+cardiopathie carcinoïde	cardiopathie carcinoïde	tumeurs carcinoïdes métastatiques
+insuffisance valvulaire tricuspide	sténose pulmonaire
+patiente	tumeur carcinoïde métastatique	hospitalisée	insuffisance cardiaque congestive	insuffisance tricuspide
+lésions carcinoïdes	échographie	pulmonaire
+valvulaire
+échographie	postopératoire	fonction ventriculaire droite
+chirurgical	valvulopathies carcinoïdes	survie	patients	nyha
+mortalité opératoire
+
+chirurgie cardiaque	survie	symptomatologie
+angio-œdèmes	enzyme	angiotensine
+enzyme	angiotensine	iec	prise en charge	hypertension artérielle	insuffisance cardiaque
+
+angio-œdème	œdème	tissus sous-cutanés	muqueuses	patients	iec
+
+angio-œdème	iec	amiens
+
+patients
+muqueuses digestives
+tiers	tiers
+atteinte laryngée	responsable	décès
+
+physiopathologique
+bradykinine
+arrêt	iec
+antagonistes	récepteurs	angiotensine ii
+administratives	insuffisance cardiaque	administratives	patients	insuffisance cardiaque	ic
+administratives	ic
+administratives	classification internationale des maladies	cim
+cim	ic
+cim	ic	diagnostique	patients	exercices	financiers
+cim	ic
+patients	médecins	ambulatoires
+sensibilité
+spécificité	valeur prédictive négative
+valeur prédictive positive
+valeurs kappa
+patients	ic
+ic	prévalence	ic
+ic	hospitalier
+administratives	ic
+thérapie cellulaire	insuffisance cardiaque	insuffisance cardiaque	santé	publique	thérapeutique
+thérapie cellulaire	myocarde
+cliniques
+insuffisance cardiaque post-ischémique
+transplantation	cardiomyocytes	performance cardiaque	immunologiques	éthiques	cliniques
+cardiomyocytes	cellules souches	moelle osseuse	vaisseaux	coeur	tissu adipeux
+vasculaires	moelle osseuse	sang	néo-angiogenèse	myocarde infarci	cardiomyocytes
+cellules souches	hématopoïétiques	moelle osseuse	sang	tissu cardiaque	endothélial
+transplantation	cellules musculaires squelettiques	myoblastes	myocarde infarci	formation	tissu musculaire squelettique
+clinique	paris
+cellules musculaires squelettiques
+clinique	randomisé	double aveugle
+cliniques	injections	moelle osseuse	sang périphérique
+administration
+cliniques	précliniques	juger	future	thérapie cellulaire	prise en charge	insuffisance cardiaque
+insuffisance cardiaque chronique	morbidité	mortalité	financier	santé
+traitement pharmacologique	implantation	thérapeutiques
+survie	significativement	qualité de vie	patients
+thérapie génique	cardiaque	génétique	cœur
+insuffisance cardiaque
+maladies cardiovasculaires	gènes
+gènes	gènes	protéines	insuffisance cardiaque
+administration
+viraux	cliniques	expression génétique	significative
+viraux	adénoviraux	expression
+viraux	adénovirus	gènes	myocardiques
+expression génétique	thérapeutique
+insuffisance cardiaque	amyloïdose cardiaque sénile
+amyloïdose sénile	clinique
+nécropsiques	intra-ventriculaires	amyloïde
+insuffisance cardiaque congestive
+amylose cardiaque sénile	diagnostiquée	amyloïdose primitive	myocarde
+biopsies	endomyocardiques	techniques	immunohistochimiques	auteurs	amyloses cardiaques séniles
+patients	survie	malades	amyloïdose primitive
+amyloïdose cardiaque sénile	nécropsiques
+malades	amyloïdose cardiaque primitive
+rétablissement de la fréquence cardiaque	clinique	insuffisants cardiaques	bêtabloquant	rétablissement de la fréquence cardiaque	rfc	exercice	clinique	patients	coronaropathie
+rfc	insuffisants cardiaques	complications	cliniques	patients
+rfc	épreuve	cardiopulmonaire	corrélation	vo2	clinique	hospitalisation	insuffisance cardiaque	mortalité	transplantation cardiaque
+épreuve	patients	insuffisance cardiaque congestive	consultation	institut de cardiologie de montréal	montréal	québec
+patients	insuffisance cardiaque de classe ii	new york heart association	ventriculaire gauche
+
+ventriculaire gauche
+cardiomyopathie ischémique	bêtabloquants	enzyme	angiotensine
+rfc	fc	fc
+rfc	épreuve
+vo2 de pointe	fc	battements	fc	battements
+rfc	battements	battements	battements	battements
+patients	rfc	battements	hospitalisés	insuffisance cardiaque	suivi	hospitalisations	hospitalisations
+corrélation	vo2 de pointe	rfc	épreuve
+patients	ic	rfc	épreuve	corrélation	vo2 de pointe	ic
+rfc	morbidité	insuffisants cardiaques
+épidémiologie	syndrome	complications	épidémiologie	syndrome	sahos
+mis	prévalences	sahos
+obésité	race
+pathologies	sahos	hypertension artérielle	accident vasculaire cérébral	maladie coronaire	insuffisance cardiaque	mortalité cardiovasculaire	résistance	insuline	dysfonctions neurocognitives	responsable
+sahos	maladies	épidémiologiques
+épidémie	obésité	diagnostic	sahos	économique	santé
+diagnostic
+traitement médical	hospitalisation	insuffisance cardiaque	ventriculaire gauche	future	cardiologue	insuffisance cardiaque
+cardiologues	traitement médical	patients	fevg	hôpital
+future	patients	insuffisants cardiaques	ambulatoires	suivis	cardiologues
+patients	hospitalisés	diagnostic	insuffisance cardiaque
+cliniques	traitement médical	iec	ara2	bêtabloquants	diurétiques	antagonistes	aldostérone	hôpital	consultation	médicaments
+patients	insuffisants cardiaques	cardiologues
+
+fevg	patients
+hôpital	consultation	thérapeutique
+consultation	bêtabloquants	iec	ara2	diurétique	anse	antagonistes	aldostérone
+patients	bêtabloquant	iec	ara2
+patients	fevg basse
+médicament
+fevg	future	insuffisance cardiaque
+médicaments	insuffisance cardiaque	bêtabloquants
+
+toxicité cardiaque	physiopathologie	cliniques	oncopédiatre	guérison	leucémies	cardiovasculaire	cytotoxiques	circulatoire	anthracyclines	radiothérapie
+lésions	myocytes	pompe cardiaque	hypertrophier	somatique	exercices	physiques	cellules endothéliales	artériosclérose	mort subite	sténose ostiale	temps	cardiovasculaire
+tuniques cardiaques	péricarde	endocarde	tissu nerveux autonome	péricardites	calcifications	fuites valvulaires	troubles du rythme
+surmortalité	cardiaque	oncologues	leucémies
+physiopathologiques	asymptomatiques	cliniques	diagnostic	dépistage	suivi	patients	insuffisance cardiaque	infarctus	mort subite
+cytotoxiques	cyclophosphamide	amsacrine	5fu	agents tubulo-affins	cardiaque
+imagerie par résonance magnétique	atteinte cardiaque	syndrome de churg-strauss
+prévalence	complications	cardiaques	syndrome de churg-strauss	diagnostiques	dépister
+diagnostic	pronostique	maladie
+étude rétrospective	patients	atteintes cardiaques	syndrome de churg-strauss	imagerie par résonance magnétique	irm	cardiaque
+
+clinique	insuffisance cardiaque	douleurs	thoraciques
+éosinophilie
+anticorps anticytoplasme des polynucléaires neutrophiles	patient
+irm	cardiaque	injection	gadolinium	artère coronaire	fonction systolique du ventricule gauche	ventricule gauche	épanchement péricardique
+clinique	prednisone	cyclophosphamide	patient	recours	plasmatiques
+irm	diagnostic	cardiaques	syndrome de churg-strauss
+dépistage	atteintes cardiaques	patients	atteintes cardiaques	pronostic	traitement médical	patients
+nitroglycérine	remplissage vasculaire	chirurgie	aorte abdominale	patients	coronariens	insuffisance cardiaque	opérés	syndrome de leriche	exploration hémodynamique
+peropératoire	clampage aortique	pression capillaire pulmonaire
+patients	nitroglycérine	ntg	posologie
+index cardiaque	ntg
+ntg	significative	index systolique	ventriculaire gauche
+exploration hémodynamique
+malades	ntg	insuffisance rénale à diurèse conservée	postopératoire
+ntg	hémodynamique	peropératoire
+infection	chlamydia	cardiomyopathie dilaté	peripartum	niger	insuffisance cardiaque	cardiomyopathie	afrique sub-saharienne	infection	chlamydia
+auteurs	statut	infection	chlamydia	chlamydia pneumoniae	chlamydia trachomatis	chlamydia psittaci	insuffisance cardiaque
+insuffisance cardiaque	syndrome	cardiomyopathie
+maladie cardiaque
+igg	iga	igm	micro-immunofluorescence
+igg	iga	igm
+test
+chlamydia pneumoniae	patientes	anticorps	igg	patientes	anticorps	iga	chlamydia pneumoniae
+patientes	anticorps	igm
+chlamydia trachomatis	chlamydia psittaci	significatives
+infection	chlamydia pneumoniae	cardiomyopathie
+resynchronisation cardiaque
+resynchronisation cardiaque	patients	insuffisance cardiaque réfractaire	traitement médical	dysfonction ventriculaire gauche systolique	qrs
+implanter	défibrillateur biventriculaire
+prévalence	mort subite	insuffisant cardiaque
+patients	cardiopathie ischémique	implanter	défibrillateur
+patients	cardiomyopathie non ischémique	scd-heft	companion	défibrillateur
+patient	comorbidités	prix	défibrillateur
+ventriculaires	droit	avantages
+resynchronisation cardiaque	insuffisance cardiaque	activité	patient
+stimulation ventriculaire gauche	fibrillation atriale	pathologie	hémodynamique	insuffisant cardiaque
+revascularisation	sténoses athéroscléreuses	artère rénale	sténoses athéroscléreuses	artère rénale	patients	maladie athéromateuse diffuse
+patients	insuffisance rénale chronique
+décès	infarctus du myocarde	accident vasculaire cérébral	insuffisance rénale chronique	terminale
+revascularisation	traitement médical	revascularisation	patients	arrêter	antihypertenseur	dilatation
+insuffisance rénale	revascularisation
+angioplastie endoluminale	percutanée	chirurgie	complications
+revascularisation	hypertension	insuffisance cardiaque	patients	insuffisance rénale	créatininémie	enzyme
+dilatation	patient	hypertension artérielle	rein
+dilatation	traitement médical	antihypertenseurs	statines	aspirine
+pression artérielle	créatinine
+reins	artères rénales	échographie-doppler
+soins de fin de vie	patients	insuffisance cardiaque	patients	insuffisance cardiaque	ic	symptômes	qualité de vie	hospitalisations
+patients
+patient	soins de fdv	patients	hospitalisés	ic
+patients	ic	cardiaque	hospitalisés	soins tertiaires	patients	soins de fdv
+soins de fdv	patients
+soins de fdv	physique	symptômes
+patients	fonctions vitales	médecin
+harmonieux	hôpital	patients	ic
+prise en charge	symptômes
+stimulateurs cardiaques	défibrillateurs automatiques implantés	réanimateur	stimulateurs cardiaques	défibrillateurs automatiques
+prise en charge	patients
+défibrillation	infection
+cliniques	techniques	implantation
+électrocardiogramme	défibrillateurs
+défibrillateur
+implantables	rythme cardiaque
+complications	infection
+bisoprolol	patients	insuffisance cardiaque stable
+bisoprolol	patients	suivis	insuffisance cardiaque stable	bêtabloquants
+
+patients	bisoprolol	clinique	paraclinique	échographie cardiaque	isotopique	épreuve	hormonaux
+
+bisoprolol
+classification de la nyha
+fréquence cardiaque	batts	électrocardiographiques
+ventricule gauche	significative	volumes télédiastoliques	télésystoliques	ventricule gauche
+profil mitral
+pic de vo2	significative	pouls	battement
+plasmatiques	peptides natriurétiques a	norépinéphrine	significativement	bisoprolol
+
+bisoprolol	significativement	ventricule gauche	remodelage	ventricule gauche	hormonale
+bloc auriculo-ventriculaire complet	patiente	chloroquine	cardiotoxicité	antipaludéens de synthèse	aps
+atteinte cardiaque chronique
+insuffisance cardiaque	cardiomyopathie	bloc auriculo-ventriculaire	bav
+a.f.	arthrite chronique	polyarthrite	séro-positive
+sulfate de chloroquine	hydroxychloroquine	chloroquine	prednisone
+patiente	hyperpigmentation cutanée	myalgies
+
+aps
+bav complet syncopal	pacemaker
+myopathie	aps	muscle cardiaque
+lésions	vacuolaires	septum ventriculaire	ventricule	bav
+histologie	myocardique	cliniques	cardiopathie	lésions cardiaques	responsabilité	chloroquine	cardiaque	ecg	aps
+insuffisance cardiaque congestive fœtale	cœur	flux sanguin	organes	cerveau	foie	reins	morbides	mort
+médecine	diagnostiques	affections	insuffisance cardiaque fœtale
+échocardiographies	dysfonctionnements diastoliques	systoliques	ventricules
+cardiomégalie	régurgitation valvulaire	congestion veineuse	œdème fœtal	oligohydramnios	shunt	flux sanguin	cerveau	cœur	surrénales
+diagnostique	insuffisance cardiaque	cardiovasculaire	échocardiographiques
+maladie	insuffisance cardiaque
+débit cardiaque	myocarde	cardiomyopathie	myocardite	ischémie	affections	hypertension artérielle	cardiopathie obstructive	atrioventriculaires	transfusion	arythmie	cardiaque	externe	épanchements pleuraux	péricardiques	tumeurs cardiaques
+affections
+bloc auriculo-ventriculaire complet	maladie de fabry	maladie de fabry	sphinglopidose	héréditaire	transmission	lipidique	organes	enzymes	catabolisme	glycolipides
+syndromes	tableau clinique	cardiovasculaires	insuffisance cardiaque	rénales	insuffisance rénale	mort	coma urémique
+bloc auriculo-ventriculaire complet	symptomatique	maladie de fabry
+auteurs	atteintes cardiovasculaires	maladie de fabry	travers
+prise en charge	patient	insuffisant cardiaque	insuffisance cardiaque	pathologie	prévalence	incidence	morbimortalité	responsable	coût	financier
+thérapeutique	prise en charge	patient
+preuve	thérapeutique	société européenne de cardiologie
+prise en charge
+creusot	thérapeutique	prise en charge	insuffisance cardiaque	hôpital
+
+hospitaliers	prise en charge	patients	insuffisants cardiaques	pouvoirs publics
+péri-opératoires	cardiaque	techniques	chirurgicales	patients
+prévalence	cardiaque	insuffisant cardiaque
+fonction cardiaque	péri-opératoire
+anesthésique	physiopathologique	pharmacologique	cardiologue	chirurgien
+préopératoire
+cardiaque	peropératoire	postopératoire
+conditions	circulatoires	chirurgie
+postopératoire
+complications	cardiovasculaires	chirurgicaux
+patients	insuffisance cardiaque	pronostic	pronostic	soins en fin de vie	patients	insuffisance cardiaque	ic	terminale
+patients	pronostic
+patients	ic terminale	pronostic
+patients	heart function clinic	médical	université mcmaster	hamilton	ontario
+patients	pronostic	décision	soins en fin de vie	patients	médecins	pronostic	diagnostic	patients	médecins	pronostic	mort	patients	temps
+qualité de vie	symptômes	décisions	soins en fin de vie
+patients	médecins	pronostic
+patients	médecins	pronostic
+insuffisance mitrale	morbidité	mortalité	dysfonction ventriculaire gauche	insuffisance mitrale	patients	insuffisance cardiaque
+morbidité	mortalité
+mortalité	hospitalisations	insuffisance cardiaque	patients	échocardiographie	solvd	dysfonctionnement ventriculaire gauche
+insuffisance mitrale	patients	insuffisance mitrale
+patients	dysfonctionnement ventriculaire gauche	insuffisance mitrale	décès	hospitalisation	insuffisance cardiaque	doubler	rr	ic
+insuffisance cardiaque	étiologie	rr	ic
+insuffisance mitrale	rr	ic
+insuffisance mitrale	insuffisance mitrale	patients	dysfonctionnement ventriculaire gauche	décès	hospitalisations	insuffisance cardiaque
+cliniques	prendre en charge	patients	insuffisance cardiaque
+tératome sacrococcygien	thérapeutique	prise en charge	tératome sacrococcygien	tumeur
+tumeurs	hypervascularisées	anasarque	fœtoplacentaire	insuffisance cardiaque	shunt	hémorragie	aiguë	intratumorale
+tératomes	échographie-doppler
+imagerie par résonance magnétique	irm	anatomie	tératomes	endopelvienne	tumorale
+thérapeutiques	coaguler	pédicules vasculaires	hémodynamique
+tumeur
+thromboses intraventriculaires	myocardiopathie idiopathique	péripartum	thromboses ventriculaires	cardiomyopathie dilatée hypokinétique	pronostic
+auteurs	thromboses intraventriculaires	cardiomyopathie du péripartum
+
+clinique	cardiomyopathie dilatée hypokinétique	insuffisance cardiaque	post partum
+patientes	rythme sinusal
+diagnostic	thrombose intracardiaque	échocardiographie
+thrombus apical ventriculaire gauche	patientes
+malades	thrombi intraventriculaires gauches
+patiente	thrombose ventriculaire gauche
+patiente	thrombose droite	ventricule gauche
+anticoagulants	héparine	antivitamines k	diurétique	vasodilatateur	cliniquement	insuffisance cardiaque	thrombi
+accident embolique
+prescription	anticoagulant	cmipp
+complications	emboliques
+infirmière	patients	insuffisance cardiaque	insuffisance cardiaque	ic	maladie chronique	symptômes	hospitalisations
+symptômes
+randomisée	infirmière	patients	ic
+tad
+
+principal	hospitalisation
+
+ic
+
+clinique	pistes
+cou	financier	prise en charge	urgences	cardiovasculaires	centre hospitalier et universitaire de brazzaville	auteurs	urgences	centre hospitalier et uni- versitaire de brazzaville
+vasculaires	insuffisances cardiaques	hypertensives
+
+cou	frais	consultation	cliniques	frais	hospitalisation
+cou	prise en charge	vasculaire
+cou	prise en charge	insuffisance cardiaque
+hypertensive	cou	prise en charge
+brazzaville	financiers	prise en charge	vasculaire	hypertensive	insuffisance cardiaque
+maladie
+cardiaques	chimiothérapies	cardiaques	chimiothérapies	cytotoxiques	thérapies
+administration	patients	patients	patients	cardiovasculaires	coronaires
+american college of cardiology	american heart association	acc	aha	patients	chimiothérapie	insuffisance cardiaque de stade a
+anticancéreux systémiques	système cardiovasculaire	poursuite	qualité de vie	mortalité
+cardiotoxicité	cliniquement	anthracyclines
+cytotoxiques	complications	cardiovasculaires	agents alkylants	5-fluoro-uracile	paclitaxel
+cardiovasculaires	thérapies	inhibiteurs de tyrosine kinase	trastuzumab	bévacizumab	médicaments	hémopathies	acide tout-trans-rétinoïque
+complication	cardiaque	thérapies	anticancéreuses	insuffisance cardiaque congestive	anthracyclines	cyclophosphamide	trastuzumab
+ischémie myocardique	interféron	antimétabolites
+hypotension	hypertension	arythmies	troubles de conduction	péricardites	complications	thromboemboliques
+dysthyroïdies	cliniques	clinique	diagnostic	dysthyroïdies	sensibilité	spécificité	symptômes
+neuro-psychiques	cardio-vasculaires	dysthyroïdie	syndrome	insuffisance cardiaque	tachyarythmie	fibrillation auriculaire
+dépistage	hormone thyréotrope	tsh	hormones thyroïdiennes
+diagnostic	affection	amiodarone
+hypothyroïdie	étiologique	surcharge iodée
+hyperthyroïdie	scintigraphie	goitre nodulaire
+thérapeutiques
+hormonothérapie	hypothyroïdie
+cardio-vasculaire
+iode radioactif	hyperthyroïdie	surcharge iodée	goitre compressif
+physique	psychique	complications	cardio-vasculaires
+dépistage	maladies
+cardiotoxicité	anthracyclines	pharmacologiques	anthracyclines	antitumoraux
+fonction cardiaque
+cardiotoxicité	insuffisance cardiaque
+anthracyclines	cardiotoxicité
+formation	métabolites	mort cellulaire programmée	anthracyclines	cardiaque
+in vitro	in vivo	myocytes cardiaques	anthracyclines
+contrepulsation externe à haut rendement	angine	insuffisance cardiaque	incidence	angine	insuffisance cardiaque	thérapeutiques	patients	symptomatiques
+contrepulsation externe à haut rendement	cehr	patients	angine	insuffisance cardiaque
+patients	angineux	espérance de vie	cardiaques
+cehr	insuffisance cardiaque
+clinique	cehr	angine	insuffisance cardiaque
+remplacement valvulaire aortique	patients	patients	court	remplacements valvulaires aortiques	chu	rouen	opérés	patients	rétrécissement aortique	maladie aortique
+décision	patient	chirurgien	patients
+lésions coronaires	significatives	patients
+remplacement valvulaire aortique	pontage
+bioprothèse
+lésions valvulaires	maladie de mönckeberg
+mortalité opératoire	patients
+récupération	hospitalisation
+remplacement valvulaire aortique	lésions coronaires	insuffisance cardiaque	insuffisance aortique	surmortalité	significative
+mortalité	patients	patients
+courbe	survie	survie
+espérance de vie	malades	opérés	endocardite infectieuse aortique
+patients	endocardite infectieuse aortique	opérés	antibiothérapie
+hémoculture	patients	streptocoque	patients	staphylocoque	patients	germe gram	patients
+complications	chirurgie	insuffisance cardiaque sévère	patients	insuffisance rénale	patients	troubles de conduction	patients	complication	neurologique	patients	embolie périphérique	coronarienne	patients
+remplacement valvulaire aortique	patients	mitral	patients	tricuspidien	patient
+patients	morts	opérés	opérés
+temps	décès tardifs	cardiovasculaire
+surmortalité	périopératoire	insuffisance cardiaque	rénale
+survie	mortalité	périopératoire	significativement
+surmortalité	patients	bactériologique	pronostic	chirurgie
+infarctus traumatique	ventricule droit	dissection	coronaire	infarctus myocardique	complication	traumatismes	thorax	ventricule gauche	position	anatomique
+nécrose myocardique	ventricule droit	dissection	traumatique	coronaire droite
+patient	traumatisme	thoracique	insuffisance cardiaque droite	ischémie	lésion	ecg
+scannographie	épanchement péricardique	lésion médiastinale
+coronarographie	dissection	coronaire droite	vascularisation	paroi inférieure	ventricule gauche	coronaire gauche
+repolarisation	précordiales	antéroseptales	lésion coronaire	lésions ischémiques	ventricule droit	paroi inférieure	ventricule gauche
+remplissage vasculaire	pression capillaire pulmonaire	ventriculaire droit
+maladies cardiovasculaires	maladies cardiovasculaires	prévalence
+qualité de vie	statut
+maladies
+cardiovasculaire	précliniques	qualité de vie
+tests	marche	marche	capacité fonctionnelle	insuffisance cardiaque chronique	test de marche progressive	avantages	test de marche de six minutes	insuffisance cardiaque chronique	icc
+reproductibilité	test	tests	oxygène de pointe	vo2	pronostique	tests	marche	insuffisants cardiaques	stables
+patients	new york heart association	épreuve	test	marche
+patients	capacité fonctionnelle	tests	test de marche de six minutes	test de marche progressive
+test	test	patients
+ic	tests
+vo2 de pointe	test	survie
+insuffisants cardiaques chroniques	test de marche progressive	reproductibilité	vo2 de pointe	marche
+vo2 de pointe	tests	survie	patients	capacité fonctionnelle
+physiopathologie	hypertrophie ventriculaire gauche	hypertrophie ventriculaire gauche	complication	hypertension artérielle
+
+génétiques	obésité	angiotensine ii	noradrénaline	cardiomyopathie hypertrophique
+masse	ventriculaire gauche	échocardiogramme	malades	hypertendus
+hypertrophie ventriculaire	diastolique	systolique	myocarde
+insuffisance cardiaque	coronarienne	troubles du rythme ventriculaire
+hypertension artérielle	hypertrophie ventriculaire	systolique	diastolique
+masse	ventriculaire	malade	hypertendu	incidence	complications	cardiovasculaires
+musculaire	prise en charge	masse	musculaires
+activité	physique	pathologies	musculaire
+maladies neurologiques	insuffisance cardiaque	artériopathie	pathologies	musculaire
+marche
+musculaire	psychologiquement
+fistules coronarocardiaques	congénitales	chirurgicale	embolisation percutanée	fistule coronarocardiaque	congénitale
+fistule	pulmonaire	insuffisance cardiaque
+échographie	coronarographie	coronaire gauche
+auricule gauche	ventricule	oreillette
+
+chirurgie	ligature	externe	coeur	shunts	ligature	embolisation percutanée
+patients	électrocardiogramme	scintigraphie	thallium	fonction ventriculaire	échocardiographie
+coronarographie	coronaire	fistuleuse
+fistule coronaire	congénitale	embolisation percutanée	anatomie
+chirurgicale
+complications	neurologiques	endocarties infectieuses	patients	hospitalisés	endocardite infectieuse	complications	neurologiques
+complications
+complications	neurologiques	endocardite	guérison	maladie
+accidents ischémiques cérébraux	hémorragies cérébrales	comas	neurologiques	atteinte neurologique périphérique	syndrome de claude bernard horner
+pronostic	coma	insuffisance cardiaque	prothèse valvulaire	lésions neurologiques
+pronostic	auteurs	chirurgie	valvulaire	staphylocoque	embolie systémique périphérique	angiographie	cérébrale	artérielle systémique	endocardite infectieuse	anévrysme mycotique	chirurgicalement	physiopathologie	cardio-vasculaire	syndrome	apnées du sommeil	sas	physiopathologiques	morbides	syndrome	apnées du sommeil	sas	pathologies	cardiovasculaires
+cardiovasculaires	apnées	cardiovasculaires	aiguës	chroniques	système cardiovasculaire
+aiguë	cardiovasculaire
+hypoxémie	hypercapnie	intra-thoraciques
+pression artérielle	rythme cardiaque	bradycardie	apnée	tachycardie	reprise
+cardiovasculaires	aiguës
+aiguës	système cardiovasculaire	tonus sympathique	baisse	tonus parasympathique	diurne
+sensibilité	baroréflexe	patients	apnéiques
+fonction endothéliale	patients	sas	recepteurs	adrénergiques	vasodilatation no dépendante	sensibilité	vasoconstriction	angiotensine 2
+morbidité	cardiovasculaire	sas	admise	hypertension artérielle	hta	diurne	insuffisance cardiaque gauche	insuffisance coronarienne	accident vasculaire cérébral
+épidémiologiques	prise en charge	sas	cardiovasculaire	patients	pathologie
+coeur artificiel total	cardiowest	défaillances multiviscérales	malades	insuffisance cardiaque terminale	aide	coeur artificiel total	cardiowest	transplantation cardiaque
+dysfonctions	organiques	ventilation assistée	plasmatiques	bilirubine	créatinine	plaquettes	prothrombine	système nerveux central
+malades	décédés	assistance circulatoire	décès	défaillance multiviscérale
+bilirubine	plasmatique	significativement	malades	décédés	défaillance multiviscérale	malades	décédés	défaillance multiviscérale	dysfonction	organique	implantation	coeur artificiel total	malades
+vasculaires	implantation	significativement	malades	décédés	défaillance multiviscérale
+défaillances multiviscérales	assistance circulatoire	morbide
+implanter	assistances circulatoires	défaillance multiviscérale
+mort subite	ms	mort cardiaque	responsables	décès	patients	insuffisance cardiaque
+comorbidité	maladie	indice de comorbidité de charlson	icc	mortalité	insuffisance cardiaque
+patients	suivis	clinique	soins tertiaires	insuffisance cardiaque
+incidence	mort subite
+comorbidités	médicales	causes de décès
+mortalité	ms	ms	défibrillateur automatique implantable	dai	mort non subite
+
+suivi	patients	morts
+ms	décès	ms	dai	patients
+mort non subite	mortalité	icc	mort subite
+incidence	mort subite	mort subite	tachycardie	fibrillation ventriculaire	mort non subite
+new york heart association	icc	significativement	mort non subite
+patients	insuffisance cardiaque	comorbidités	mort non subite
+patients	insuffisance cardiaque	dai	prophylactique
+thérapeutique	patients	insuffisants cardiaques	france	insuffisance cardiaque	maladie
+hospitalisations	suivi	maladie	thérapeutique
+thérapeutique	mis	en avant	haute autorité de santé
+icare	sociétés	société et fédération française de cardiologie	centres hospitaliers	thérapeutique	patients
+canal artériel	canal artériel	canal artériel	détresse respiratoire
+shunt	hémodynamiques	pulmonaire	rénale	cérébrale
+cliniques
+insuffisance cardiaque	hémorragies pulmonaires	dysplasie bronchopulmonaire	entérocolite ulcéronécrosante	hémorragies cérébrales	complications
+cliniques	diagnostic	échographie cardiaque
+traitement médical	inhibiteurs de la synthèse des prostaglandines
+indométacine	prophylactique	curative	posologie
+traitement médical	ligature	chirurgicale
+thérapeutiques	prise en charge	insuffisance cardiaque aiguë décompensée	insuffisance cardiaque aiguë décompensée	icad	syndrome	hospitalisations	canada	patients
+patients	icad	surcharge de volume
+diagnostic
+
+insuffisance cardiaque chronique	significatives	icad
+changé	diurétiques	électrocardiographie	administration
+peptides natriurétiques	patients	diagnostic
+recours	thérapie vasodilatatrice	choc cardiogène	symptômes	diurétiques
+électrolytes	créatinine
+intubation trachéale	patients	icad	hypoxie
+insuffisance cardiaque	clinicien	insuffisance cardiaque chronique
+cardiovasculaires	patients	bpco	bronchopneumopathie obstructive chronique	bpco	fonction respiratoire
+or	maladie	santé	systémiques
+patients	bpco	maladies cardiovasculaires
+cardiovasculaires	patients	bpco	arythmies cardiaques
+arythmies	hypertension artérielle	maladies cardiovasculaires	insuffisance cardiaque	accidents vasculaires cérébraux	cardiovasculaires	patients
+dresser	maladies cardiovasculaires	patients	bpco
+hypertension pulmonaire	cardiaques droites
+médicale	systémiques	cardiovasculaires	patients	bpco
+
+prise en charge	patients	bpco
+syndrome cardio-rénal	anémie rénale	syndrome cardio-rénal	clinique	physiopathologique	organes
+volémie
+insuffisance cardiaque	techniques	ultrafiltration	dialyse péritonéale
+érythropoïétine	principal	anémie	insuffisant rénal	dialysé	prédialysé	insuffisant cardiaque	insuffisance rénale
+hémoglobine	patient	urémique
+maladies cardiovasculaires	plainte	maladies cardiovasculaires	clinique
+qualité de vie	pronostic
+physique	psychique	physiopathologie	cliniques	neurobiologiques
+physique	musculaire	débit cardiaque	musculaire	microcirculatoire	dysfonction neurohormonale	dysmétabolismes
+psychique	anomalies	syndrome	vital
+diagnostique	organiques
+tests	physique	psychique	prise en charge	réadaptation
+qualité de vie	morbimortalité
+complications	défibrillateur cardiaque automatique implantable	complications	défibrillateur cardiaque implantable
+défibrillateurs cardiaques implantables	implantés	patients
+patients	arythmie ventriculaire
+arythmies
+patients	prophylactique	syndrome des brugada	syncope	tachycardies ventriculaires	patiente	torsades à couplage court
+patients	cardiopathie	ischémique	dilatée
+patients
+suivi
+patients	décédés	décès	cardiaques	insuffisance cardiaque
+patients	complications	défibrillateur automatique implantable
+opératoire	bloc auriculoventriculaire	post	amiodarone	postopératoire	infectieuse	accident vasculaire cérébral	thrombophlébite	pneumothorax
+complications	patients	arythmie auriculaire	tachycardie sinusale	myopotentlels	dysfonctionnement	complications	défibrillateur
+défibrillateur automatique implantable	arythmies ventriculaires	complications
+immunoglobuline intraveineuse	myocardiopathie	aiguë	patients	auto-immun	myocardite	myocardiopathie dilatée	mcd	immunomodulatoire	auteurs	cliniques	patients	mcd fulminante	aiguë	transplantation cardiaque
+hospitalisation	patients	insuffisance cardiaque congestive	fonction ventriculaire gauche	vg	aide	immunoglobuline intraveineuse	ivig
+diagnostic	mcd	aiguë	insuffisance cardiaque congestive	classification fonctionnelle iii	new york heart association	vg	fevg	maladie pseudovirale
+patients	inflammation	biopsie endomyocardique	enzymes cardiaques	coronarographie
+patients	new york heart association	hôpital
+fevg
+patients	fevg	patients	vg
+patients	suivis	fevg	significatif	fevg
+aide	intraveineuses	ivig	patients	mcd fulminante	aiguë
+ivig	patients
+resynchronisation cardiaque	cardiopathies	congénitales	pathologies	cardiaques	congénitales	patients	prise en charge
+mort subite	insuffisance cardiaque	patients	thérapeutique
+patients
+stimulation cardiaque	resynchronisation	insuffisance cardiaque gauche	bloc de branche gauche	congénitaux	insuffisance cardiaque
+resynchronisation	post	chirurgie	cardiopathie	congénitale	dysfonction ventriculaire gauche
+patients	resynchronisation	cardiopathies	congénitales
+clinique	échographique	resynchronisation	patients	anatomique	dysfonction ventriculaire	bloc de branche droit	ventricule droit systémique	ventricule unique
+cardiopathie	insuffisance cardiaque	arythmies ventriculaires	resynchronisation
+dysplasie ventriculaire droite arythmogène	dysplasie ventriculaire droite arythmogène	dvda	cardiomyopathie du ventricule droit	adipeuse	myocarde	myocardiques	fibrose
+responsable	dilatation ventriculaire droite	insuffisance cardiaque
+atteinte ventriculaire gauche
+mort subite	arythmie ventriculaire
+dvda	morts subites
+génétique
+
+gènes
+responsables	anomalies	jonctions cellulaires	desmosomes
+dvda	cardiomyopathies arythmogènes du ventricule droit
+diagnostiques	génétiques	thérapeutiques
+mis
+cliniques	électrocardiographiques	imagerie morphologique
+pronostique
+hypotension orthostatique	maladies cardiovasculaires	médicaments	cardiovasculaire	hypotension orthostatique	hypertension artériellle	hta	coronaropathie	insuffisance cardiaque
+polymédicamenté	co-morbidités	maladie	prévalence
+hta	antihypertenseurs	bêtabloqueur	hypotension orthostatique
+hta	insuffisance cardiaque
+musculaire	entraînement	musculaire
+midodrine	hypertensions artérielles	décubitus	patients
+insuffisance cardiaque sévère	midodrine	posologie	thérapeutiques	symptômes	hypotension orthostatique
+fonction pompe ventriculaire droite	resynchronisation	déformation myocardique	resynchronisation cardiaque	crt	fonction ventriculaire gauche	patients	insuffisance cardiaque systolique	fonction ventriculaire droite	vd
+déformation systolique myocardique	strain	resynchronisation cardiaque	crt	fonction vd
+patients	insuffisance cardiaque systolique	classe nyha iii	fevg	qrs	ms	crt
+vd	anneau tricuspide	vd	incidence	apicale
+fonction systolique vd	systolique	anneau tricuspide	tapse	vitesse systolique	strain systolique	paroi libre du vd
+intra-vd	strain systolique septal	latéral
+crt	fevg	significativement	volumes télédiastoliques	patients	intra-vg	implantation
+crt	vd	fonction vd	strain	paroi libre du vd
+fonction vd	crt	patients	vd	position	septale	corrélée	vd	crt
+crt	fonction vd	vd	patients	insuffisants cardiaques
+insuffisance cardiaque chronique	maladies cardiovasculaires	morbidité	mortalité
+neurohumorale	aide	inhibiteurs du système rénine-angiotensine-aldostérone	bêta-bloquants	santé	maladie	patients	morbidité	mortalité
+épreuve	antagonistes	récepteurs	aldostérone	fréquence cardiaque	ivabradine
+défibrillateurs implantables	resynchronisation cardiaque
+en main	fibrillation auriculaire	patients	insuffisance cardiaque	patients
+chirurgicale	ventriculaire	ventricule gauche	pontage aortocoronarien	pac	patients
+biomarqueurs	patients	insuffisance cardiaque
+pharmacogénomique	clinique	patients	insuffisance cardiaque
+réticulohistiocytose multicentrique
+réticulohistiocytose multicentrique	dermatoarthrite lipoïdique	affection systémique	articulaire	complications	systémiques
+exégèse
+race	tableau clinique	polyarthrite rhumatoïde	rhumatoïde
+biopsie	nodule cutané	diagnostic	réticulohistiocytose multicentrique
+patiente
+tableau clinique	syndrome	papulonodulaire	prurigineux	bras	polyarthrite destructrice	systémiques	cardiomyopathie décompensée
+insuffisance cardiaque	corticothérapie	chloroquine
+
+rhumatoïde	rhm	polyarthrite	lésions cutanées	papulonodulaire	biopsier
+lésions articulaires	systémiques	réticulohistiocytose multicentrique
