@@ -56,11 +56,10 @@ Creates Train, Val and Test split, saves files to "preprocessed".
 	3. Language and label separator define dir name: Example en_comma = English data, semicolon separated labels
 02. spm.sh Bash script:
 Create SentencePiece tokenized and binarized files for processing with fairseq. Saves files to "postprocessed".
-	1. CLI argument 1 defines dataset e.g. run
+CLI argument 1 defines dataset. Example for the English, semicolon separated dataset:
 	```
 	./spm.sh en_comma
 	```
-	for the English, semicolon separated dataset.
 03. train.sh Bash script:
 Start training process with Fairseq.
 04. gen.sh or interactive.sh Bash scripts:
