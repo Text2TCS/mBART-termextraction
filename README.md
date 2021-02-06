@@ -16,7 +16,9 @@ Use the scripts in the root of the repository to recreate these results.
 
 ## Installation
 
-The experiment relies on several external dependecies. Create a python 3 virtual environment and install all dependencies using
+The experiment relies on several external dependecies. It is recommended to recreate the experiments on Linux.
+
+Create a python 3 virtual environment and install all dependencies using
 
 ```
 pip install -r requirements.txt
