@@ -1,0 +1,8 @@
+Term types in fr_comma_en 
+
+GOLD 
+ {'Named_Entity': 226, 'Common_Term': 319, 'OOD_Term': 157, 'Specific_Term': 1883} 
+
+TRUE_POS 
+ {'Named_Entity': 145, 'Common_Term': 162, 'OOD_Term': 49, 'Specific_Term': 1243} 
+

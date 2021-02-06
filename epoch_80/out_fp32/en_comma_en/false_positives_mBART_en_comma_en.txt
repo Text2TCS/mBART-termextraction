@@ -1,0 +1,1483 @@
+30-day readmission
+ab hf
+abb
+abc hf model
+abc2
+abm
+abshort physical performance battery
+absorption function
+ac
+accessory pathways
+accountable
+accounting
+acetylcholinesterase inhibitor pyridostigmine
+acetyltransferase
+acquired heart failure
+actin cytoskeleton pathways
+activated caspase
+activated neurohormonal systems
+activated t cells
+activators
+active
+activity
+activity status index
+acute autonomic nervous system modulation
+acute care hospital
+acute care hospitals
+acute pulmonary embolism
+ad-c
+ad-fraud
+adenoviral vector
+adherence
+adjunctive treatment
+adjusted hazard ratio
+administration
+administrative
+admission to discharge
+advanced heart failure
+advanced heart failure therapy
+advantage
+adverse cardiovascular
+adverse event rates
+aerobic
+aerobic exercise
+aerobic exercise training
+afterload burden
+aging
+air pollution
+akt
+albumin levels
+alcohol
+aldosterone antagonist therapy
+allopurinol rats
+ambient air pollution
+ambulatory heart failure trial
+ambulatory hf
+ambulatory icd
+amino-terminal
+amyloidotic pattern
+anabolic imbalance
+anesthetized dogs
+angeli
+angion-receptor blockers
+angiotensin converting enzyme inhibitors intolerance
+angiotensin ii infusion
+angiotensin receptor
+angiotensin receptor antagonist valsartan
+ann arbor
+annular size reduction
+anova
+ans
+ans mice
+anterior descending
+anterior descending artery
+anterior descending coronary artery occlusion
+anterior leaflet opening
+anthracyclies
+anthracycline exposure
+anthracycline metabolism
+anthracycline-containing chemotherapy
+anthracycline-related congestive heart failure
+anthracycline-treated breast cancer
+antiarrhythmic medication
+antirheumatic drug
+antitumor activity
+aortic blood flow
+aortic insufficient
+aortic pressure curve
+aortic valve insufficient
+aortic valve replacement
+aortic valve surgery
+apical rotation
+arg16
+aric hf
+aric hf model
+arn
+arrhythmia events
+arrhythmia substrate
+arrhythmia-related costs
+art failure
+arterial compliance
+artificial pulse
+as
+atheromatous coronary disease
+atherosclerosis risk
+atp production rates
+atrial area
+atropine infusion
+autonomic nervous system activity
+autopsy
+axis
+axis function
+baroreflex activity therapy
+barriers to exercise
+basal
+basal contractility
+basal rotations
+baseline electrocardiogram
+bb therapy
+beagle dogs
+beat-to-beat qt interval
+beat-to-beat qt intervals
+beats
+behavioural-change
+bem
+bem levels
+bem-matched
+bems
+bet inhibition
+beta-blocker hypo-response
+beta-blocker therapy
+bh
+bhh
+binding
+binomial regression models
+bioinformatic
+biological
+biomarker studies
+biomarker-guided clinical trial
+biomedical treatment
+bioprosthetic
+black
+black ethnicity
+black race
+blacks
+blinded core
+blood loss
+blood testing
+blood work
+blood-flow paths
+blunted cardiac β-ar responsiveness
+blunts
+bn
+body
+body composition
+body fat distribution
+body mass
+body mass ratio
+body weight
+bone morphogenetic protein
+borderline
+bottleneck stent model
+br4
+brachial
+bradycardia induced
+bradycardic response
+branch block
+breakdown
+breath
+breathing control
+bridged
+bridging therapy
+bromodomain inhibition
+bromodomain-containing protein
+bt
+budget
+bundle branch block pattern
+burden of heart failure
+c-kit
+c-kt+ cell
+c-kt+ cell yield
+c57b
+ca2
+cab
+caf
+calf muscle
+caloric restriction
+camp hydrolytic activity
+camp production
+camp-dependent protein kinase
+cancer
+cancers
+canine electromechanics
+canine model
+cardiac autonomic balance
+cardiac benign tumors
+cardiac biology
+cardiac c-kit
+cardiac comorbidities
+cardiac diameters
+cardiac energy metabolism
+cardiac explant
+cardiac explant-derived cells
+cardiac functional
+cardiac gene control
+cardiac gene therapy
+cardiac genes
+cardiac hypertrophic response
+cardiac insulin-resistance
+cardiac l-type channel activity
+cardiac mena deletion
+cardiac myocyte-specific mena overexpression
+cardiac nurse
+cardiac nurses
+cardiac pathogenesis
+cardiac pathology
+cardiac pathophysiology
+cardiac patients
+cardiac plasma membrane levels
+cardiac procedures
+cardiac risk
+cardiac sodium current
+cardiac specialty hospital
+cardiac surgery
+cardiac sympathetic tone
+cardiac sympathovagal balance
+cardiac symptoms
+cardiac t2
+cardiac tissue
+cardiac tissues
+cardiac transplant recipients
+cardiac vagal
+cardiac vagal tone
+cardiologist
+cardiology- cardiovascular surgery
+cardiomyopathic restriction
+cardiomyopathy questionnaire
+cardiopactary exercise testing
+cardioprotective effect
+cardiopulmonary exercise
+cardiovascular complications
+cardiovascular conditions
+cardiovascular event rate
+cardiovascular event-free rate
+cardiovascular health
+cardiovascular outcomes
+cardiovascular risk factors
+cardiovascular surgeons
+cardiovascular system
+cardsiology
+care
+care group
+care management
+carotid baroreflex activation therapy
+carotid bodies
+catalytic
+catecholamine infusions
+catheter system
+ccnka snp
+ccq
+cd34
+cd34-vegfr2
+cdp
+cell adhesion
+cell expansion
+cellular
+centers for medicare
+central pattern generator
+centrifugal-flow chronic lvas
+centrimag rvad
+cerebral blood flow
+cf lvad
+cg
+cgm
+cha2s2vasc
+chagas
+chamber programme
+change
+chelation choices
+chelation regimes
+chemical
+chemotherapy-induced heart failure
+chest radiation
+chf-dnx
+chf-inv
+chf-inv rabbits
+childhood malignant disease
+chm
+choline
+chromatin remodeling
+chromatin-dependent signal transduction
+chromatin-mediated signal transduction
+chronic disease
+chronic hff
+chronic inflammatory state
+chronic insulin exposure
+chronic kidney disease epidemiology
+chronic stable guideline-directed medical therapy
+chronic β-ar
+circulating
+circulating mediator of insulin resistance
+circulationtory assist device
+circulatory arrest
+circulatory failure
+ck
+claims
+class iiib
+clin
+cnca
+cnp
+co correlated
+cochrane effective practice
+cognitive function
+cognitive impairment
+collagen density
+collect
+collected
+colon
+combination
+communities
+composite hf
+composite response
+conditional gene-targeted hand
+conduction abnormalities
+confidence
+confirmatory factor
+congenital abnormalities
+congestive heart failure exacerbation
+congestive heart failure phenotypes
+connected
+consumption rate
+contact
+contrast agent
+cooperation center longitudinal study
+coronary artery calcium
+corporeal membrane oxygenation
+corruption
+cost
+cost-effective
+cost-efficient
+cost-efficient model
+costs
+coupling
+cox
+cox proportional hazard
+cox proportional hazards
+cox proportional hazards regression
+cp
+cps
+creatine kinase activity
+crf distribution
+cronbach
+crt off
+ct
+cultured cardiomyocytes
+cumulative administration
+cumulative urine volume
+currents
+cutoff level
+cutoff value
+cv-d
+cvf
+cvm
+cvm-1020)
+cvp
+cvt
+cystatin c level
+cytochrome
+cytotoxic effect
+danish heart failure
+decisions
+decongestion
+defense mechanism
+defibrillator-only therapy
+dementia
+department of cardiology
+depression
+depression scale
+depressive
+depressive symptoms
+desensitization
+detergent
+dgs
+diabetic zsf1
+dialysis-dependent
+dialysis-dependent patients
+diastolic filling
+diastolic indices
+diet
+diet score
+diet scores
+dietary
+dietary sodium restriction
+differential g-protein coupling
+differentiation
+diffuse myocardial changes
+dilated poorly contracting ventricles
+direct observation
+direct renin inhibitors
+discrimination
+discrimination improvement
+disease management
+disease progression
+disease recapitulates
+distressing
+disturbed intestinal barrier
+dithiothreitol
+diuretic refractory
+diuretic resistant volume overload
+diuretic therapy
+dm
+doppler imaging
+dose changes
+double-knockout
+downstream
+doxorubicin-induced heart failure
+dp-4
+dr-stratified hazard ratios
+drug dose
+dual ras
+duke
+dynamic
+dynamic resistance
+eacm
+early diastolic mitral annular velocity
+early diastolic mitral annulus velocity
+early rhythm control therapy
+early transmitral blood flow velocity
+early transmitral flow
+early-activated septum
+early-onset hf
+ecb
+echocardiographic evidence
+echocardiographic predictors
+echocardiographic score
+echocardiographic systolic
+ecm
+ecmo+vad
+economic
+economic models
+ect
+ed cases
+eer-medicare
+egf
+ejection
+elastic na2bus
+electric remodeling
+electrical
+electrical activation
+electrical predictors
+electrical stimulation
+electrocardiographic device
+electromechanical
+electronic
+elevated left atrial pressure
+elevated resistin
+elicited
+embryonic gene
+embryonic kidney
+emean
+emergency cardiac catheterization
+emotional
+emotional stress
+emphas-hf
+emps-hf
+end point of death
+end-diastolic area
+end-tidal co2
+endothelial repair
+endothelial-protective
+energy deficit
+energy expenditure
+enhanced catabolism
+enos-ser
+enos-thr
+enrollment
+environment
+eo-s
+epigenetic changes
+equipotent dosages
+er kinase
+erasers
+erd
+err
+erus
+erythropoiesis-stimulating agent therapy
+eseptal
+et
+ethically
+ethnic groups
+event rate
+evidence
+evidence based practice
+evidence of reverse remodeling
+evidence-based medications
+evidence-based practice
+evidence-based therapies
+evidence-based treatments
+excised
+exercise
+exercise performance
+exercise training
+exercise-induced
+exertional
+expenditure
+expenditures
+extracorporeal membrane oxygenation membrane
+fat
+fat loss
+fat mass index
+fat-free mass index
+fatigue
+fee-for-service
+feeding
+fg
+fiber
+figure
+financial
+financial burden
+financials
+fixed-rate atrial
+flow
+flow reserve
+flow-mediated dilatation diameter
+fluo-camp binding
+fluorescence resonance energy transfer-based
+flutter
+follow-up echocardiograms
+follow-up measurement
+follow-up tests
+font failure
+food and drug administration
+force
+forkhead box
+foundation
+fractal scaling
+free wall
+free-breathing pulse sequence
+full-length scn5a
+functional
+functional etiology
+fundamental mechanism of cardiac dysfunction
+futility
+g-protein-coupled receptor kinase-2
+gadolinium-chelate contrast
+gain
+gating
+gdm
+gdm-treated nyha
+gdp
+gem
+gene expression profiling
+general hospital
+genes coding
+germline
+ghf
+ghg
+ghm
+ght
+glucose transporter
+glycosylated
+grading of evaluation
+grln27
+growth factor-β
+grs
+gs
+gtpase rac1
+guideline
+guideline-heart failure registry
+guidelines-heart failure
+h-dco
+h-oxidase
+haematopoetic cell transplantation
+haemodynamic assessment
+haemodynamic stress
+ham-innervated
+hand
+hand grip strength
+hawt
+hawt battery
+hawt ratio
+hdl function
+hdl-bound malondialdehyde
+hdl-induced
+hdl-induced no production
+hdl-mediated protective effects
+hdl-mediated vascular
+health care providers
+health care system
+health care systems
+health center
+health insurance
+health insurance board
+health outcomes
+health per capita
+health service
+health status
+health system
+health-care budget
+heart association
+heart failure assessment
+heart failure center
+heart failure disease
+heart failure efficacy
+heart failure index
+heart failure model
+heart failure-related hospitalization
+heart failure-related mortality
+heart lesions
+heart muscle cells
+heart pathology
+heart study
+heart t2
+heart team
+heart-specific
+heartmate ii exchange
+heartware intl
+hemodynamic alterations
+hemodynamic assessments
+hemodynamic disorder
+hemodynamic perturbations
+hemodynamic status
+hemoglobin levels
+hepatic function
+herbal medicine
+hf cps
+hf induced
+hf mortality
+hf pathophysiology
+hf prediction model
+hf rats
+hf readmissions
+hf-action cohort
+hf-induced remodeling
+hf-related
+hf-related cachexia
+hfe
+hff
+hfv
+hfvt
+hg
+hg β coefficient
+hgb level
+hhf
+high-dose
+high-dose bb
+high-fat diet
+histologic
+hnorm
+home telemonitoring
+hospital anxiety
+hospital discharge
+hospital length
+hospital mortality
+hospitalized heart failure
+hpef
+hpf
+hr dynamics
+hretn
+hum-retn
+hum-retn mice
+humoral
+hybrid
+hypertrophied heart
+i-meta-iodobenzylguanidine
+i-mib
+i-mig
+i2
+icd-hf
+iea
+if inhibitor ivabradine trial
+il6)
+imaging techniques
+immunoreactive nt-probnp
+impaired lv relaxation
+implantable cardioverter defibrillator-crt
+implantable cardioverter-defibrator shocks
+implantable cardioverter-defibretor deactivation
+implantable cardioverter-defibretor device
+implantable cardioverter-defibrillator deactivation
+implantable cardioverter-defibrillator therapy
+implanted monitoring devices
+in-hospital
+inactive
+inappropriate atp
+inappropriate shock therapy
+incessant ventricular tachycardia storm
+incident hf
+income
+income per capita
+index admission
+index beat
+induce heart failure
+induced
+induced myocardial infarction
+induced pluripotent stem cell-derived cardiomyocytes
+inducible myocardial ischemia
+inducing hyperkalemia
+induction
+induction of serum resistin
+infarcted animals
+infarcted hearts
+infarcted left ventricle
+infarcted rats
+infarction-related refractory right heart failure
+inflammation-stimulated
+inflammatory abdominal problems
+inflammatory biomarkers
+inflammatory markers
+inhibition
+inhibition of protein kinase
+inhibitor
+inhibitors
+inhibitory
+inhospital mortality
+inhospital outcomes
+injury
+inotrope-dependent
+inpatient admissions
+inpatient records
+insulin receptor substrates
+insulin-signaling
+insulin-stimulated rates
+insurance
+intact hearts
+intermediate care
+intermediate frail
+intermediate metabolism
+intermediate odds ratios
+intermuscular fat ratio
+internal
+internal activity registry for mechanically assistance circulatory support
+internal diameter
+interquartile
+interventricular septum biopsies
+intestinal morphology
+intima-media thickness
+intl
+intracellular antiadrenergic therapeutic strategy
+intramuscular testosterone
+intravenous atropine
+intravenous inotropes
+intravenous iron
+intravenous metoprolol
+intrinsic left ventricular dysfunction
+intubation rates
+invasive hemodynamic
+ip
+iron
+iron deficiency
+irr1
+irr2
+ischemic etiology
+ischemic hf pathogenesis
+isoelectric
+isolated cardiomyocytes
+isolated heart rate
+isolated heart transplant
+isolated heartmate
+isolated hr reduction
+isolated lvad
+isolated myoctyes
+isoprenaline infusion
+ivabradine unloads
+ivabradine-treated
+jehovah
+joint effect
+kaiser permanente northern california
+kaplan-meier
+keletal muscle abnormalities
+keletal muscle mass
+kidney index
+kidney injury
+kir
+ktcc
+kv
+kv-ki
+kvd
+kvp
+kvq
+l-dco
+l-type ca2
+l-type channel isoforms
+laboratory report
+lancet
+late-onset hf
+lb
+lbb
+lc-ms
+lead
+leads
+lean zsf1
+left
+left heart
+left ventricular biopsies
+left ventricular ejection
+left ventricular longitudinal systolic strain
+left ventricular mechanics
+left ventricular midpapillary
+left ventricular tissue
+left-hand grip
+leg strength
+lendi27
+lendi3-gly4
+lendilpril
+length-force relationship
+lf
+lgf
+liberal transfusion protocols
+lipid-lowering therapy
+liver-specific
+load-corrected chronotropic response
+log
+log2
+logistic
+long-term mortality
+long-term ventricular assist device
+low-dose
+low-dose bb
+low-dose dopamine
+low-dose nesiritide
+lung congestion
+lung weight
+lv ejection
+lvf
+lying
+lyso-paf
+m
+m7
+mad-corruption
+mad-crt
+mad-pact
+madit-pact
+magnetically levitated
+magnetically levitated left ventricular assistance system
+magnetically levitated lvas
+magneticically levitated rotor
+malfunctioning heartmate
+malignancies
+malondialdehyde bound
+mammalian
+markers
+mass
+mass spectrometric
+md
+mechanical
+mechanical cardiac
+mechanical circulatory
+mechanical dyssynchrony
+mechanism
+mechanism of action
+mechanism of cardioprotection
+mechanisms
+mechanisms of disease
+medicaid services
+medical conditions
+medical records
+medical therapies
+medicare coverage
+mediterranean and dietary apps
+mediterranean diet score
+mena levels
+mesenchymal transition markers
+messenger
+metabolic abnormalities
+metabolic changes
+metabolic enzymes
+metabolic risk factors
+methodology
+metric
+mhf
+mice
+midwestern state
+migration
+mild patients hospitalization
+mineralocortic receptor antagonists
+mineralocortic receptor antagons
+minesota
+minnesota living with heart failure
+mitochondrial complex
+mitochondrial damage induced
+mitochondrial oxidative stress
+mitochondrial ultrastructural changes
+mitochondrial-targeted antioxidant
+mitochondrial-targeted peptide drugs
+mitral leaflet
+mlh
+molecular
+molecular biomarkers
+molecular mechanism
+monitoring board
+monitoring devices
+morpholino-based knockdown
+mortality and morbidity
+mortality predictors
+mortality rates
+mortality risk
+mouse
+mouse hearts
+movement
+mri-based
+mrna expression
+mrna levels
+msm
+mt
+multicenter automatic defibrillator implantation
+murine myocardium
+muscle function
+muscle strength
+muscle strip
+muscle strips
+muscle-wasting syndrome
+muscular strength
+mutant
+mv
+mwf
+mwh
+mwha-iiib
+mwt
+myocardial delayed enhancement imaging
+myocardial extracellular matrix accumulation
+myocardial glycolysis
+myocardial infarction-both
+myocardial loss
+myocardial pde2
+myocardial phosphodiesterase-2
+myocardial titin hypophosphorylation
+myocyte diameter
+myofiber
+myofibre
+myosin binding protein-c phosphorylation
+n-terminal natriuretic peptide
+na+ current
+na- channel mrna splice
+na-subunit
+na-terminal pro-b-type np
+nabdmard
+nacleolin
+nad
+nafat
+nanomolar doses
+national cardiovascular disease registry
+national inpatient registry
+natriuretic peptide levels
+natriuretic peptide system
+natural vasodilatory
+ncd pinnacle
+nef
+neonatal rat
+neprilysin blocks
+neprilysin inhibitor prodrug
+nesiritide strategy
+neurohormonal abnormalities
+neurohormonal activation
+neurohormonally induced heart disease
+neutral endopeptidase inhibitors
+ninth revision
+nitric oxide donors
+non-biological disease
+non-diabetic patients
+non-diastolic abnormalities
+non-dnx
+non-fatal stroke
+non-ischemic
+non-lbb
+noncardiac
+noncardiologist
+noncardiovascular diagnoses
+noncardiovascular drugs
+nonglycosylated
+nonmitochondrial protein changes
+nonpace
+nontrastuzumab
+nontraumatic death
+nordic walking
+norepinephrine-induced hypertrophic
+northamerica
+northwest united states
+np assessment
+np levels
+np measurement
+nr-terminal fragment
+nrri
+nt-probnp levels
+nt-probnp testing
+nt-probp
+nuclear factor
+nutrition
+nutritional
+nutritional abnormalities
+o-1
+o2
+obese body mass index
+off-pump
+office of statewide health planning and development
+oh
+onset af
+onset of heart failure
+open chest model
+open stent
+open surgery
+operating characteristic curve
+oral glucocorticoid
+oral glucocorticoids
+organic lesion
+organisation of care taxonomy
+oscillatory ventilation
+outcome assessment
+outcome assessments
+outcome change scores
+outcome measures
+outcome of death
+outcome ratings
+outcome-monitoring
+outpatient assessments
+outpatient settings
+overexpression
+overweight
+oxidative stress markers
+oxygen consumption
+oxygen flow
+oxygen pulse
+p38alpha mapk
+p70s6k-ser
+paced myocardium
+pacse
+paediatric cardiac transplants
+paediatric heart failure
+paf-cp
+parasympathetic function
+pasp relationship
+pathological cardiac gene expression
+pathological gene expression
+pathological gene induction
+pathological heart disease
+pathological hypertrophy
+pathological stress
+pathophysiologic mechanism
+pathophysiologic mechanisms
+pathophysiologic state
+pathway alterations
+patient discharge
+patient management interventions
+patient safety monitoring system
+pay-for-performance
+pcp
+pcw
+peak aerobic capacity
+peak o2 per kilogram
+peak respiratory
+pediatric heart failure
+penalties
+percutaneous revascularization
+perk activation
+perk inhibition
+permanent periodic breathing
+permeability
+perturbed mitochondrial function
+pet
+pg
+pharmacologic therapies
+pharmacologic treatment
+phenylephrine-induced genes
+phosphocreatine resynthesis
+physical activity
+physical exertion
+physiological proteolysis
+pif
+pif-acetylhydrolase
+pif-cp
+pigs
+pip
+pip relationship
+pkc-βii-ser
+plasma samples
+plateau phase
+policy
+polytetrafluoroethylene tube
+porcine model
+post myocardial infarction
+post-aac
+post-acute care transfer policy
+post-dash
+post-hct chf
+post-lvad
+post-myocardial infarction heart
+post-pd
+post-tac
+post-transplant
+post-transplant mortality
+postcontrast
+posterior wall thickness
+postexercise
+postmarketing
+postmenopausal women
+postnatal mammalian myocardium
+postoperative echocardiography
+postoperative mortality
+postoperative normalization
+power
+power spectral
+power testing
+pp
+practice
+pre-cr
+pre-hct
+pre-pd
+predictive model
+preoperative albumin
+preoperative hypoalbuminemia
+preoperative renal dysfunction
+preoperative serum albumin
+prescribed medications
+pressure
+pressure gradient
+pressure-overload-induced hypertrophy
+pressure-volume conductance
+primary isolated cab
+primary oscillations
+principal
+principal mechanisms
+pro2-leu3
+pro6-gly7
+procedure
+process
+prognostic power
+programmed cell death
+proof-of-principle cohort
+prostate
+protein levels
+proximal circumflex artery
+pss
+psychometric profile
+psychosocial factors
+public health
+public reporting
+publicly
+pulmonary arterial systolic pressure relationship
+pulmonary artery snared
+pulse-wave velocity
+pump
+pump exchanges
+pump failure
+pump replacement
+pump-exchange
+quality of care outcomes
+quartiles
+qv
+rabbits
+race
+rad q65p
+rad q66p
+radial
+radial artery tonometry
+raf
+raf-mek1/2- erk1/2
+raf-mek1/2-erk1/2
+raised blood glucose levels
+raloxifene-treated
+ras-
+rat metabolic risk
+rate of death
+ratio
+ratio of systolic blood pressure
+rats
+rcs
+readmission metrics
+readmission quality
+readmission rate
+readmission rates
+readmission reduction
+receiver
+receptor antagonist
+reciprocal downregulation
+reciprocal regulation
+recommended therapies
+recovery
+recovery period
+refill
+refractory
+regulates
+regulation
+regulator
+regulator of growth
+regulatory
+relative appendicular lean mass index
+relaxation
+religious beliefs
+renal atherosclerotic lesions
+renal optimization strategys evaluation
+reperfusion therapy
+report
+report model
+reporting
+resistance training
+resolution
+respiratory gas
+resynchronization reverses remodeling
+resynchronization-defibrillation
+retention trial
+retn gene
+reversal
+reversibility
+reversible myocardial ischemia
+rg
+rg proteins
+rhythm
+rial fibrillation
+right atrial area
+right atrial mass removal
+right atrium mass
+right grip strength
+right heart filling
+right ventricle overload
+right ventricular contractil
+right ventricular pump
+risk
+risk model
+riα proteins
+rna polymerase ii
+robot-assisted gait therapy
+robot-assisted training
+ronbach
+rotterdam
+rr intervals
+rule
+rv failure management
+s1p
+s1p1
+s1r1
+s1r1 agonist
+s2
+sarcomeric
+sarcopenic range
+scaffold protein drives
+schf
+sdqt-to-sdr ratio
+sdr
+sdwt
+self-care
+self-care maintenance scale
+self-care management scale
+self-management counseling
+self-rated depression
+septal defects
+septal wall
+sequential phosphorylation
+ser23/24
+ser96)
+serum factors
+serum levels
+serum resistin
+serum sodium levels
+sex
+sham
+sham explants
+sham group
+sham levels
+sham-inv
+sham-operated animals
+shams
+sheet orientation
+short-form quality of life
+shotgun
+shotgun proteomics
+shunt implants
+sickle cell
+signal transduction cascade
+signalling
+signalosome
+signed-rank tests
+skeletal muscle mass
+skeletal muscle sarcomere
+skinfold
+smad
+small-molecule inhibitors
+smoked
+smoking
+sn5a
+snared
+social
+social mandate
+social support score
+society
+socioeconomic
+sodium-restricted dash
+southeastern minnesota
+spearman
+speckle tracking
+sphingosine-1-phosphate receptor
+spontaneous cardiac dysfunction
+sr ca(2+)-pump function
+srd
+sst2 measurement
+st2 levels
+stable coronary artery disease
+standard cardiac rehabilitation care
+standard heart failure medicines
+standing
+statitistical
+stem cell source
+stent occlusion
+sternal sparing
+stockholm
+stop hypertension
+strain rate
+stretch rate
+stroke prevention
+stroke prevention trial
+stroke score
+structural heart disease
+structurally normal hearts
+sts hh
+subcellular alterations
+subclinical atherosclerosis
+sudden death
+surgical method
+surgical ring implantation
+survival
+survival study
+svh
+svr index
+svs
+swine
+swine model
+sympathetic control
+system
+systolic indices
+systolic left v entricular dysfunction
+systolic volume
+t test
+tac-indued proteomic alterations
+tachycardia-induced heart failure
+tachycardic response
+target sodium
+taxonomy
+technical
+technology
+term
+testosterone levels
+texas cancer registry-medicare
+tf
+tg-β
+tg-β inhibition
+tg-β receptor type
+tgf
+tgtetmena
+tgtmena
+thalassaemia
+thics rounds
+thigh muscle
+time up and go
+timed up and go test
+titin isoforms
+tlp
+tlp7
+tobacco
+tonometric indices
+total cholesterol
+toxicity
+tp
+tpse
+tpse-to-pasp ratio
+training
+training therapy
+training-induced changes
+trans
+transcription
+transcription factor networks
+transforming
+transforming growth factor
+transgenic mice
+transient
+transient receptor potential cation
+transition
+transitions
+transmitral flow velocities
+transplant pool
+transplant-ineligible
+transplantation eligibility
+trastuzumab administration
+trastuzumab-related cardiotoxicity
+trastuzumab-related chf
+trastuzumab-treated
+trastuzumb-related chf
+treadmill
+treadmill exercise
+treatating advanced hf
+treatment
+treatment algorithms
+treatment for heart failure
+treatment of heart failure
+trial
+trial-cardiac resynchronization therapy
+trichrome blue
+trigger hemoglobin threshold
+troponin i phosphorylation
+tta
+tuel-positive cells
+turbulence
+twist
+two-vessel disease
+u.s.
+ucp
+ucs
+um
+uncontrolled hypertension
+unfit
+unintentional weight loss
+unloading
+upstream signal
+urgent cardiac transplant
+urgent readmission
+urine
+usual care
+uv
+va
+va-rt
+vagal
+valve replacement
+vasodilator effects
+vasopressin receptor antagonist therapy
+vco2 slope
+vd
+veg
+veg inhibition
+veg pathway
+veg receptor
+vegfr2
+velocity
+ven
+ventricular contractile reserve
+ventricular diastolic end diameter
+ventricular ejection
+ventricular ejection fraction
+ventricular ejection time
+ventricular power index
+ventricular systolic
+ventricular wall stress
+vet
+veterans' affairs
+vgf2
+viscoelastic
+vivo phosphorylation
+voltage-gated
+voltage-gated cardiac
+waist circumference
+walk
+walk test
+walk test distance
+wasting
+wasting of fat
+wave doppler echocardiography
+wave ratio
+web-system for evidence-based care
+weight loss
+western australian
+white
+white rabbits
+wilcoxon
+wilebrand factor
+wind assay
+wistar rats
+withdrawal
+witness
+women
+working hearts
+wr
+wrf
+wt riα
+yorkshire swine
+zebrafish
+zf1
+zf1 groups
+zung
+β-adrenergic receptor activation
+β-adrenergic receptor haplotype
+β-ar drive
+β-blocker uptitration
+β-blocker uptitrations
+β-blocker-induction
+β-receptor haplotype
+β1ar overstimulation
+β2receptor

@@ -1,0 +1,8 @@
+Term types in multi_underscore_fr 
+
+GOLD 
+ ['Named_Entity: 146', 'Specific_Term: 1684', 'Common_Term: 487', 'OOD_Term: 57'] 
+
+TRUE_POS 
+ ['OOD_Term: 14', 'Specific_Term: 922', 'Common_Term: 250', 'Named_Entity: 78'] 
+

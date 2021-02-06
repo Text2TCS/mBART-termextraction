@@ -1,0 +1,8 @@
+Term types in multi_comma_nl 
+
+GOLD 
+ ['OOD_Term: 66', 'Specific_Term: 1559', 'Common_Term: 449', 'Named_Entity: 180'] 
+
+TRUE_POS 
+ ['OOD_Term: 21', 'Specific_Term: 1068', 'Common_Term: 271', 'Named_Entity: 108'] 
+

@@ -1,0 +1,8 @@
+Term types in multi_underscore_nl 
+
+GOLD 
+ {'Named_Entity': 180, 'Common_Term': 449, 'OOD_Term': 66, 'Specific_Term': 1559} 
+
+TRUE_POS 
+ {'Named_Entity': 98, 'Common_Term': 297, 'OOD_Term': 17, 'Specific_Term': 1120} 
+

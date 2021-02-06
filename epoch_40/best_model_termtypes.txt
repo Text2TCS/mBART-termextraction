@@ -1,0 +1,11 @@
+GOLD TERMTYPES ACROSS ALL LANGUAGES:
+Common_Term 418.333 ( 17.399 %)
+Specific_Term 1708.667 ( 71.066 %)
+Named_Entity 184.0 ( 7.653 %)
+OOD_Term 93.333 ( 3.882 %)
+
+BEST MODEL TERMTYPES ACROSS ALL LANGUAGES:
+Common_Term 244.0 ( 15.903 % )
+Specific_Term 1139.0 ( 74.234 % )
+Named_Entity 125.333 ( 8.169 % )
+OOD_Term 26.0 ( 1.695 % )

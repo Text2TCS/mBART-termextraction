@@ -3,7 +3,10 @@
 ## Overview
 
 This repository contains the scripts used to finetune mBART for the termextraction task on the ACTER dataset (https://github.com/AylaRT/ACTER).
-Use the files to recreate the experiment results.
+Additionally, the repository contains folders named "epoch_XX", which contain the output on the test set of the models trained to XX epoch.
+Use the scripts in the repository to recreate these results.
+
+
 
 ## Installation
 
@@ -67,6 +70,8 @@ gen.sh generates terms for all examples in binarized "test" file.
 interactive.sh can be used interactively to generate terms from raw text input-sentences.
 05. termeval_F1.py python script:
 Evaluate F1 score on extracted terms.
+
+
 
 
 

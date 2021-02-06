@@ -1,0 +1,723 @@
+24-uurstonometrisch
+6-minutenlooptest
+95-betrouwbaarheidsinterval
+aandoening
+aangeboren
+aanpak van hartfalen
+abdominale
+ace-remmergebruikers
+ace-remming
+acra
+acute
+adenosine
+adjuvant
+adjuvante
+adjuvante systeemtherapie
+adp
+adrenerge
+aldosterone-antagonist
+allel
+allelen
+allhat
+angio-oedeem
+angiotensine converterende enzymremmers
+angiotensine ii-receptorblokkers
+angiotensine-'converting'-enzymremmers
+angiotensine-i
+antagoneren
+antagonist
+antagonisten
+anti-inflammatoire
+antiaritmica
+antiaritmicum
+antidiabetische
+antihypertensieve behandeling
+aortale
+apex
+apoptotische
+arb's
+arg389-variantcellen
+aritmie
+arni's
+arterieel
+arterioveneuze
+arteriële stijfheid
+artritis
+ascend
+aspecifieke intraventriculaire geleidingsvertraging
+asymptomatisch
+asymptomatische
+at1
+atrioventriculair
+atrioventriculaire
+atrium
+atriumnatriuretische
+basisartsen
+basistherapie
+batista-operatie
+batista-procedure
+beenmerg
+behandelverpleegkundige
+behoefte seksuele voorlichting schaal-chf
+behouden ejectiefractie
+benauwdheid
+bi
+bijwerking
+bijwerkingen
+bijwerkingenprofiel
+biventriculaire
+bloedbeeld
+bloeddrukverlagende middelen
+bloedgasanalyse
+bloedige
+bloedige meting
+bloedige metingen
+bloedingsrisico's
+bloedingstijd
+bloedvat
+bnp-bepaling
+bnp-plasmaspiegels
+bolus
+breed qrs-complex
+bèta-2- agonisten
+bèta-adrenoceptorblokker
+bètablokkeerder
+bètareceptorblokkade
+c-statistiek
+cabg
+calciuretisch
+candesartan in heart failure: assessment of reduction in mortality and morbidity
+carcinoom
+cardiaal
+cardiogene
+cardiopulmonale
+cardiovasculair
+carvedilol and ace-inhibitor remodeling in mild heart failure evaluation
+carvedilol hibernation reversible ischaemia trial; marker of success
+carvedilol or metoprolol european trial
+casussen
+casuïstiek
+casuïstische
+celkweek
+cerebrale doorbloeding
+cerebrovasculaire
+charm
+charm-added
+charm-alternative
+charm-onderzoek
+charm-preserved
+cholecystitis
+christmas
+chronisch harfalen
+chronische
+chronische dialysetherapie
+chz
+classificatie van de new york heart association
+clinicus
+cns
+coach
+cochrane
+cohortonderzoek
+compliantie
+complicatie
+congenitale
+congestief hartfalen
+consultatie
+contractiele
+cooperative north scandinavian publication enalapril survival study
+coordinating study evaluating outcomes of advising and counseling in heartfailure
+copd met secundaire rechtszijdige belasting
+copd-exacerbatie
+coronair
+coronaire bypass
+coronaire ziekte
+correlatie
+cox' regressieanalyse
+criteriumvaliditeit
+criticalcare-afdelingen
+cross-over onderzoek
+cross-overonderzoek
+cross-sectioneel onderzoek
+crt
+crt-d
+cv aandoeningen
+cv events
+cva's
+cvd's
+cytotoxische
+decapeptide
+derde harttoon
+derdegraads atrioventriculair blok
+derdegraads av-blok
+diabeteszorgprogamma's
+diabetische
+diagnosticeren
+diffuus intrarenale vaatafwijkingen
+diffuus reticulaire versterking van de longvaattekening
+dilatatie van de linker ventrikel
+dilatatie van de lv
+dilatatie van de ventrikel
+dilatatoire
+dilaterende
+dilaterende cardiomyopathie
+disfunctie
+diuretisch
+dm2
+dna-fragmentatie
+dokter
+donoren
+donororganen
+dosisoptitratie
+dosisresponsrelatie
+dossieronderzoek
+doxazosine
+dpp-4
+dpp-4 remmers
+dpp-iv
+dpp-iv-remmers
+dpp4
+dpp4-remming
+dubbelblind
+dubbelblinde
+dutp
+dysfunctie
+dysfunctie van de linker ventrikel
+dyspnée d'effort
+echo
+eerste hulp
+eerstehulpafdeling
+eerstelijnsbehandeling
+effectief circulerend volume
+einddoeltherapiepatiënten
+eindpunten
+eindsystolische linkerventrikeldruk
+ejectiefractie van het linker ventrikel
+elektrische asynchronie
+embolische
+enzymwerking
+epd's
+epidemiologie
+epidemiologisch
+epidemiologische
+epifenomenen
+erfelijke
+esc
+european resuscitation council
+european society of cardiology
+european trial on reduction of cardiac events with perindopril in stable coronary artery disease
+europese sociëteit voor cardiologie
+evaluation of losartan in the elderly
+evidence-based
+exacerberen
+exacerberend
+expressie
+familieanamnese
+farmacodynamische
+farmacogenetisch
+farmacokinetische
+fev 1
+fev1
+fibrinolytische
+fibrose
+fibrose van het myocard
+first dose hypotension
+fluorouracil-prodrugs
+follow-upprogramma's
+functionele klasse
+fysisch-diagnostisch onderzoek
+galwegen
+gecompenseerd hartfalen
+gedaalde ejectiefractie
+gedecompenseerd chronisch hartfalen
+gedecompenseerd hartfalen
+gediagnosticeerd
+gedilateerd
+gelegenheidssteekproef
+geneeskundig
+geneeskundige
+geneesmiddelkosten
+genen
+genetisch
+genetische
+genetische polymorfisme
+genotype
+genotype-onafhankelijke antagonist
+gepreserveerde ejectiefractie
+geprogrammeerde celdood
+geprotocolleerde klinische studies
+gerandomiseerd
+gerandomiseerde
+gereanimeerd
+gestabiliseerd functioneel hartfalen
+gestratificeerd
+gestructureerde telefonische ondersteuning
+gestuwde lever
+gevoelsstoornissen
+gewogen gemiddelde verschil
+gezondheidszorginstanties
+gezondheidszorgsysteem
+gezondheidszorgvoorzieningen
+geïmplanteerd
+geïsoleerd diastolisch hartfalen
+geïsoleerd rechtszijdig hartfalen
+gfr
+glad spierweefsel
+glp-1-analogen
+glucoseverlagende middelen
+gly389-genotype
+grade 1a
+grade 1b
+grade 1c
+grade 2b
+grade 2c
+groningen
+gruppo italiano per lo studio della sopravivenza nell'insufficienza cardiaca
+hart- en vaatziekte
+hart- en vaatziektes
+hartafwijkingen
+harten
+hartfalen algemeen
+hartfalen klasse 2
+hartfalen klasse iii
+hartfalen met een behouden ejectiefractie
+hartfalen met gedaalde ejectiefractie
+hartfalen met gepreserveerde ejectiefractie
+hartfalen met systolische linkerventrikeldisfunctie
+hartfalenonderzoek
+hartfalenpoli's
+hartfalenprogramma's
+hartfalenspreekuur
+hartfalenzorgprogramma's
+hartfalers
+hartpompen
+hartrevalidatieprogramma
+hartziekte
+hartziekten
+heartmate
+hematologische
+hfbef
+hibernatie van het myocard
+hope
+hope-too
+hopetoo
+hormoon
+hospitalisatie
+hospitalisatiefrequentie
+hospitalisaties
+huisartsartspraktijk
+huisartsdiagnose
+huisartsenpraktijk
+huisartsenpraktijken
+huisartsenregistraties
+huisartspraktijk
+hulpverleners
+hulpverlening
+hypertensief
+hypervolemische hyponatriëmie
+hypoperfusie
+hypovolemische hyponatriëmie
+hypoxemische
+icpc
+idiopathische
+idiopathische dilaterende cardiomyopathie
+implantatieprocedure
+implanteerbare automatische defibrillator
+implanteerbare cardioverterende defibrillator
+in-vitro
+in-vitro-opstelling
+incidentie
+infusie
+inhoudsvaliditeit
+inr
+intensieve zorgen
+intensive-careafdeling
+intention to treat
+intermediaire hartas
+internistisch
+intracardiale
+intrarenale
+intrathoracale
+intraveneuze
+intraveneuze bolus
+intraveneuze diuretica
+intraveneuze therapie
+intraventriculaire geleidingstijd
+intrinsieke sympathicomimetische activiteit
+invasief
+invasieve
+invasiviteit
+inverse agonistische werking
+ion-kanalen
+ischaemische
+ischemisch
+k
+kaliumrijk
+kaliumsparende diuretica
+kamer
+kamerfunctie
+kamers
+kamerstimulatie
+kernsymptomen
+kliniek
+klinieken
+klinisch manifest hartfalen
+kortademigheid
+kwaliteit van leven
+lage bloeddruk
+landelijk informatienetwerk huisartsenzorg
+landelijke transmurale afspraak chronische nierschade
+langwerkende nitraten
+letaal
+letale
+levenskwaliteit
+levensverwachting
+leverrand
+leverstuwing
+levervenen
+leverziekten
+linker ventrikel ondersteunende apparaten
+linkerventrikelvolume
+long
+losartangebruikers
+m. sternocleidomastoideus
+matig hartfalen
+maximale zuurstofopnamevermogen
+mechanische linker ventrikel ondersteunende apparaten
+medicamenteuze behandeling
+medicatiestappen
+medicijngebruik
+medicus
+medisch
+metabolieten
+metastasen
+mi
+mild hartfalen
+mitralis
+mortaliteitsafname
+multi-organ failure
+multidisciplinaire ketenzorg
+multivariabele logistische regressie
+multivariabele regressieanalyse
+multivariate regressieanalyse
+myocardiale
+myocardinfarct met st-segmentelevatie
+myocyt
+n-terminaal pro-breinnatriuretisch peptide
+n-terminaal probnp
+na
+naproxen
+national heart, lung, and blood institute
+natriumarme
+natriuretisch
+nederlandse eerstelijns diabetesrichtlijn
+nederlandse hartstichting
+negatief chronotroop geneesmiddel
+negatief inotrope medicatie
+negatief inotrope middelen
+negatief voorspellende waarde
+neuropathie
+new england
+nhg-patiëntenbrieven
+nhg-standaard
+nhg-standaard atriumfibrilleren
+nhg-standaard diabetes mellitus
+nhg-standaard diabetes mellitus type 2
+nhg-standaard hartfalen
+nierarteriestenose
+nierfunctieverlies
+niet-gerandomiseerd
+niet-gerandomiseerde
+niet-ischemische
+no
+non-invasief
+non-occlusieve mesenteriale ischemie
+npv
+nsaid's
+nt-pro-bnp
+nt-probnp-bepaling
+nt-probnp-bepalingen
+nt-probnp-plasmaspiegels
+number needed to harm
+nyha klasse 2
+nyha klasse ii
+nyha-klasse 3
+nyha-klasse ii
+nyha-klasse iv
+obstructieve hartklepaandoeningen
+obstructieve longfunctieafwijkingen
+oedemateuze
+oestrogeenagonistische
+onbloedig
+onbloedige
+onbloedige cvd-metingen
+onderhoudsmedicatie
+onderste longvelden
+one-stop shop
+onstabiele angina
+onstabiele angina pectoris
+ontslagdiagnose
+ontsteking
+operatie
+operaties
+operatieve
+opgetitreerd
+oppervlakte onder de roc-curve
+optitreerfase
+optitreren
+or
+oraal
+orgaan
+organen
+overlijdensrisico
+overvulling
+p
+palliatie
+palliatief
+palpabel
+paradigm-hf
+parasympathische
+parenteraal
+paroxismale nachtelijke dyspneu
+paroxysmale nachtelijke dyspnoe
+pars ascendens aortae
+partiële linker ventriculectomie
+partiële ventriculectomie
+pathogene
+pathognomonische
+pathologie
+pathologieën
+pathologisch
+pathologische q-toppen
+patienten
+patiënt
+patiënte
+patiënten
+patiëntencategorie
+patiëntencategorieën
+patiëntengroep
+patiëntengroepen
+patiëntenvoorlichting
+patiëntenzorg
+peace
+pearson's product moment correlatiecoëfficiënt
+peptide
+percutane
+perfunderen
+perfusiescintigrafie
+perifeer arterieel vaatlijden
+perifeer bloed
+perifeer vaatlijden
+perioperatief
+perioperatieve
+peripartum
+peristaltiek
+placebopillen
+plasma-bnp-concentratie
+plasma-bnp-waarde
+plasmaspiegels
+plotse hartdood
+poliklinieken
+poliklinisch
+poliklinische
+positief inotropicum
+positief voorspellende waarde
+positieve venepols
+postacute
+postoperatief
+precordiale
+prevalentie
+prevalentiecijfers
+prevalentiestijging
+prevention of events with angiotensin converting enzyme inhibition
+prikkelhoest
+primaire eindpunt
+primaire eindpunten
+primaire uitkomsten
+pro-bnp
+probnp
+prognose
+prognostisch
+prognostische
+progressief hartfalen
+progressief rechterventrikelfalen
+proliferatie
+prospectief
+prospectief cohortonderzoek
+prospectief longitudinaal multipel gevalsonderzoek
+prospectieve
+prospectieve cohortonderzoek
+prospectieve onderzoeken
+proto-oncogenen
+psychofarmaca
+ptca
+publicatiebias
+pulmonaal piepen
+pulmonale aandoening
+pulmonale overvulling
+punctum maximum
+qrs-duur
+raas-systeem
+ramus descendens anterior
+randomisatie
+randomiseerden
+randomized assessment of digoxin on inhibitors of the angiotensin converting enzyme
+range
+rattencardiomyocyten
+rct's
+reanimeren
+rechter bundeltakblokpatroon
+rechter vullingsdrukken
+regressiemodel
+relatief risico
+relatieve-risicoreductie
+renaal
+renaal falen
+renale
+resuscitatie
+resynchronisatietherapie
+retentie van water
+retrospectief statusonderzoek
+reumatoïde
+revalidatieprogramma's
+revascularisatie-ingreep
+reversibele luchtwegobstructie
+richtlijn hartrevalidatie 2004
+s3 galop
+samengesteld eindpunt
+samengestelde eindpunt
+savor-timi 53
+segmentale contractie-relaxatiepatronen
+seh
+serumcholesterol
+sglt-2-remmer
+shock
+sick sinus syndrome
+siginficant
+single group measurement design
+slaapapneu
+sodium
+specificiteit
+speckle-tracking echocardiografie
+spier
+spoedeisendehulpafdeling
+spoedopvang
+ssri's
+st-elevaties
+st-segmentdepressie
+st-t-afwijkingen
+stabiel
+staessen
+starttherapie
+stemi
+sterftereductie
+steroïde
+studiepatiënten
+stuwing
+stuwing van de lever
+stuwingsbeeld
+sublinguaal
+sublinguale
+sympathicomimetische
+sympathicus
+sympatholytisch
+symptomatisch
+symptomatisch hartfalen
+symptomatisch systolisch hartfalen
+symptomatische
+symptomatische hypotensie
+symptomatische systemische ventriculaire systolische disfunctie
+symptoom
+syndromen
+systemisch
+systemische
+systolische disfunctie van het linker ventrikel
+systolische ruis
+terminaal
+terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate
+terminale
+tertielwaarde
+the antihypertensive and lipid-lowering treatment to prevent heart attack trial
+therapeuticum
+therapeutisch
+therapieduur
+therapiekeuze
+therapieprotocol
+therapieresistente
+thiazideachtig
+thromboxaan a2
+thuiszorg
+thuiszorgprogramma
+thuiszorgverpleegkundigen
+titratie
+titreer
+titrerend
+torsades de pointes
+treatment of preserved cardiac function heart failure with an aldosterone antagonist trial
+trombi
+trombo-embolische
+trombose
+troponine
+tumorweefsel
+tweezijdig basaal crepiteren
+tweezijdige nierarteriestenose
+uitgangswaarde
+universitair medisch centrum
+v. cava inferior
+vaat-vernauwende
+vaatlijden
+vaatstenoses
+vaatvernauwende
+vaatverwijdende
+vaatziekte
+val-heft
+variantgenen
+vas efferens
+vasculaire
+venen
+veneuze
+veneuze leverstuwing
+veneuze stuwing van de lever
+ventriculaire
+ventriculaire remodelerende chirurgie
+verlaagde ejectiefractie
+verminderde ejectiefractie
+verpleegkundige
+verpleegkundigen
+verplegen
+vetweefsel
+vierde harttoon
+viscerale
+vkorc1
+vo2
+voeding bij hartfalen
+volemische
+voor-achterwaartse thoraxdiameters
+voorgeschiedenis
+vs
+warcef
+warfarin versus aspirin in reduced cardiac ejection fraction
+waterretentie
+waterretinerende neurohormonen
+werkdiagnose
+zieke
+zieken
+ziekenhuismaterialen
+ziekenhuistherapie
+ziekenhuisverplaatsende zorg
+ziekte
+ziekte van alzheimer
+ziektebeeld
+ziektebeelden
+ziektebeloop
+ziektegeschiedenis
+ziektekostenverzekeraar
+ziekten
+ziekteprogressie
+zorgsysteem
+zorgverleners
+zorgvoorzieningen
+ß-receptor
+ß1-receptor
+ß2-receptoren
+α-blokker
+βètablokkers

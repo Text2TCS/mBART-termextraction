@@ -1,0 +1,8 @@
+Term types in fr_comma_fr 
+
+GOLD 
+ ['Common_Term: 487', 'OOD_Term: 57', 'Named_Entity: 146', 'Specific_Term: 1684'] 
+
+TRUE_POS 
+ ['Common_Term: 267', 'OOD_Term: 17', 'Named_Entity: 95', 'Specific_Term: 1013'] 
+
