@@ -4,7 +4,13 @@
 
 This repository contains the scripts used to finetune mBART for the termextraction task on the ACTER dataset (https://github.com/AylaRT/ACTER).
 Additionally, the repository contains folders named "epoch_XX", which contain the output on the test set of the models trained to XX epoch.
-Use the scripts in the repository to recreate these results.
+Epoch_40 and Epoch_80 contain folders out and out_best. out is the output of the model at the maximum epoch; out_best the output of the early-stopped model.
+See exact number of steps per model under "checkpoint_steps" or see logged training progress with 
+```
+tensorboard --logdir ./tensorboard/
+```
+
+Use the scripts in the root of the repository to recreate these results.
 
 
 
