@@ -60,11 +60,12 @@ for language in languages:
         termeval_train_label = [x.replace("\t", " ; ") for x in termeval_train_label]
 
     if acl2_data:
+    	train_src = acl2_train_src + termeval_train_src
+        train_label = acl2_train_label + termeval_train_label
+
+    else:
         train_src = termeval_train_src
         train_label = termeval_train_label
-    else:
-        train_src = acl2_train_src + termeval_train_src
-        train_label = acl2_train_label + termeval_train_label
 
     out_train_src = open(f"{out_dir}/train.src", "w", encoding="utf-8")
     out_train_label = open(f"{out_dir}/train.label", "w", encoding="utf-8")
