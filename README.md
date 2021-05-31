@@ -1,4 +1,4 @@
-# Training mBART for termextraction
+# Training mBART for term extraction
 
 ## Overview
 
