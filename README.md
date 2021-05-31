@@ -102,7 +102,7 @@ ALL | NL | 60.6 | 70.0 | 64.9
 
 ### F1 Scores on ACL RD-TEC 2.0 (60/20/20 split as described in paper; last 20% as Test-set)
 Data Type | Precion | Recall | F1 | 
------------- | ------------- |
+------------ | ------------- |  ------------- |  ------------- |
 Annotator 1 | 73.2 | 77.2 | 75.2 | 
 Annotator 2 | 79.4 | 80.7 | 80.0 |
 
