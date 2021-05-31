@@ -72,7 +72,8 @@ CLI argument 1 defines dataset. Example for the English, semicolon separated dat
 	./spm.sh en_comma
 	```
 03. train.sh Bash script:
-Start training process with Fairseq. Usage: `./train.sh dataset_name` e.g. `./train.sh en_comma`.
+Start training process with Fairseq. 
+* Usage: `./train.sh dataset_name` e.g. `./train.sh en_comma`.
 04. gen.sh or interactive.sh Bash scripts:
 * gen.sh generates terms for all examples in binarized "test" file. 
 	* Usage: `./gen.sh workdir model_name test_name` e.g. `./gen.sh . en_comma fr_comma`
