@@ -75,7 +75,7 @@ CLI argument 1 defines dataset. Example for the English, semicolon separated dat
 Start training process with Fairseq. Usage: `./train.sh dataset_name` e.g. `./train.sh en_comma`.
 04. gen.sh or interactive.sh Bash scripts:
 gen.sh generates terms for all examples in binarized "test" file. Usage: `./gen.sh workdir model_name test_name` e.g. `./gen.sh . en_comma fr_comma`
-interactive.sh can be used interactively to generate terms from raw text input-sentences.
+\ninteractive.sh can be used interactively to generate terms from raw text input-sentences.
 05. termeval_F1.py python script:
 Evaluate F1 score on extracted terms.
 
