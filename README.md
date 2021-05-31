@@ -55,7 +55,7 @@ Put the model files under "./models/mBART.cc25/" or change model location in the
  
 ## Usage of the scripts
 
-The scripts present in the root of this repository are numbered from 00 to 04. 
+The scripts present in the root of this repository are numbered from 00 to 05. 
 The repository comes with the results of scripts 00 and 01 ("termeval" and "preprocessed").
 
 00. ACTER_dataprep.py Python script: 
@@ -78,6 +78,33 @@ gen.sh generates terms for all examples in binarized "test" file.
 interactive.sh can be used interactively to generate terms from raw text input-sentences.
 05. termeval_F1.py python script:
 Evaluate F1 score on extracted terms.
+
+## Results overview
+
+### F1 Scores on ACTER
+
+Training | Test | F1
+------------ | ------------- | -------------|
+EN | EN | 53.2
+FR | EN | 54.2
+NL | EN | 55.2
+ALL | EN | 55.3
+| | | 
+EN | FR | 54.4
+FR | FR | 55.9
+NL | FR | 57.4
+ALL | FR |57.6
+| | | 
+EN | NL | 55.4
+FR | NL | 59.6
+NL | NL | 65.2
+ALL | NL | 64.9
+
+### F1 Scores on ACL RD-TEC 2.0 (60/20/20 split as described in paper; last 20% as Test-set)
+Data Type | F1 | 
+------------ | ------------- |
+Annotator 1 | 75.2 | 
+Annotator 2 | 80.0 |
 
 
 
