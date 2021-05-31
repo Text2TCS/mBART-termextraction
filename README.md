@@ -58,7 +58,7 @@ Put the model files under "./models/mBART.cc25/" or change model location in the
 The scripts present in the root of this repository are numbered from 00 to 05. 
 The repository comes with the results of scripts 00 and 01 ("termeval" and "preprocessed").
 
-00. ACTER_dataprep.py Python script: 
+00. **ACTER_dataprep.py** Python script: 
 Tokenizes and concatenates all files in ACTER per domain and language. Saves results to "termeval" dir in root. Change ACTER variable to point to the ACTER dataset (download here https://github.com/AylaRT/ACTER dataset)
 01. **train_test_split_termeval_revised.py** Python script:
 Creates Train, Val and Test split, saves files to "preprocessed". 
