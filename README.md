@@ -83,28 +83,28 @@ Evaluate F1 score on extracted terms.
 
 ### F1 Scores on ACTER
 
-Training | Test | F1
------------- | ------------- | -------------|
-EN | EN | 53.2
-FR | EN | 54.2
-NL | EN | 55.2
-ALL | EN | 55.3
+Training | Test | Precision | Recall | F1
+------------ | ------------- | -------------| -------------| -------------|
+EN | EN | 45.7 | 63.5 | 53.2
+FR | EN | 50.0 | 59.3 | 54.2
+NL | EN |  48.3 | 64.3 | 55.2
+ALL | EN | 50.2 | 61.6 | 55.3
 | | | 
-EN | FR | 54.4
-FR | FR | 55.9
-NL | FR | 57.4
-ALL | FR |57.6
+EN | FR | 48.8 | 61.3 | 54.4
+FR | FR | 52.7 | 59.6 | 55.9
+NL | FR | 54.3 | 60.9 | 57.4
+ALL | FR | 55.0 | 60.4 | 57.6
 | | | 
-EN | NL | 55.4
-FR | NL | 59.6
-NL | NL | 65.2
-ALL | NL | 64.9
+EN | NL | 48.8 | 63.9 | 55.4
+FR | NL | 56.2 | 63.4 | 59.6
+NL | NL | 60.6 | 70.7 | 65.2
+ALL | NL | 60.6 | 70.0 | 64.9
 
 ### F1 Scores on ACL RD-TEC 2.0 (60/20/20 split as described in paper; last 20% as Test-set)
-Data Type | F1 | 
+Data Type | Precion | Recall | F1 | 
 ------------ | ------------- |
-Annotator 1 | 75.2 | 
-Annotator 2 | 80.0 |
+Annotator 1 | 73.2 | 77.2 | 75.2 | 
+Annotator 2 | 79.4 | 80.7 | 80.0 |
 
 
 
