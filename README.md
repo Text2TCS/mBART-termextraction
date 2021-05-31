@@ -100,7 +100,7 @@ FR | NL | 56.2 | 63.4 | 59.6
 NL | NL | 60.6 | 70.7 | 65.2
 ALL | NL | 60.6 | 70.0 | 64.9
 
-### F1 Scores on ACL RD-TEC 2.0 (60/20/20 split as described in paper; last 20% as Test-set)
+### F1 Scores on ACL RD-TEC 2.0 (60/20/20 split as described in paper)
 Data Type | Precion | Recall | F1 | 
 ------------ | ------------- |  ------------- |  ------------- |
 Annotator 1 | 73.2 | 77.2 | 75.2 | 
