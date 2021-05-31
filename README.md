@@ -66,17 +66,17 @@ Creates Train, Val and Test split, saves files to "preprocessed".
 	2. Label separator can be defined in script. Default: semicolon (comma)
 	3. Language and label separator define dir name: Example en_comma = English data, semicolon separated labels
 02. spm.sh Bash script:
-Create SentencePiece tokenized and binarized files for processing with fairseq. Saves files to "postprocessed".
+Create SentencePiece tokenized and binarized files for processing with fairseq. Saves files to "postprocessed".\
 CLI argument 1 defines dataset. Example for the English, semicolon separated dataset:
 	```
 	./spm.sh en_comma
 	```
 03. train.sh Bash script:
-Start training process with Fairseq. 
+Start training process with Fairseq.\ 
 Usage: `./train.sh dataset_name` e.g. `./train.sh en_comma`.
 04. gen.sh or interactive.sh Bash scripts:
-gen.sh generates terms for all examples in binarized "test" file. 
-Usage: `./gen.sh workdir model_name test_name` e.g. `./gen.sh . en_comma fr_comma`
+gen.sh generates terms for all examples in binarized "test" file.\ 
+Usage: `./gen.sh workdir model_name test_name` e.g. `./gen.sh . en_comma fr_comma`\
 interactive.sh can be used interactively to generate terms from raw text input-sentences.
 05. termeval_F1.py python script:
 Evaluate F1 score on extracted terms.
