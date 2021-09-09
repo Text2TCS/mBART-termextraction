@@ -1,5 +1,8 @@
 # Training mBART for term extraction
 
+## Reference
+Lang, C., Wachowiak, L., Heinisch, B., & Gromann, D. Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains. [(PDF)](https://aclanthology.org/2021.findings-acl.316.pdf)
+
 ## Overview
 
 This repository contains the scripts used to finetune mBART for the termextraction task on the ACTER dataset (https://github.com/AylaRT/ACTER).
