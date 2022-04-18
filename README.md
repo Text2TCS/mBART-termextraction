@@ -1,7 +1,9 @@
 # Training mBART for term extraction
 
 ## Reference
-Lang, C., Wachowiak, L., Heinisch, B., & Gromann, D. Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains. [(PDF)](https://aclanthology.org/2021.findings-acl.316.pdf)
+Lang, C., Wachowiak, L., Heinisch, B., & Gromann, D. Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains. 
+- [PDF](https://aclanthology.org/2021.findings-acl.316.pdf)
+- [Video Presentation](https://www.youtube.com/watch?v=JuBHSfFquCU)
 
 ## Overview
 
